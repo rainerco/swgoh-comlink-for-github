@@ -2,7 +2,7 @@
  This repo is used to get data from SWGoH Comlink and store it on GitHub so it can be used with Google Sheets.
 
  Step 1
- Go to GitHub and [https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home](Signup for an account).
+ Go to GitHub and [https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home](Signup for an account). Fork this repo.
 
  Step 2
  Download and install [https://desktop.github.com/](GitHub Desktop) for your computer.

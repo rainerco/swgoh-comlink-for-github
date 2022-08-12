@@ -1,0 +1,7238 @@
+[
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase01_conflict01",
+    "unit_type": "character",
+    "area_pos": "NA",
+    "image": "Territory Battle-Rebel Assault Platoon-Z1T",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "MACEWINDU",
+      "ANAKINKNIGHT",
+      "JEDIKNIGHTGUARDIAN",
+      "AHSOKATANO",
+      "BARRISSOFFEE"
+    ],
+    "platoon_1_row_2": [
+      "PRINCESSLEIA",
+      "LUKESKYWALKER",
+      "LOBOT",
+      "STORMTROOPERHAN",
+      "ADMINISTRATORLANDO"
+    ],
+    "platoon_1_row_3": [
+      "FINN",
+      "POE",
+      "REY",
+      "RESISTANCETROOPER",
+      "RESISTANCEPILOT"
+    ],
+    "platoon_2_row_1": [
+      "JEDIKNIGHTCONSULAR",
+      "IMAGUNDI",
+      "OLDBENKENOBI",
+      "QUIGONJINN",
+      "PLOKOON"
+    ],
+    "platoon_2_row_2": [
+      "PRINCESSLEIA",
+      "HOTHREBELSCOUT",
+      "STORMTROOPERHAN",
+      "ADMIRALACKBAR",
+      "HOTHREBELSOLDIER"
+    ],
+    "platoon_2_row_3": [
+      "CHIEFNEBIT",
+      "DATHCHA",
+      "JAWA",
+      "JAWAENGINEER",
+      "JAWASCAVENGER"
+    ],
+    "platoon_3_row_1": [
+      "KITFISTO",
+      "JEDIKNIGHTCONSULAR",
+      "LUMINARAUNDULI",
+      "ADMIRALACKBAR",
+      "PAO"
+    ],
+    "platoon_3_row_2": [
+      "WEDGEANTILLES",
+      "BIGGSDARKLIGHTER",
+      "HOTHREBELSCOUT",
+      "FULCRUMAHSOKA",
+      "BISTAN"
+    ],
+    "platoon_3_row_3": [
+      "CHIEFCHIRPA",
+      "EWOKELDER",
+      "EWOKSCOUT",
+      "TEEBO",
+      "PAPLOO"
+    ],
+    "platoon_4_row_1": [
+      "IMAGUNDI",
+      "JEDIKNIGHTCONSULAR",
+      "OLDBENKENOBI",
+      "QUIGONJINN",
+      "PLOKOON"
+    ],
+    "platoon_4_row_2": [
+      "JYNERSO",
+      "CASSIANANDOR",
+      "BAZEMALBUS",
+      "CHIRRUTIMWE",
+      "K2SO"
+    ],
+    "platoon_4_row_3": [
+      "CLONEWARSCHEWBACCA",
+      "CORUSCANTUNDERWORLDPOLICE",
+      "CLONESERGEANTPHASEI",
+      "ANAKINKNIGHT",
+      "AHSOKATANO"
+    ],
+    "platoon_5_row_1": [
+      "HOTHREBELSOLDIER",
+      "JEDIKNIGHTCONSULAR",
+      "AHSOKATANO",
+      "AAYLASECURA",
+      "MACEWINDU"
+    ],
+    "platoon_5_row_2": [
+      "BODHIROOK",
+      "PAO",
+      "BISTAN",
+      "CASSIANANDOR",
+      "K2SO"
+    ],
+    "platoon_5_row_3": [
+      "TEEBO",
+      "EWOKSCOUT",
+      "PAPLOO",
+      "LOGRAY",
+      "EWOKELDER"
+    ],
+    "platoon_6_row_1": [
+      "MACEWINDU",
+      "ANAKINKNIGHT",
+      "JEDIKNIGHTGUARDIAN",
+      "EETHKOTH",
+      "BARRISSOFFEE"
+    ],
+    "platoon_6_row_2": [
+      "JYNERSO",
+      "BODHIROOK",
+      "PAO",
+      "BISTAN",
+      "SCARIFREBEL"
+    ],
+    "platoon_6_row_3": [
+      "CC2224",
+      "CT210408",
+      "CT5555",
+      "CLONESERGEANTPHASEI",
+      "CT7567"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase02_conflict01",
+    "unit_type": "character",
+    "area_pos": "Top",
+    "image": "Territory Battle-Rebel Assault Platoon-Z2T",
+    "ability_name": "Ion Cannon Blast",
+    "platoon_1_row_1": [
+      "HOTHREBELSCOUT",
+      "JEDIKNIGHTCONSULAR",
+      "OLDBENKENOBI",
+      "PRINCESSLEIA",
+      "PLOKOON"
+    ],
+    "platoon_1_row_2": [
+      "WEDGEANTILLES",
+      "BIGGSDARKLIGHTER",
+      "CHOPPERS3",
+      "FULCRUMAHSOKA",
+      "OLDBENKENOBI"
+    ],
+    "platoon_1_row_3": [
+      "TEEBO",
+      "EWOKSCOUT",
+      "PAPLOO",
+      "CHIEFCHIRPA",
+      "EWOKELDER"
+    ],
+    "platoon_2_row_1": [
+      "MACEWINDU",
+      "ANAKINKNIGHT",
+      "JEDIKNIGHTGUARDIAN",
+      "EETHKOTH",
+      "BARRISSOFFEE"
+    ],
+    "platoon_2_row_2": [
+      "WEDGEANTILLES",
+      "BIGGSDARKLIGHTER",
+      "LUKESKYWALKER",
+      "PRINCESSLEIA",
+      "ADMINISTRATORLANDO"
+    ],
+    "platoon_2_row_3": [
+      "CLONEWARSCHEWBACCA",
+      "KITFISTO",
+      "CLONESERGEANTPHASEI",
+      "ANAKINKNIGHT",
+      "AHSOKATANO"
+    ],
+    "platoon_3_row_1": [
+      "FINN",
+      "POE",
+      "REY",
+      "ADMIRALACKBAR",
+      "AHSOKATANO"
+    ],
+    "platoon_3_row_2": [
+      "HERASYNDULLAS3",
+      "KANANJARRUSS3",
+      "ZEBS3",
+      "EZRABRIDGERS3",
+      "CHOPPERS3"
+    ],
+    "platoon_3_row_3": [
+      "CHIEFCHIRPA",
+      "EWOKELDER",
+      "EWOKSCOUT",
+      "TEEBO",
+      "PAPLOO"
+    ],
+    "platoon_4_row_1": [
+      "MACEWINDU",
+      "ADMIRALACKBAR",
+      "JEDIKNIGHTGUARDIAN",
+      "LUMINARAUNDULI",
+      "BARRISSOFFEE"
+    ],
+    "platoon_4_row_2": [
+      "HERASYNDULLAS3",
+      "KANANJARRUSS3",
+      "CHOPPERS3",
+      "EZRABRIDGERS3",
+      "SABINEWRENS3"
+    ],
+    "platoon_4_row_3": [
+      "CHIEFNEBIT",
+      "DATHCHA",
+      "JAWA",
+      "JAWAENGINEER",
+      "JAWASCAVENGER"
+    ],
+    "platoon_5_row_1": [
+      "KITFISTO",
+      "LUMINARAUNDULI",
+      "QUIGONJINN",
+      "IMAGUNDI",
+      "AHSOKATANO"
+    ],
+    "platoon_5_row_2": [
+      "WEDGEANTILLES",
+      "BIGGSDARKLIGHTER",
+      "ZEBS3",
+      "FULCRUMAHSOKA",
+      "LUKESKYWALKER"
+    ],
+    "platoon_5_row_3": [
+      "CC2224",
+      "CT210408",
+      "CT5555",
+      "CLONESERGEANTPHASEI",
+      "CT7567"
+    ],
+    "platoon_6_row_1": [
+      "IMAGUNDI",
+      "JEDIKNIGHTCONSULAR",
+      "OLDBENKENOBI",
+      "QUIGONJINN",
+      "PLOKOON"
+    ],
+    "platoon_6_row_2": [
+      "HERASYNDULLAS3",
+      "KANANJARRUSS3",
+      "ZEBS3",
+      "EZRABRIDGERS3",
+      "SABINEWRENS3"
+    ],
+    "platoon_6_row_3": [
+      "FINN",
+      "POE",
+      "REY",
+      "RESISTANCETROOPER",
+      "RESISTANCEPILOT"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase02_conflict02",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Rebel Assault Platoon-Z2B",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "MACEWINDU",
+      "JEDIKNIGHTCONSULAR",
+      "OLDBENKENOBI",
+      "QUIGONJINN",
+      "PLOKOON"
+    ],
+    "platoon_1_row_2": [
+      "HERASYNDULLAS3",
+      "KANANJARRUSS3",
+      "ZEBS3",
+      "EZRABRIDGERS3",
+      "SABINEWRENS3"
+    ],
+    "platoon_1_row_3": [
+      "FINN",
+      "POE",
+      "REY",
+      "RESISTANCETROOPER",
+      "RESISTANCEPILOT"
+    ],
+    "platoon_2_row_1": [
+      "MACEWINDU",
+      "ANAKINKNIGHT",
+      "JEDIKNIGHTGUARDIAN",
+      "AAYLASECURA",
+      "BARRISSOFFEE"
+    ],
+    "platoon_2_row_2": [
+      "HERASYNDULLAS3",
+      "KANANJARRUSS3",
+      "CHOPPERS3",
+      "EZRABRIDGERS3",
+      "SABINEWRENS3"
+    ],
+    "platoon_2_row_3": [
+      "CHIEFNEBIT",
+      "DATHCHA",
+      "JAWA",
+      "JAWAENGINEER",
+      "JAWASCAVENGER"
+    ],
+    "platoon_3_row_1": [
+      "IMAGUNDI",
+      "JEDIKNIGHTCONSULAR",
+      "OLDBENKENOBI",
+      "QUIGONJINN",
+      "PLOKOON"
+    ],
+    "platoon_3_row_2": [
+      "PRINCESSLEIA",
+      "ADMINISTRATORLANDO",
+      "LUKESKYWALKER",
+      "STORMTROOPERHAN",
+      "ADMIRALACKBAR"
+    ],
+    "platoon_3_row_3": [
+      "TEEBO",
+      "EWOKSCOUT",
+      "PAPLOO",
+      "CHIEFCHIRPA",
+      "EWOKELDER"
+    ],
+    "platoon_4_row_1": [
+      "HOTHREBELSCOUT",
+      "ADMIRALACKBAR",
+      "PRINCESSLEIA",
+      "BIGGSDARKLIGHTER",
+      "FULCRUMAHSOKA"
+    ],
+    "platoon_4_row_2": [
+      "WEDGEANTILLES",
+      "BIGGSDARKLIGHTER",
+      "LOBOT",
+      "UGNAUGHT",
+      "ADMINISTRATORLANDO"
+    ],
+    "platoon_4_row_3": [
+      "CC2224",
+      "CT210408",
+      "CT5555",
+      "CLONESERGEANTPHASEI",
+      "CT7567"
+    ],
+    "platoon_5_row_1": [
+      "SABINEWRENS3",
+      "CHOPPERS3",
+      "ZEBS3",
+      "HOTHREBELSCOUT",
+      "AHSOKATANO"
+    ],
+    "platoon_5_row_2": [
+      "PRINCESSLEIA",
+      "LOBOT",
+      "LUKESKYWALKER",
+      "STORMTROOPERHAN",
+      "ADMIRALACKBAR"
+    ],
+    "platoon_5_row_3": [
+      "CHIEFCHIRPA",
+      "EWOKELDER",
+      "EWOKSCOUT",
+      "TEEBO",
+      "PAPLOO"
+    ],
+    "platoon_6_row_1": [
+      "MACEWINDU",
+      "ANAKINKNIGHT",
+      "JEDIKNIGHTGUARDIAN",
+      "AAYLASECURA",
+      "BARRISSOFFEE"
+    ],
+    "platoon_6_row_2": [
+      "WEDGEANTILLES",
+      "PRINCESSLEIA",
+      "LOBOT",
+      "HOTHREBELSCOUT",
+      "ADMINISTRATORLANDO"
+    ],
+    "platoon_6_row_3": [
+      "CLONEWARSCHEWBACCA",
+      "CORUSCANTUNDERWORLDPOLICE",
+      "CLONESERGEANTPHASEI",
+      "ANAKINKNIGHT",
+      "AHSOKATANO"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase03_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Rebel Assault Platoon-Z3T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERIMPERIAL",
+      "SITHINFILTRATOR",
+      "SLAVE1",
+      "PHANTOM2"
+    ],
+    "platoon_1_row_2": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "PHANTOM2"
+    ],
+    "platoon_1_row_3": [
+      "ARC170CLONESERGEANT",
+      "UWINGSCARIF",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_2_row_1": [
+      "ARC170CLONESERGEANT",
+      "JEDISTARFIGHTERAHSOKATANO",
+      "PHANTOM2",
+      "BLADEOFDORIN",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_2_row_2": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERIMPERIAL",
+      "SLAVE1",
+      "TIEADVANCED",
+      "TIESILENCER"
+    ],
+    "platoon_2_row_3": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "BLADEOFDORIN",
+      "GHOST",
+      "TIESILENCER"
+    ],
+    "platoon_3_row_1": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_3_row_2": [
+      "HOUNDSTOOTH",
+      "PHANTOM2",
+      "TIEFIGHTERIMPERIAL",
+      "GAUNTLETSTARFIGHTER",
+      "TIEFIGHTERFIRSTORDER"
+    ],
+    "platoon_3_row_3": [
+      "SITHINFILTRATOR",
+      "TIEFIGHTERIMPERIAL",
+      "TIEADVANCED",
+      "TIESILENCER",
+      "SLAVE1"
+    ],
+    "platoon_4_row_1": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_4_row_2": [
+      "XWINGRED3",
+      "GAUNTLETSTARFIGHTER",
+      "GEONOSIANSTARFIGHTER2",
+      "GEONOSIANSTARFIGHTER1",
+      "SLAVE1"
+    ],
+    "platoon_4_row_3": [
+      "MILLENNIUMFALCONPRISTINE",
+      "GHOST",
+      "TIEFIGHTERIMPERIAL",
+      "SLAVE1",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_5_row_1": [
+      "UWINGROGUEONE",
+      "GHOST",
+      "GEONOSIANSTARFIGHTER3",
+      "XWINGBLACKONE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_5_row_2": [
+      "SLAVE1",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170CLONESERGEANT",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_5_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "BLADEOFDORIN",
+      "ARC170CLONESERGEANT",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_6_row_1": [
+      "GHOST",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "PHANTOM2",
+      "TIEFIGHTERIMPERIAL"
+    ],
+    "platoon_6_row_2": [
+      "HOUNDSTOOTH",
+      "UWINGSCARIF",
+      "SLAVE1",
+      "UWINGROGUEONE",
+      "EBONHAWK"
+    ],
+    "platoon_6_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "UMBARANSTARFIGHTER",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase03_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Rebel Assault Platoon-Z3M",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "MACEWINDU",
+      "ANAKINKNIGHT",
+      "JEDIKNIGHTGUARDIAN",
+      "LUMINARAUNDULI",
+      "AHSOKATANO"
+    ],
+    "platoon_1_row_2": [
+      "WEDGEANTILLES",
+      "BIGGSDARKLIGHTER",
+      "LOBOT",
+      "FULCRUMAHSOKA",
+      "ADMINISTRATORLANDO"
+    ],
+    "platoon_1_row_3": [
+      "TEEBO",
+      "EWOKSCOUT",
+      "PAPLOO",
+      "LOGRAY",
+      "EWOKELDER"
+    ],
+    "platoon_2_row_1": [
+      "MACEWINDU",
+      "ANAKINKNIGHT",
+      "JEDIKNIGHTGUARDIAN",
+      "LUMINARAUNDULI",
+      "BARRISSOFFEE"
+    ],
+    "platoon_2_row_2": [
+      "HERASYNDULLAS3",
+      "KANANJARRUSS3",
+      "ZEBS3",
+      "EZRABRIDGERS3",
+      "SABINEWRENS3"
+    ],
+    "platoon_2_row_3": [
+      "CLONEWARSCHEWBACCA",
+      "CORUSCANTUNDERWORLDPOLICE",
+      "CLONESERGEANTPHASEI",
+      "ANAKINKNIGHT",
+      "AHSOKATANO"
+    ],
+    "platoon_3_row_1": [
+      "GRANDMASTERYODA",
+      "MACEWINDU",
+      "LUMINARAUNDULI",
+      "IMAGUNDI",
+      "PLOKOON"
+    ],
+    "platoon_3_row_2": [
+      "LUKESKYWALKER",
+      "OLDBENKENOBI",
+      "ADMINISTRATORLANDO",
+      "HERASYNDULLAS3",
+      "PRINCESSLEIA"
+    ],
+    "platoon_3_row_3": [
+      "FINN",
+      "POE",
+      "REY",
+      "RESISTANCETROOPER",
+      "RESISTANCEPILOT"
+    ],
+    "platoon_4_row_1": [
+      "GRANDMASTERYODA",
+      "AAYLASECURA",
+      "QUIGONJINN",
+      "LUMINARAUNDULI",
+      "ANAKINKNIGHT"
+    ],
+    "platoon_4_row_2": [
+      "ADMIRALACKBAR",
+      "BIGGSDARKLIGHTER",
+      "STORMTROOPERHAN",
+      "SABINEWRENS3",
+      "LUKESKYWALKER"
+    ],
+    "platoon_4_row_3": [
+      "CHIEFCHIRPA",
+      "EWOKELDER",
+      "EWOKSCOUT",
+      "TEEBO",
+      "PAPLOO"
+    ],
+    "platoon_5_row_1": [
+      "PAO",
+      "IMAGUNDI",
+      "JEDIKNIGHTCONSULAR",
+      "QUIGONJINN",
+      "OLDBENKENOBI"
+    ],
+    "platoon_5_row_2": [
+      "JYNERSO",
+      "CASSIANANDOR",
+      "BAZEMALBUS",
+      "CHIRRUTIMWE",
+      "K2SO"
+    ],
+    "platoon_5_row_3": [
+      "PLOKOON",
+      "CC2224",
+      "CT210408",
+      "CT5555",
+      "CLONESERGEANTPHASEI"
+    ],
+    "platoon_6_row_1": [
+      "KITFISTO",
+      "BARRISSOFFEE",
+      "KANANJARRUSS3",
+      "EETHKOTH",
+      "AHSOKATANO"
+    ],
+    "platoon_6_row_2": [
+      "JYNERSO",
+      "BODHIROOK",
+      "PAO",
+      "BISTAN",
+      "SCARIFREBEL"
+    ],
+    "platoon_6_row_3": [
+      "CHIEFNEBIT",
+      "DATHCHA",
+      "JAWA",
+      "JAWAENGINEER",
+      "JAWASCAVENGER"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase03_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Rebel Assault Platoon-Z3B",
+    "ability_name": "Power Generator",
+    "platoon_1_row_1": [
+      "GRANDMASTERYODA",
+      "MACEWINDU",
+      "LUMINARAUNDULI",
+      "IMAGUNDI",
+      "PLOKOON"
+    ],
+    "platoon_1_row_2": [
+      "LUKESKYWALKER",
+      "OLDBENKENOBI",
+      "STORMTROOPERHAN",
+      "ADMIRALACKBAR",
+      "PRINCESSLEIA"
+    ],
+    "platoon_1_row_3": [
+      "CLONEWARSCHEWBACCA",
+      "CORUSCANTUNDERWORLDPOLICE",
+      "CLONESERGEANTPHASEI",
+      "ANAKINKNIGHT",
+      "AHSOKATANO"
+    ],
+    "platoon_2_row_1": [
+      "CHOPPERS3",
+      "EZRABRIDGERS3",
+      "FULCRUMAHSOKA",
+      "WEDGEANTILLES",
+      "ZEBS3"
+    ],
+    "platoon_2_row_2": [
+      "PRINCESSLEIA",
+      "LOBOT",
+      "FULCRUMAHSOKA",
+      "STORMTROOPERHAN",
+      "ADMIRALACKBAR"
+    ],
+    "platoon_2_row_3": [
+      "CC2224",
+      "CT210408",
+      "CT5555",
+      "CLONESERGEANTPHASEI",
+      "CT7567"
+    ],
+    "platoon_3_row_1": [
+      "KITFISTO",
+      "EETHKOTH",
+      "OLDBENKENOBI",
+      "QUIGONJINN",
+      "AHSOKATANO"
+    ],
+    "platoon_3_row_2": [
+      "HERASYNDULLAS3",
+      "KANANJARRUSS3",
+      "CHOPPERS3",
+      "EZRABRIDGERS3",
+      "SABINEWRENS3"
+    ],
+    "platoon_3_row_3": [
+      "CHIEFNEBIT",
+      "DATHCHA",
+      "JAWA",
+      "JAWAENGINEER",
+      "JAWASCAVENGER"
+    ],
+    "platoon_4_row_1": [
+      "IMAGUNDI",
+      "JEDIKNIGHTCONSULAR",
+      "EETHKOTH",
+      "OLDBENKENOBI",
+      "PLOKOON"
+    ],
+    "platoon_4_row_2": [
+      "BODHIROOK",
+      "PAO",
+      "BISTAN",
+      "CASSIANANDOR",
+      "K2SO"
+    ],
+    "platoon_4_row_3": [
+      "FINN",
+      "POE",
+      "REY",
+      "RESISTANCETROOPER",
+      "RESISTANCEPILOT"
+    ],
+    "platoon_5_row_1": [
+      "MACEWINDU",
+      "ANAKINKNIGHT",
+      "JEDIKNIGHTGUARDIAN",
+      "AAYLASECURA",
+      "BARRISSOFFEE"
+    ],
+    "platoon_5_row_2": [
+      "JYNERSO",
+      "CASSIANANDOR",
+      "BAZEMALBUS",
+      "CHIRRUTIMWE",
+      "K2SO"
+    ],
+    "platoon_5_row_3": [
+      "CHIEFCHIRPA",
+      "EWOKELDER",
+      "EWOKSCOUT",
+      "TEEBO",
+      "PAPLOO"
+    ],
+    "platoon_6_row_1": [
+      "GRANDMASTERYODA",
+      "AAYLASECURA",
+      "QUIGONJINN",
+      "KITFISTO",
+      "ANAKINKNIGHT"
+    ],
+    "platoon_6_row_2": [
+      "CHOPPERS3",
+      "WEDGEANTILLES",
+      "BIGGSDARKLIGHTER",
+      "ZEBS3",
+      "LUKESKYWALKER"
+    ],
+    "platoon_6_row_3": [
+      "TEEBO",
+      "EWOKSCOUT",
+      "PAPLOO",
+      "LOGRAY",
+      "EWOKELDER"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase04_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Rebel Assault Platoon-Z4T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERIMPERIAL",
+      "TIEREAPER",
+      "TIEADVANCED",
+      "TIESILENCER"
+    ],
+    "platoon_1_row_2": [
+      "MILLENNIUMFALCONPRISTINE",
+      "GHOST",
+      "TIEFIGHTERIMPERIAL",
+      "SLAVE1",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_1_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX"
+    ],
+    "platoon_2_row_1": [
+      "XWINGRED3",
+      "MILLENNIUMFALCONEP7",
+      "GEONOSIANSTARFIGHTER2",
+      "GEONOSIANSTARFIGHTER1",
+      "SLAVE1"
+    ],
+    "platoon_2_row_2": [
+      "SITHINFILTRATOR",
+      "TIEFIGHTERIMPERIAL",
+      "TIEADVANCED",
+      "GEONOSIANSTARFIGHTER3",
+      "SLAVE1"
+    ],
+    "platoon_2_row_3": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_3_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN"
+    ],
+    "platoon_3_row_2": [
+      "GHOST",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "PHANTOM2",
+      "TIEFIGHTERIMPERIAL"
+    ],
+    "platoon_3_row_3": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_4_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "BLADEOFDORIN",
+      "GHOST",
+      "TIESILENCER"
+    ],
+    "platoon_4_row_2": [
+      "UWINGROGUEONE",
+      "GHOST",
+      "GEONOSIANSTARFIGHTER3",
+      "XWINGBLACKONE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_4_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "BLADEOFDORIN",
+      "ARC170CLONESERGEANT",
+      "ARC170REX"
+    ],
+    "platoon_5_row_1": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "MILLENNIUMFALCONEP7",
+      "SLAVE1",
+      "XANADUBLOOD"
+    ],
+    "platoon_5_row_2": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_5_row_3": [
+      "SLAVE1",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170REX",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_6_row_1": [
+      "HOUNDSTOOTH",
+      "PHANTOM2",
+      "COMMANDSHUTTLE",
+      "GAUNTLETSTARFIGHTER",
+      "UWINGROGUEONE"
+    ],
+    "platoon_6_row_2": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "SLAVE1",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_6_row_3": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "PHANTOM2",
+      "BLADEOFDORIN",
+      "UMBARANSTARFIGHTER"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase04_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Rebel Assault Platoon-Z4M",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "STORMTROOPERHAN",
+      "LUKESKYWALKER",
+      "ENFYSNEST",
+      "PRINCESSLEIA",
+      "OLDBENKENOBI"
+    ],
+    "platoon_1_row_2": [
+      "QUIGONJINN",
+      "MACEWINDU",
+      "PLOKOON",
+      "CLONEWARSCHEWBACCA",
+      "BARRISSOFFEE"
+    ],
+    "platoon_1_row_3": [
+      "ADMIRALACKBAR",
+      "BIGGSDARKLIGHTER",
+      "STORMTROOPERHAN",
+      "ZEBS3",
+      "PRINCESSLEIA"
+    ],
+    "platoon_2_row_1": [
+      "JEDIKNIGHTGUARDIAN",
+      "CLONESERGEANTPHASEI",
+      "AHSOKATANO",
+      "CT5555",
+      "MACEWINDU"
+    ],
+    "platoon_2_row_2": [
+      "SABINEWRENS3",
+      "OLDBENKENOBI",
+      "CHIRRUTIMWE",
+      "BAZEMALBUS",
+      "LUKESKYWALKER"
+    ],
+    "platoon_2_row_3": [
+      "CT7567",
+      "CT210408",
+      "CC2224",
+      "KANANJARRUSS3",
+      "CHIEFNEBIT"
+    ],
+    "platoon_3_row_1": [
+      "ANAKINKNIGHT",
+      "CT210408",
+      "JEDIKNIGHTCONSULAR",
+      "LUMINARAUNDULI",
+      "CC2224"
+    ],
+    "platoon_3_row_2": [
+      "ADMINISTRATORLANDO",
+      "CHOPPERS3",
+      "ADMIRALACKBAR",
+      "BIGGSDARKLIGHTER",
+      "LUKESKYWALKER"
+    ],
+    "platoon_3_row_3": [
+      "REY",
+      "JAWA",
+      "JAWAENGINEER",
+      "JAWASCAVENGER",
+      "WICKET"
+    ],
+    "platoon_4_row_1": [
+      "SMUGGLERCHEWBACCA",
+      "SMUGGLERHAN",
+      "POE",
+      "RESISTANCEPILOT",
+      "FINN"
+    ],
+    "platoon_4_row_2": [
+      "EZRABRIDGERS3",
+      "BISTAN",
+      "BODHIROOK",
+      "WEDGEANTILLES",
+      "HERASYNDULLAS3"
+    ],
+    "platoon_4_row_3": [
+      "CASSIANANDOR",
+      "K2SO",
+      "PAO",
+      "BISTAN",
+      "CHOPPERS3"
+    ],
+    "platoon_5_row_1": [
+      "CASSIANANDOR",
+      "K2SO",
+      "CHIRRUTIMWE",
+      "BAZEMALBUS",
+      "JYNERSO"
+    ],
+    "platoon_5_row_2": [
+      "CHIEFCHIRPA",
+      "EWOKELDER",
+      "TEEBO",
+      "EWOKSCOUT",
+      "WICKET"
+    ],
+    "platoon_5_row_3": [
+      "ADMIRALACKBAR",
+      "OLDBENKENOBI",
+      "JAWAENGINEER",
+      "PRINCESSLEIA",
+      "WEDGEANTILLES"
+    ],
+    "platoon_6_row_1": [
+      "YOUNGHAN",
+      "QIRA",
+      "YOUNGCHEWBACCA",
+      "ENFYSNEST",
+      "YOUNGLANDO"
+    ],
+    "platoon_6_row_2": [
+      "REY",
+      "RESISTANCEPILOT",
+      "POE",
+      "QUIGONJINN",
+      "L3_37"
+    ],
+    "platoon_6_row_3": [
+      "JYNERSO",
+      "SCARIFREBEL",
+      "WEDGEANTILLES",
+      "JAWASCAVENGER",
+      "HOTHHAN"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase04_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Rebel Assault Platoon-Z4B",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "ADMINISTRATORLANDO",
+      "STORMTROOPERHAN",
+      "ADMIRALACKBAR",
+      "FULCRUMAHSOKA",
+      "LUKESKYWALKER"
+    ],
+    "platoon_1_row_2": [
+      "AHSOKATANO",
+      "ANAKINKNIGHT",
+      "AAYLASECURA",
+      "CT5555",
+      "LUMINARAUNDULI"
+    ],
+    "platoon_1_row_3": [
+      "STORMTROOPERHAN",
+      "WEDGEANTILLES",
+      "BIGGSDARKLIGHTER",
+      "ADMINISTRATORLANDO",
+      "PRINCESSLEIA"
+    ],
+    "platoon_2_row_1": [
+      "ANAKINKNIGHT",
+      "CLONEWARSCHEWBACCA",
+      "QUIGONJINN",
+      "LUMINARAUNDULI",
+      "JEDIKNIGHTCONSULAR"
+    ],
+    "platoon_2_row_2": [
+      "HERASYNDULLAS3",
+      "STORMTROOPERHAN",
+      "PRINCESSLEIA",
+      "SCARIFREBEL",
+      "BIGGSDARKLIGHTER"
+    ],
+    "platoon_2_row_3": [
+      "REY",
+      "FINN",
+      "RESISTANCEPILOT",
+      "RESISTANCETROOPER",
+      "SMUGGLERCHEWBACCA"
+    ],
+    "platoon_3_row_1": [
+      "CHIEFCHIRPA",
+      "EWOKELDER",
+      "EWOKSCOUT",
+      "PAPLOO",
+      "LOGRAY"
+    ],
+    "platoon_3_row_2": [
+      "AHSOKATANO",
+      "ANAKINKNIGHT",
+      "QUIGONJINN",
+      "MACEWINDU",
+      "LUMINARAUNDULI"
+    ],
+    "platoon_3_row_3": [
+      "BARRISSOFFEE",
+      "CLONESERGEANTPHASEI",
+      "AAYLASECURA",
+      "PLOKOON",
+      "JEDIKNIGHTCONSULAR"
+    ],
+    "platoon_4_row_1": [
+      "SABINEWRENS3",
+      "KANANJARRUSS3",
+      "EZRABRIDGERS3",
+      "ZEBS3",
+      "OLDBENKENOBI"
+    ],
+    "platoon_4_row_2": [
+      "TEEBO",
+      "WICKET",
+      "EWOKSCOUT",
+      "LOGRAY",
+      "PAPLOO"
+    ],
+    "platoon_4_row_3": [
+      "JEDIKNIGHTCONSULAR",
+      "BARRISSOFFEE",
+      "JEDIKNIGHTGUARDIAN",
+      "QUIGONJINN",
+      "CORUSCANTUNDERWORLDPOLICE"
+    ],
+    "platoon_5_row_1": [
+      "AHSOKATANO",
+      "ANAKINKNIGHT",
+      "CT7567",
+      "MACEWINDU",
+      "PLOKOON"
+    ],
+    "platoon_5_row_2": [
+      "ADMINISTRATORLANDO",
+      "LUKESKYWALKER",
+      "BIGGSDARKLIGHTER",
+      "WEDGEANTILLES",
+      "UGNAUGHT"
+    ],
+    "platoon_5_row_3": [
+      "SMUGGLERHAN",
+      "SMUGGLERCHEWBACCA",
+      "AMILYNHOLDO",
+      "RESISTANCETROOPER",
+      "POE"
+    ],
+    "platoon_6_row_1": [
+      "ROSETICO",
+      "POE",
+      "RESISTANCEPILOT",
+      "REY",
+      "SMUGGLERHAN"
+    ],
+    "platoon_6_row_2": [
+      "YOUNGHAN",
+      "YOUNGLANDO",
+      "YOUNGCHEWBACCA",
+      "QIRA",
+      "L3_37"
+    ],
+    "platoon_6_row_3": [
+      "CHIEFCHIRPA",
+      "LOGRAY",
+      "PAPLOO",
+      "EWOKELDER",
+      "TEEBO"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase05_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Rebel Assault Platoon-Z5T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "PHANTOM2",
+      "BLADEOFDORIN",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_1_row_2": [
+      "GHOST",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "PHANTOM2",
+      "TIEFIGHTERIMPERIAL"
+    ],
+    "platoon_1_row_3": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERIMPERIAL",
+      "GEONOSIANSTARFIGHTER2",
+      "TIEADVANCED",
+      "TIEFIGHTERFOSF"
+    ],
+    "platoon_2_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "MILLENNIUMFALCON",
+      "GHOST",
+      "TIESILENCER"
+    ],
+    "platoon_2_row_2": [
+      "UWINGROGUEONE",
+      "GHOST",
+      "GEONOSIANSTARFIGHTER3",
+      "XWINGBLACKONE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_2_row_3": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_3_row_1": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_3_row_2": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "SLAVE1",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_3_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN"
+    ],
+    "platoon_4_row_1": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "MILLENNIUMFALCONEP7",
+      "SLAVE1",
+      "XANADUBLOOD"
+    ],
+    "platoon_4_row_2": [
+      "MILLENNIUMFALCONPRISTINE",
+      "GHOST",
+      "TIEFIGHTERIMPERIAL",
+      "SLAVE1",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_4_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERANAKIN",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX"
+    ],
+    "platoon_5_row_1": [
+      "XWINGRED3",
+      "MILLENNIUMFALCONEP7",
+      "JEDISTARFIGHTERANAKIN",
+      "GEONOSIANSTARFIGHTER1",
+      "SLAVE1"
+    ],
+    "platoon_5_row_2": [
+      "TIEREAPER",
+      "TIEFIGHTERIMPERIAL",
+      "TIEADVANCED",
+      "SITHINFILTRATOR",
+      "SLAVE1"
+    ],
+    "platoon_5_row_3": [
+      "HOUNDSTOOTH",
+      "PHANTOM2",
+      "COMMANDSHUTTLE",
+      "GAUNTLETSTARFIGHTER",
+      "UWINGROGUEONE"
+    ],
+    "platoon_6_row_1": [
+      "SITHFIGHTER",
+      "SITHBOMBER",
+      "EBONHAWK",
+      "XANADUBLOOD",
+      "IG2000"
+    ],
+    "platoon_6_row_2": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_6_row_3": [
+      "SLAVE1",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170REX",
+      "UMBARANSTARFIGHTER"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase05_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Rebel Assault Platoon-Z5M",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "STORMTROOPERHAN",
+      "LUKESKYWALKER",
+      "R2D2_LEGENDARY",
+      "PRINCESSLEIA",
+      "OLDBENKENOBI"
+    ],
+    "platoon_1_row_2": [
+      "QUIGONJINN",
+      "MACEWINDU",
+      "PLOKOON",
+      "GRANDMASTERYODA",
+      "BARRISSOFFEE"
+    ],
+    "platoon_1_row_3": [
+      "CT210408",
+      "CLONESERGEANTPHASEI",
+      "VISASMARR",
+      "PLOKOON",
+      "JEDIKNIGHTCONSULAR"
+    ],
+    "platoon_2_row_1": [
+      "AHSOKATANO",
+      "ANAKINKNIGHT",
+      "CT7567",
+      "MACEWINDU",
+      "PLOKOON"
+    ],
+    "platoon_2_row_2": [
+      "AHSOKATANO",
+      "ANAKINKNIGHT",
+      "GRANDMASTERYODA",
+      "MACEWINDU",
+      "LUMINARAUNDULI"
+    ],
+    "platoon_2_row_3": [
+      "ROSETICO",
+      "POE",
+      "BB8",
+      "REY",
+      "SMUGGLERHAN"
+    ],
+    "platoon_3_row_1": [
+      "JEDIKNIGHTCONSULAR",
+      "BARRISSOFFEE",
+      "JEDIKNIGHTGUARDIAN",
+      "QUIGONJINN",
+      "CORUSCANTUNDERWORLDPOLICE"
+    ],
+    "platoon_3_row_2": [
+      "ADMINISTRATORLANDO",
+      "HANSOLO",
+      "BIGGSDARKLIGHTER",
+      "WEDGEANTILLES",
+      "UGNAUGHT"
+    ],
+    "platoon_3_row_3": [
+      "ADMIRALACKBAR",
+      "FULCRUMAHSOKA",
+      "BAZEMALBUS",
+      "R2D2_LEGENDARY",
+      "PRINCESSLEIA"
+    ],
+    "platoon_4_row_1": [
+      "GENERALKENOBI",
+      "CT210408",
+      "CT5555",
+      "MACEWINDU",
+      "CC2224"
+    ],
+    "platoon_4_row_2": [
+      "ADMINISTRATORLANDO",
+      "UGNAUGHT",
+      "ADMIRALACKBAR",
+      "BIGGSDARKLIGHTER",
+      "LUKESKYWALKER"
+    ],
+    "platoon_4_row_3": [
+      "CHIEFNEBIT",
+      "JAWA",
+      "JAWAENGINEER",
+      "LOBOT",
+      "DATHCHA"
+    ],
+    "platoon_5_row_1": [
+      "TEEBO",
+      "WICKET",
+      "EWOKSCOUT",
+      "CHIEFNEBIT",
+      "JAWASCAVENGER"
+    ],
+    "platoon_5_row_2": [
+      "CHIEFCHIRPA",
+      "EWOKELDER",
+      "EWOKSCOUT",
+      "PAPLOO",
+      "LOGRAY"
+    ],
+    "platoon_5_row_3": [
+      "SMUGGLERHAN",
+      "SMUGGLERCHEWBACCA",
+      "AMILYNHOLDO",
+      "R2D2_LEGENDARY",
+      "L3_37"
+    ],
+    "platoon_6_row_1": [
+      "QIRA",
+      "YOUNGHAN",
+      "YOUNGCHEWBACCA",
+      "HERMITYODA",
+      "OLDBENKENOBI"
+    ],
+    "platoon_6_row_2": [
+      "YOUNGHAN",
+      "YOUNGLANDO",
+      "YOUNGCHEWBACCA",
+      "QIRA",
+      "L3_37"
+    ],
+    "platoon_6_row_3": [
+      "CHIEFCHIRPA",
+      "LOGRAY",
+      "PAPLOO",
+      "EWOKELDER",
+      "TEEBO"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase05_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Rebel Assault Platoon-Z5B",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "ADMINISTRATORLANDO",
+      "STORMTROOPERHAN",
+      "ADMIRALACKBAR",
+      "FULCRUMAHSOKA",
+      "LUKESKYWALKER"
+    ],
+    "platoon_1_row_2": [
+      "AHSOKATANO",
+      "ANAKINKNIGHT",
+      "GRANDMASTERYODA",
+      "CT5555",
+      "LUMINARAUNDULI"
+    ],
+    "platoon_1_row_3": [
+      "REY",
+      "FINN",
+      "RESISTANCEPILOT",
+      "RESISTANCETROOPER",
+      "SMUGGLERCHEWBACCA"
+    ],
+    "platoon_2_row_1": [
+      "AHSOKATANO",
+      "CLONESERGEANTPHASEI",
+      "QUIGONJINN",
+      "LUMINARAUNDULI",
+      "JEDIKNIGHTCONSULAR"
+    ],
+    "platoon_2_row_2": [
+      "MISSIONVAO",
+      "ZAALBAR",
+      "T3_M4",
+      "JOLEEBINDO",
+      "BASTILASHAN"
+    ],
+    "platoon_2_row_3": [
+      "ADMIRALACKBAR",
+      "OLDBENKENOBI",
+      "HERMITYODA",
+      "PRINCESSLEIA",
+      "SMUGGLERHAN"
+    ],
+    "platoon_3_row_1": [
+      "JEDIKNIGHTGUARDIAN",
+      "CLONESERGEANTPHASEI",
+      "AHSOKATANO",
+      "CT5555",
+      "MACEWINDU"
+    ],
+    "platoon_3_row_2": [
+      "CHIEFCHIRPA",
+      "EWOKELDER",
+      "TEEBO",
+      "EWOKSCOUT",
+      "WICKET"
+    ],
+    "platoon_3_row_3": [
+      "CHEWBACCALEGENDARY",
+      "PAO",
+      "BIGGSDARKLIGHTER",
+      "ADMINISTRATORLANDO",
+      "HERMITYODA"
+    ],
+    "platoon_4_row_1": [
+      "SMUGGLERCHEWBACCA",
+      "SMUGGLERHAN",
+      "POE",
+      "BB8",
+      "FINN"
+    ],
+    "platoon_4_row_2": [
+      "CASSIANANDOR",
+      "BISTAN",
+      "BODHIROOK",
+      "K2SO",
+      "BAZEMALBUS"
+    ],
+    "platoon_4_row_3": [
+      "CASSIANANDOR",
+      "K2SO",
+      "PAO",
+      "BISTAN",
+      "CHIEFNEBIT"
+    ],
+    "platoon_5_row_1": [
+      "CASSIANANDOR",
+      "K2SO",
+      "C3POLEGENDARY",
+      "BAZEMALBUS",
+      "JYNERSO"
+    ],
+    "platoon_5_row_2": [
+      "CASSIANANDOR",
+      "K2SO",
+      "CHIRRUTIMWE",
+      "BAZEMALBUS",
+      "JYNERSO"
+    ],
+    "platoon_5_row_3": [
+      "HOTHHAN",
+      "KITFISTO",
+      "HOTHREBELSOLDIER",
+      "OLDBENKENOBI",
+      "HERMITYODA"
+    ],
+    "platoon_6_row_1": [
+      "YOUNGHAN",
+      "QIRA",
+      "YOUNGCHEWBACCA",
+      "ENFYSNEST",
+      "CORUSCANTUNDERWORLDPOLICE"
+    ],
+    "platoon_6_row_2": [
+      "JAWAENGINEER",
+      "ADMIRALACKBAR",
+      "PRINCESSLEIA",
+      "SCARIFREBEL",
+      "HANSOLO"
+    ],
+    "platoon_6_row_3": [
+      "SMUGGLERCHEWBACCA",
+      "SCARIFREBEL",
+      "WEDGEANTILLES",
+      "HOTHREBELSOLDIER",
+      "HOTHHAN"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase06_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Rebel Assault Platoon-Z6T",
+    "ability_name": "Orbital Bombardment",
+    "platoon_1_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERANAKIN",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX"
+    ],
+    "platoon_1_row_2": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_1_row_3": [
+      "TIEREAPER",
+      "TIEFIGHTERIMPERIAL",
+      "EMPERORSSHUTTLE",
+      "SLAVE1",
+      "TIEADVANCED"
+    ],
+    "platoon_2_row_1": [
+      "MILLENNIUMFALCON",
+      "GHOST",
+      "HOUNDSTOOTH",
+      "EBONHAWK",
+      "SLAVE1"
+    ],
+    "platoon_2_row_2": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERANAKIN",
+      "XWINGRED3",
+      "UWINGSCARIF",
+      "ARC170CLONESERGEANT"
+    ],
+    "platoon_2_row_3": [
+      "UMBARANSTARFIGHTER",
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR"
+    ],
+    "platoon_3_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "MILLENNIUMFALCON",
+      "GHOST",
+      "TIESILENCER"
+    ],
+    "platoon_3_row_2": [
+      "TIEREAPER",
+      "TIEFIGHTERIMPERIAL",
+      "TIEADVANCED",
+      "SITHINFILTRATOR",
+      "SLAVE1"
+    ],
+    "platoon_3_row_3": [
+      "MILLENNIUMFALCON",
+      "MILLENNIUMFALCONEP7",
+      "MILLENNIUMFALCONPRISTINE",
+      "PHANTOM2",
+      "GHOST"
+    ],
+    "platoon_4_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN"
+    ],
+    "platoon_4_row_2": [
+      "TIEFIGHTERIMPERIAL",
+      "TIESILENCER",
+      "TIEFIGHTERFIRSTORDER",
+      "TIEADVANCED",
+      "TIEREAPER"
+    ],
+    "platoon_4_row_3": [
+      "GHOST",
+      "MILLENNIUMFALCONEP7",
+      "MILLENNIUMFALCON",
+      "EBONHAWK",
+      "MILLENNIUMFALCONPRISTINE"
+    ],
+    "platoon_5_row_1": [
+      "GEONOSIANSTARFIGHTER3",
+      "GEONOSIANSTARFIGHTER2",
+      "GEONOSIANSTARFIGHTER1",
+      "TIEREAPER",
+      "TIEFIGHTERIMPERIAL"
+    ],
+    "platoon_5_row_2": [
+      "SLAVE1",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170REX",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_5_row_3": [
+      "SITHBOMBER",
+      "XANADUBLOOD",
+      "IG2000",
+      "SITHFIGHTER",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_6_row_1": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_6_row_2": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "SLAVE1",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_6_row_3": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERFOSF",
+      "COMMANDSHUTTLE",
+      "TIESILENCER",
+      "MILLENNIUMFALCONEP7"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase06_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Rebel Assault Platoon-Z6M",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "STORMTROOPERHAN",
+      "LUKESKYWALKER",
+      "C3POLEGENDARY",
+      "PRINCESSLEIA",
+      "OLDBENKENOBI"
+    ],
+    "platoon_1_row_2": [
+      "QUIGONJINN",
+      "AAYLASECURA",
+      "AHSOKATANO",
+      "GRANDMASTERYODA",
+      "BARRISSOFFEE"
+    ],
+    "platoon_1_row_3": [
+      "ADMIRALACKBAR",
+      "FULCRUMAHSOKA",
+      "HERMITYODA",
+      "SABINEWRENS3",
+      "COMMANDERLUKESKYWALKER"
+    ],
+    "platoon_2_row_1": [
+      "CORUSCANTUNDERWORLDPOLICE",
+      "CC2224",
+      "BARRISSOFFEE",
+      "MACEWINDU",
+      "QUIGONJINN"
+    ],
+    "platoon_2_row_2": [
+      "ADMINISTRATORLANDO",
+      "HANSOLO",
+      "SABINEWRENS3",
+      "WEDGEANTILLES",
+      "HERMITYODA"
+    ],
+    "platoon_2_row_3": [
+      "SMUGGLERHAN",
+      "POE",
+      "AMILYNHOLDO",
+      "REYJEDITRAINING",
+      "FINN"
+    ],
+    "platoon_3_row_1": [
+      "C3POLEGENDARY",
+      "LOGRAY",
+      "PAPLOO",
+      "WICKET",
+      "HERMITYODA"
+    ],
+    "platoon_3_row_2": [
+      "CC2224",
+      "ANAKINKNIGHT",
+      "AAYLASECURA",
+      "MACEWINDU",
+      "LUMINARAUNDULI"
+    ],
+    "platoon_3_row_3": [
+      "BARRISSOFFEE",
+      "ANAKINKNIGHT",
+      "VISASMARR",
+      "CT7567",
+      "CORUSCANTUNDERWORLDPOLICE"
+    ],
+    "platoon_4_row_1": [
+      "GENERALKENOBI",
+      "QUIGONJINN",
+      "VISASMARR",
+      "GRANDMASTERYODA",
+      "BARRISSOFFEE"
+    ],
+    "platoon_4_row_2": [
+      "ADMINISTRATORLANDO",
+      "WEDGEANTILLES",
+      "KITFISTO",
+      "KANANJARRUSS3",
+      "LUKESKYWALKER"
+    ],
+    "platoon_4_row_3": [
+      "CHIEFNEBIT",
+      "JAWA",
+      "DATHCHA",
+      "JAWASCAVENGER",
+      "EZRABRIDGERS3"
+    ],
+    "platoon_5_row_1": [
+      "YOUNGHAN",
+      "YOUNGLANDO",
+      "PLOKOON",
+      "L3_37",
+      "REYJEDITRAINING"
+    ],
+    "platoon_5_row_2": [
+      "JEDIKNIGHTREVAN",
+      "ZAALBAR",
+      "T3_M4",
+      "JOLEEBINDO",
+      "BASTILASHAN"
+    ],
+    "platoon_5_row_3": [
+      "ADMINISTRATORLANDO",
+      "KANANJARRUSS3",
+      "HOTHREBELSCOUT",
+      "HOTHREBELSOLDIER",
+      "HOTHHAN"
+    ],
+    "platoon_6_row_1": [
+      "ROSETICO",
+      "POE",
+      "BB8",
+      "REY",
+      "AMILYNHOLDO"
+    ],
+    "platoon_6_row_2": [
+      "YOUNGHAN",
+      "YOUNGLANDO",
+      "ENFYSNEST",
+      "R2D2_LEGENDARY",
+      "L3_37"
+    ],
+    "platoon_6_row_3": [
+      "KANANJARRUSS3",
+      "CHEWBACCALEGENDARY",
+      "EWOKSCOUT",
+      "EZRABRIDGERS3",
+      "LOGRAY"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase06_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Rebel Assault Platoon-Z6B",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "L3_37",
+      "SMUGGLERHAN",
+      "POE",
+      "REYJEDITRAINING",
+      "HERMITYODA"
+    ],
+    "platoon_1_row_2": [
+      "AHSOKATANO",
+      "ANAKINKNIGHT",
+      "GRANDMASTERYODA",
+      "QUIGONJINN",
+      "IMAGUNDI"
+    ],
+    "platoon_1_row_3": [
+      "ZEBS3",
+      "WICKET",
+      "CHEWBACCALEGENDARY",
+      "SMUGGLERCHEWBACCA",
+      "ZAALBAR"
+    ],
+    "platoon_2_row_1": [
+      "EETHKOTH",
+      "GENERALKENOBI",
+      "JEDIKNIGHTGUARDIAN",
+      "IMAGUNDI",
+      "CORUSCANTUNDERWORLDPOLICE"
+    ],
+    "platoon_2_row_2": [
+      "SABINEWRENS3",
+      "EZRABRIDGERS3",
+      "TEEBO",
+      "CHEWBACCALEGENDARY",
+      "HERMITYODA"
+    ],
+    "platoon_2_row_3": [
+      "ADMIRALACKBAR",
+      "LOGRAY",
+      "STORMTROOPERHAN",
+      "PRINCESSLEIA",
+      "WEDGEANTILLES"
+    ],
+    "platoon_3_row_1": [
+      "HERMITYODA",
+      "HOTHHAN",
+      "FULCRUMAHSOKA",
+      "COMMANDERLUKESKYWALKER",
+      "EZRABRIDGERS3"
+    ],
+    "platoon_3_row_2": [
+      "ADMINISTRATORLANDO",
+      "STORMTROOPERHAN",
+      "UGNAUGHT",
+      "KITFISTO",
+      "PLOKOON"
+    ],
+    "platoon_3_row_3": [
+      "HOTHHAN",
+      "HOTHREBELSCOUT",
+      "HOTHREBELSOLDIER",
+      "FULCRUMAHSOKA",
+      "COMMANDERLUKESKYWALKER"
+    ],
+    "platoon_4_row_1": [
+      "CT210408",
+      "CT7567",
+      "GRANDMASTERYODA",
+      "EETHKOTH",
+      "LUMINARAUNDULI"
+    ],
+    "platoon_4_row_2": [
+      "CHOPPERS3",
+      "HERASYNDULLAS3",
+      "ZEBS3",
+      "KANANJARRUSS3",
+      "LOBOT"
+    ],
+    "platoon_4_row_3": [
+      "STORMTROOPERHAN",
+      "WEDGEANTILLES",
+      "LOBOT",
+      "ADMINISTRATORLANDO",
+      "HERMITYODA"
+    ],
+    "platoon_5_row_1": [
+      "T3_M4",
+      "BASTILASHAN",
+      "JEDIKNIGHTREVAN",
+      "JUHANI",
+      "ZAALBAR"
+    ],
+    "platoon_5_row_2": [
+      "ADMINISTRATORLANDO",
+      "ENFYSNEST",
+      "PRINCESSLEIA",
+      "BIGGSDARKLIGHTER",
+      "HANSOLO"
+    ],
+    "platoon_5_row_3": [
+      "REY",
+      "FINN",
+      "C3POLEGENDARY",
+      "BB8",
+      "POE"
+    ],
+    "platoon_6_row_1": [
+      "CHOPPERS3",
+      "UGNAUGHT",
+      "JUHANI",
+      "KANANJARRUSS3",
+      "CARTHONASI"
+    ],
+    "platoon_6_row_2": [
+      "POE",
+      "REY",
+      "HERMITYODA",
+      "R2D2_LEGENDARY",
+      "ROSETICO"
+    ],
+    "platoon_6_row_3": [
+      "JOLEEBINDO",
+      "JUHANI",
+      "CARTHONASI",
+      "T3_M4",
+      "MISSIONVAO"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase01_conflict01",
+    "unit_type": "character",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z1T",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "TALIA",
+      "ASAJVENTRESS",
+      "DAKA",
+      "NIGHTSISTERZOMBIE",
+      "NIGHTSISTERINITIATE"
+    ],
+    "platoon_1_row_2": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_1_row_3": [
+      "HK47",
+      "POGGLETHELESSER",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "NUTEGUNRAY"
+    ],
+    "platoon_2_row_1": [
+      "NUTEGUNRAY",
+      "SUNFAC",
+      "IG86SENTINELDROID",
+      "COUNTDOOKU",
+      "MAGNAGUARD"
+    ],
+    "platoon_2_row_2": [
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_2_row_3": [
+      "BOBAFETT",
+      "DENGAR",
+      "GREEDO",
+      "IG88",
+      "CADBANE"
+    ],
+    "platoon_3_row_1": [
+      "COUNTDOOKU",
+      "GEONOSIANSPY",
+      "GEONOSIANSOLDIER",
+      "POGGLETHELESSER",
+      "SUNFAC"
+    ],
+    "platoon_3_row_2": [
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHTROOPER",
+      "MAUL",
+      "SAVAGEOPRESS"
+    ],
+    "platoon_3_row_3": [
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "MAGMATROOPER"
+    ],
+    "platoon_4_row_1": [
+      "POGGLETHELESSER",
+      "NUTEGUNRAY",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "SUNFAC"
+    ],
+    "platoon_4_row_2": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_4_row_3": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "COUNTDOOKU",
+      "SITHTROOPER"
+    ],
+    "platoon_5_row_1": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_5_row_2": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "COUNTDOOKU",
+      "SITHTROOPER"
+    ],
+    "platoon_5_row_3": [
+      "GARSAXON",
+      "DEATHTROOPER",
+      "ROYALGUARD",
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_6_row_1": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_6_row_2": [
+      "DAKA",
+      "ASAJVENTRESS",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE",
+      "TALIA"
+    ],
+    "platoon_6_row_3": [
+      "GRANDMOFFTARKIN",
+      "ROYALGUARD",
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "MAGMATROOPER"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase01_conflict02",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z1B",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "DAKA",
+      "ASAJVENTRESS",
+      "NIGHTSISTERZOMBIE",
+      "NIGHTSISTERINITIATE",
+      "TALIA"
+    ],
+    "platoon_1_row_2": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_1_row_3": [
+      "GRANDMOFFTARKIN",
+      "ROYALGUARD",
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "MAGMATROOPER"
+    ],
+    "platoon_2_row_1": [
+      "COUNTDOOKU",
+      "GEONOSIANSPY",
+      "GEONOSIANSOLDIER",
+      "POGGLETHELESSER",
+      "SUNFAC"
+    ],
+    "platoon_2_row_2": [
+      "GRANDMOFFTARKIN",
+      "ROYALGUARD",
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "MAGMATROOPER"
+    ],
+    "platoon_2_row_3": [
+      "GARSAXON",
+      "DEATHTROOPER",
+      "ROYALGUARD",
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_3_row_1": [
+      "TALIA",
+      "ASAJVENTRESS",
+      "DAKA",
+      "NIGHTSISTERZOMBIE",
+      "NIGHTSISTERINITIATE"
+    ],
+    "platoon_3_row_2": [
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHTROOPER",
+      "MAUL",
+      "SAVAGEOPRESS"
+    ],
+    "platoon_3_row_3": [
+      "HK47",
+      "POGGLETHELESSER",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "SUNFAC"
+    ],
+    "platoon_4_row_1": [
+      "NUTEGUNRAY",
+      "B1BATTLEDROIDV2",
+      "IG86SENTINELDROID",
+      "COUNTDOOKU",
+      "MAGNAGUARD"
+    ],
+    "platoon_4_row_2": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_4_row_3": [
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "MAGMATROOPER"
+    ],
+    "platoon_5_row_1": [
+      "POGGLETHELESSER",
+      "NUTEGUNRAY",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "SUNFAC"
+    ],
+    "platoon_5_row_2": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "COUNTDOOKU",
+      "SITHTROOPER"
+    ],
+    "platoon_5_row_3": [
+      "BOBAFETT",
+      "DENGAR",
+      "GREEDO",
+      "IG88",
+      "BOSSK"
+    ],
+    "platoon_6_row_1": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_6_row_2": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_6_row_3": [
+      "BOBAFETT",
+      "TUSKENSHAMAN",
+      "TUSKENRAIDER",
+      "HUMANTHUG",
+      "BOSSK"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase02_conflict01",
+    "unit_type": "character",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z2T",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "POGGLETHELESSER",
+      "COUNTDOOKU",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "SUNFAC"
+    ],
+    "platoon_1_row_2": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_1_row_3": [
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER",
+      "RANGETROOPER",
+      "STORMTROOPER",
+      "MAGMATROOPER"
+    ],
+    "platoon_2_row_1": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_2_row_2": [
+      "NUTEGUNRAY",
+      "POGGLETHELESSER",
+      "IG86SENTINELDROID",
+      "COUNTDOOKU",
+      "MAGNAGUARD"
+    ],
+    "platoon_2_row_3": [
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT",
+      "STORMTROOPER",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_3_row_1": [
+      "COUNTDOOKU",
+      "GEONOSIANSPY",
+      "GEONOSIANSOLDIER",
+      "POGGLETHELESSER",
+      "SUNFAC"
+    ],
+    "platoon_3_row_2": [
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_3_row_3": [
+      "GARSAXON",
+      "IMPERIALSUPERCOMMANDO",
+      "ROYALGUARD",
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_4_row_1": [
+      "HK47",
+      "POGGLETHELESSER",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "B1BATTLEDROIDV2"
+    ],
+    "platoon_4_row_2": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_4_row_3": [
+      "GRANDMOFFTARKIN",
+      "ROYALGUARD",
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "MAGMATROOPER"
+    ],
+    "platoon_5_row_1": [
+      "TALIA",
+      "ASAJVENTRESS",
+      "DAKA",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE"
+    ],
+    "platoon_5_row_2": [
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHTROOPER",
+      "MAUL",
+      "SAVAGEOPRESS"
+    ],
+    "platoon_5_row_3": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_6_row_1": [
+      "DAKA",
+      "ASAJVENTRESS",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE",
+      "TALIA"
+    ],
+    "platoon_6_row_2": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "COUNTDOOKU",
+      "SITHTROOPER"
+    ],
+    "platoon_6_row_3": [
+      "NUTEGUNRAY",
+      "B2SUPERBATTLEDROID",
+      "IG86SENTINELDROID",
+      "COUNTDOOKU",
+      "MAGNAGUARD"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase02_conflict02",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z2B",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "DAKA",
+      "ASAJVENTRESS",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE",
+      "TALIA"
+    ],
+    "platoon_1_row_2": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_1_row_3": [
+      "COUNTDOOKU",
+      "GEONOSIANSPY",
+      "GEONOSIANSOLDIER",
+      "POGGLETHELESSER",
+      "SUNFAC"
+    ],
+    "platoon_2_row_1": [
+      "HK47",
+      "POGGLETHELESSER",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "B1BATTLEDROIDV2"
+    ],
+    "platoon_2_row_2": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "COUNTDOOKU",
+      "SITHTROOPER"
+    ],
+    "platoon_2_row_3": [
+      "NUTEGUNRAY",
+      "DROIDEKA",
+      "IG86SENTINELDROID",
+      "COUNTDOOKU",
+      "MAGNAGUARD"
+    ],
+    "platoon_3_row_1": [
+      "TALIA",
+      "ASAJVENTRESS",
+      "DAKA",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE"
+    ],
+    "platoon_3_row_2": [
+      "GRANDMOFFTARKIN",
+      "ROYALGUARD",
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "MAGMATROOPER"
+    ],
+    "platoon_3_row_3": [
+      "URORRURRR",
+      "TUSKENSHAMAN",
+      "TUSKENRAIDER",
+      "HUMANTHUG",
+      "GAMORREANGUARD"
+    ],
+    "platoon_4_row_1": [
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "MAGMATROOPER"
+    ],
+    "platoon_4_row_2": [
+      "POGGLETHELESSER",
+      "COUNTDOOKU",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "SUNFAC"
+    ],
+    "platoon_4_row_3": [
+      "GARSAXON",
+      "DEATHTROOPER",
+      "ROYALGUARD",
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_5_row_1": [
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHTROOPER",
+      "MAUL",
+      "SAVAGEOPRESS"
+    ],
+    "platoon_5_row_2": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_5_row_3": [
+      "DIRECTORKRENNIC",
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_6_row_1": [
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_6_row_2": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_6_row_3": [
+      "GRANDMOFFTARKIN",
+      "ROYALGUARD",
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "MAGMATROOPER"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase03_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z3T",
+    "ability_name": "Orbital Bombardment",
+    "platoon_1_row_1": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERIMPERIAL",
+      "SITHINFILTRATOR",
+      "SLAVE1",
+      "PHANTOM2"
+    ],
+    "platoon_1_row_2": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "PHANTOM2"
+    ],
+    "platoon_1_row_3": [
+      "ARC170CLONESERGEANT",
+      "UWINGSCARIF",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_2_row_1": [
+      "ARC170CLONESERGEANT",
+      "JEDISTARFIGHTERAHSOKATANO",
+      "PHANTOM2",
+      "BLADEOFDORIN",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_2_row_2": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERIMPERIAL",
+      "SLAVE1",
+      "TIEADVANCED",
+      "TIESILENCER"
+    ],
+    "platoon_2_row_3": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "BLADEOFDORIN",
+      "GHOST",
+      "TIESILENCER"
+    ],
+    "platoon_3_row_1": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_3_row_2": [
+      "HOUNDSTOOTH",
+      "PHANTOM2",
+      "TIEFIGHTERIMPERIAL",
+      "GAUNTLETSTARFIGHTER",
+      "TIEFIGHTERFIRSTORDER"
+    ],
+    "platoon_3_row_3": [
+      "SITHINFILTRATOR",
+      "TIEFIGHTERIMPERIAL",
+      "TIEADVANCED",
+      "TIESILENCER",
+      "SLAVE1"
+    ],
+    "platoon_4_row_1": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_4_row_2": [
+      "XWINGRED3",
+      "GAUNTLETSTARFIGHTER",
+      "GEONOSIANSTARFIGHTER2",
+      "GEONOSIANSTARFIGHTER1",
+      "SLAVE1"
+    ],
+    "platoon_4_row_3": [
+      "MILLENNIUMFALCONPRISTINE",
+      "GHOST",
+      "TIEFIGHTERIMPERIAL",
+      "SLAVE1",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_5_row_1": [
+      "UWINGROGUEONE",
+      "GHOST",
+      "GEONOSIANSTARFIGHTER3",
+      "XWINGBLACKONE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_5_row_2": [
+      "SLAVE1",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170CLONESERGEANT",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_5_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "BLADEOFDORIN",
+      "ARC170CLONESERGEANT",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_6_row_1": [
+      "GHOST",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "PHANTOM2",
+      "TIEFIGHTERIMPERIAL"
+    ],
+    "platoon_6_row_2": [
+      "HOUNDSTOOTH",
+      "UWINGSCARIF",
+      "SLAVE1",
+      "UWINGROGUEONE",
+      "EBONHAWK"
+    ],
+    "platoon_6_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "UMBARANSTARFIGHTER",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase03_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z3M",
+    "ability_name": "Ion Cannon Blast",
+    "platoon_1_row_1": [
+      "NUTEGUNRAY",
+      "B2SUPERBATTLEDROID",
+      "IG86SENTINELDROID",
+      "COUNTDOOKU",
+      "MAGNAGUARD"
+    ],
+    "platoon_1_row_2": [
+      "DAKA",
+      "ASAJVENTRESS",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE",
+      "TALIA"
+    ],
+    "platoon_1_row_3": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_2_row_1": [
+      "HK47",
+      "POGGLETHELESSER",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "NUTEGUNRAY"
+    ],
+    "platoon_2_row_2": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "COUNTDOOKU",
+      "SITHTROOPER"
+    ],
+    "platoon_2_row_3": [
+      "COUNTDOOKU",
+      "GEONOSIANSPY",
+      "GEONOSIANSOLDIER",
+      "POGGLETHELESSER",
+      "SUNFAC"
+    ],
+    "platoon_3_row_1": [
+      "POGGLETHELESSER",
+      "B2SUPERBATTLEDROID",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "SUNFAC"
+    ],
+    "platoon_3_row_2": [
+      "TALIA",
+      "ASAJVENTRESS",
+      "DAKA",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE"
+    ],
+    "platoon_3_row_3": [
+      "GARSAXON",
+      "DEATHTROOPER",
+      "ROYALGUARD",
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_4_row_1": [
+      "HK47",
+      "POGGLETHELESSER",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "SUNFAC"
+    ],
+    "platoon_4_row_2": [
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHTROOPER",
+      "MAUL",
+      "SAVAGEOPRESS"
+    ],
+    "platoon_4_row_3": [
+      "TALIA",
+      "ASAJVENTRESS",
+      "DAKA",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE"
+    ],
+    "platoon_5_row_1": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "COUNTDOOKU",
+      "SITHTROOPER"
+    ],
+    "platoon_5_row_2": [
+      "GRANDADMIRALTHRAWN",
+      "EMPERORPALPATINE",
+      "ROYALGUARD",
+      "GARSAXON",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_5_row_3": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "COUNTDOOKU",
+      "SITHTROOPER"
+    ],
+    "platoon_6_row_1": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_6_row_2": [
+      "GRIEVOUS",
+      "MAGNAGUARD",
+      "COUNTDOOKU",
+      "NUTEGUNRAY",
+      "POGGLETHELESSER"
+    ],
+    "platoon_6_row_3": [
+      "NUTEGUNRAY",
+      "TUSKENRAIDER",
+      "GEONOSIANSOLDIER",
+      "GEONOSIANSPY",
+      "URORRURRR"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase03_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z3B",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHTROOPER",
+      "MAUL",
+      "SAVAGEOPRESS"
+    ],
+    "platoon_1_row_2": [
+      "GARSAXON",
+      "IMPERIALSUPERCOMMANDO",
+      "ROYALGUARD",
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_1_row_3": [
+      "URORRURRR",
+      "TUSKENSHAMAN",
+      "TUSKENRAIDER",
+      "HUMANTHUG",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_2_row_1": [
+      "HK47",
+      "POGGLETHELESSER",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "SUNFAC"
+    ],
+    "platoon_2_row_2": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "COUNTDOOKU",
+      "SITHTROOPER"
+    ],
+    "platoon_2_row_3": [
+      "POGGLETHELESSER",
+      "ASAJVENTRESS",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "SUNFAC"
+    ],
+    "platoon_3_row_1": [
+      "COUNTDOOKU",
+      "GEONOSIANSPY",
+      "GEONOSIANSOLDIER",
+      "POGGLETHELESSER",
+      "SUNFAC"
+    ],
+    "platoon_3_row_2": [
+      "DAKA",
+      "ASAJVENTRESS",
+      "NIGHTSISTERZOMBIE",
+      "NIGHTSISTERINITIATE",
+      "TALIA"
+    ],
+    "platoon_3_row_3": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_4_row_1": [
+      "NUTEGUNRAY",
+      "DIRECTORKRENNIC",
+      "IG86SENTINELDROID",
+      "COUNTDOOKU",
+      "MAGNAGUARD"
+    ],
+    "platoon_4_row_2": [
+      "TALIA",
+      "ASAJVENTRESS",
+      "DAKA",
+      "SAVAGEOPRESS",
+      "NIGHTSISTERINITIATE"
+    ],
+    "platoon_4_row_3": [
+      "GRANDMOFFTARKIN",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "DIRECTORKRENNIC",
+      "GARSAXON"
+    ],
+    "platoon_5_row_1": [
+      "GARSAXON",
+      "IMPERIALSUPERCOMMANDO",
+      "ROYALGUARD",
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_5_row_2": [
+      "EMPERORPALPATINE",
+      "GRIEVOUS",
+      "DARTHNIHILUS",
+      "MAUL",
+      "SITHTROOPER"
+    ],
+    "platoon_5_row_3": [
+      "HK47",
+      "POGGLETHELESSER",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "GARSAXON"
+    ],
+    "platoon_6_row_1": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_6_row_2": [
+      "GRANDADMIRALTHRAWN",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "GARSAXON",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_6_row_3": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "COUNTDOOKU",
+      "SITHTROOPER"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase04_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z4T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERIMPERIAL",
+      "TIEREAPER",
+      "TIEADVANCED",
+      "TIESILENCER"
+    ],
+    "platoon_1_row_2": [
+      "MILLENNIUMFALCONPRISTINE",
+      "GHOST",
+      "TIEFIGHTERIMPERIAL",
+      "SLAVE1",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_1_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX"
+    ],
+    "platoon_2_row_1": [
+      "XWINGRED3",
+      "MILLENNIUMFALCONEP7",
+      "GEONOSIANSTARFIGHTER2",
+      "GEONOSIANSTARFIGHTER1",
+      "SLAVE1"
+    ],
+    "platoon_2_row_2": [
+      "SITHINFILTRATOR",
+      "TIEFIGHTERIMPERIAL",
+      "TIEADVANCED",
+      "GEONOSIANSTARFIGHTER3",
+      "SLAVE1"
+    ],
+    "platoon_2_row_3": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_3_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN"
+    ],
+    "platoon_3_row_2": [
+      "GHOST",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "PHANTOM2",
+      "TIEFIGHTERIMPERIAL"
+    ],
+    "platoon_3_row_3": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_4_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "BLADEOFDORIN",
+      "GHOST",
+      "TIESILENCER"
+    ],
+    "platoon_4_row_2": [
+      "UWINGROGUEONE",
+      "GHOST",
+      "GEONOSIANSTARFIGHTER3",
+      "XWINGBLACKONE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_4_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "BLADEOFDORIN",
+      "ARC170CLONESERGEANT",
+      "ARC170REX"
+    ],
+    "platoon_5_row_1": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "MILLENNIUMFALCONEP7",
+      "SLAVE1",
+      "XANADUBLOOD"
+    ],
+    "platoon_5_row_2": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_5_row_3": [
+      "SLAVE1",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170REX",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_6_row_1": [
+      "HOUNDSTOOTH",
+      "PHANTOM2",
+      "COMMANDSHUTTLE",
+      "GAUNTLETSTARFIGHTER",
+      "UWINGROGUEONE"
+    ],
+    "platoon_6_row_2": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "SLAVE1",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_6_row_3": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "PHANTOM2",
+      "BLADEOFDORIN",
+      "UMBARANSTARFIGHTER"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase04_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z4M",
+    "ability_name": "Power Generator",
+    "platoon_1_row_1": [
+      "VADER",
+      "STORMTROOPER",
+      "ROYALGUARD",
+      "MAGMATROOPER",
+      "IMPERIALPROBEDROID"
+    ],
+    "platoon_1_row_2": [
+      "MAGNAGUARD",
+      "MAUL",
+      "CADBANE",
+      "ZAMWESELL",
+      "ASAJVENTRESS"
+    ],
+    "platoon_1_row_3": [
+      "MOTHERTALZIN",
+      "TALIA",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "DAKA"
+    ],
+    "platoon_2_row_1": [
+      "GRANDMOFFTARKIN",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "IMPERIALPROBEDROID",
+      "ROYALGUARD"
+    ],
+    "platoon_2_row_2": [
+      "CADBANE",
+      "MAGNAGUARD",
+      "DARTHSIDIOUS",
+      "GEONOSIANSOLDIER",
+      "GEONOSIANSPY"
+    ],
+    "platoon_2_row_3": [
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERZOMBIE",
+      "NIGHTSISTERSPIRIT",
+      "TALIA",
+      "DAKA"
+    ],
+    "platoon_3_row_1": [
+      "COUNTDOOKU",
+      "POGGLETHELESSER",
+      "NUTEGUNRAY",
+      "SUNFAC",
+      "ASAJVENTRESS"
+    ],
+    "platoon_3_row_2": [
+      "DARTHSION",
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHMARAUDER",
+      "SITHTROOPER"
+    ],
+    "platoon_3_row_3": [
+      "DARTHSIDIOUS",
+      "IG86SENTINELDROID",
+      "FIRSTORDERTIEPILOT",
+      "KYLORENUNMASKED",
+      "FIRSTORDERTROOPER"
+    ],
+    "platoon_4_row_1": [
+      "PHASMA",
+      "KYLOREN",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEREXECUTIONER"
+    ],
+    "platoon_4_row_2": [
+      "CADBANE",
+      "JANGOFETT",
+      "ZAMWESELL",
+      "IG88",
+      "EMBO"
+    ],
+    "platoon_4_row_3": [
+      "COLONELSTARCK",
+      "RANGETROOPER",
+      "STORMTROOPER",
+      "DEATHTROOPER",
+      "MAGMATROOPER"
+    ],
+    "platoon_5_row_1": [
+      "JANGOFETT",
+      "ZAMWESELL",
+      "ASAJVENTRESS",
+      "BOBAFETT",
+      "GREEDO"
+    ],
+    "platoon_5_row_2": [
+      "GARSAXON",
+      "HUMANTHUG",
+      "AURRA_SING",
+      "IG88",
+      "IMPERIALPROBEDROID"
+    ],
+    "platoon_5_row_3": [
+      "GEONOSIANSOLDIER",
+      "GEONOSIANSPY",
+      "TUSKENRAIDER",
+      "TUSKENSHAMAN",
+      "URORRURRR"
+    ],
+    "platoon_6_row_1": [
+      "FIRSTORDEREXECUTIONER",
+      "FIRSTORDEROFFICERMALE",
+      "FIRSTORDERSPECIALFORCESPILOT",
+      "FIRSTORDERTIEPILOT",
+      "PHASMA"
+    ],
+    "platoon_6_row_2": [
+      "BASTILASHANDARK",
+      "DARTHNIHILUS",
+      "SITHMARAUDER",
+      "SITHTROOPER",
+      "HK47"
+    ],
+    "platoon_6_row_3": [
+      "NUTEGUNRAY",
+      "SUNFAC",
+      "POGGLETHELESSER",
+      "DROIDEKA",
+      "B1BATTLEDROIDV2"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase04_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z4B",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "MOTHERTALZIN",
+      "MAUL",
+      "TALIA",
+      "DAKA",
+      "NIGHTSISTERACOLYTE"
+    ],
+    "platoon_1_row_2": [
+      "GRANDMOFFTARKIN",
+      "DEATHTROOPER",
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "VADER"
+    ],
+    "platoon_1_row_3": [
+      "NIGHTSISTERINITIATE",
+      "NIGHTSISTERSPIRIT",
+      "NIGHTSISTERZOMBIE",
+      "MOTHERTALZIN",
+      "NIGHTSISTERACOLYTE"
+    ],
+    "platoon_2_row_1": [
+      "TIEFIGHTERPILOT",
+      "VADER",
+      "COLONELSTARCK",
+      "SHORETROOPER",
+      "IMPERIALPROBEDROID"
+    ],
+    "platoon_2_row_2": [
+      "IMPERIALSUPERCOMMANDO",
+      "VADER",
+      "BOBAFETT",
+      "GREEDO",
+      "BOSSK"
+    ],
+    "platoon_2_row_3": [
+      "NIGHTSISTERINITIATE",
+      "NIGHTSISTERSPIRIT",
+      "MOTHERTALZIN",
+      "TALIA",
+      "SAVAGEOPRESS"
+    ],
+    "platoon_3_row_1": [
+      "FIRSTORDERTROOPER",
+      "KYLOREN",
+      "KYLORENUNMASKED",
+      "DARTHSIDIOUS",
+      "BOBAFETT"
+    ],
+    "platoon_3_row_2": [
+      "FIRSTORDEROFFICERMALE",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDERTROOPER",
+      "KYLORENUNMASKED",
+      "HUMANTHUG"
+    ],
+    "platoon_3_row_3": [
+      "BOBAFETT",
+      "GREEDO",
+      "HK47",
+      "IG88",
+      "DENGAR"
+    ],
+    "platoon_4_row_1": [
+      "MOTHERTALZIN",
+      "MAUL",
+      "KYLORENUNMASKED",
+      "TUSKENSHAMAN",
+      "URORRURRR"
+    ],
+    "platoon_4_row_2": [
+      "GRIEVOUS",
+      "MAGNAGUARD",
+      "DARTHSIDIOUS",
+      "GAMORREANGUARD",
+      "GREEDO"
+    ],
+    "platoon_4_row_3": [
+      "CADBANE",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "COUNTDOOKU",
+      "B2SUPERBATTLEDROID"
+    ],
+    "platoon_5_row_1": [
+      "KYLORENUNMASKED",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "GREEDO",
+      "HUMANTHUG"
+    ],
+    "platoon_5_row_2": [
+      "BASTILASHANDARK",
+      "CANDEROUSORDO",
+      "DARTHNIHILUS",
+      "DARTHSION",
+      "HK47"
+    ],
+    "platoon_5_row_3": [
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_6_row_1": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "TUSKENRAIDER",
+      "TUSKENSHAMAN",
+      "URORRURRR"
+    ],
+    "platoon_6_row_2": [
+      "GRANDMOFFTARKIN",
+      "GARSAXON",
+      "BOBAFETT",
+      "STORMTROOPER",
+      "RANGETROOPER"
+    ],
+    "platoon_6_row_3": [
+      "GRIEVOUS",
+      "DROIDEKA",
+      "B1BATTLEDROIDV2",
+      "B2SUPERBATTLEDROID",
+      "IG86SENTINELDROID"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase05_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z5T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "PHANTOM2",
+      "BLADEOFDORIN",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_1_row_2": [
+      "GHOST",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "PHANTOM2",
+      "TIEFIGHTERIMPERIAL"
+    ],
+    "platoon_1_row_3": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERIMPERIAL",
+      "GEONOSIANSTARFIGHTER2",
+      "TIEADVANCED",
+      "TIEFIGHTERFOSF"
+    ],
+    "platoon_2_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "MILLENNIUMFALCON",
+      "GHOST",
+      "TIESILENCER"
+    ],
+    "platoon_2_row_2": [
+      "UWINGROGUEONE",
+      "GHOST",
+      "GEONOSIANSTARFIGHTER3",
+      "XWINGBLACKONE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_2_row_3": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_3_row_1": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_3_row_2": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "SLAVE1",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_3_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN"
+    ],
+    "platoon_4_row_1": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "MILLENNIUMFALCONEP7",
+      "SLAVE1",
+      "XANADUBLOOD"
+    ],
+    "platoon_4_row_2": [
+      "MILLENNIUMFALCONPRISTINE",
+      "GHOST",
+      "TIEFIGHTERIMPERIAL",
+      "SLAVE1",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_4_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERANAKIN",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX"
+    ],
+    "platoon_5_row_1": [
+      "XWINGRED3",
+      "MILLENNIUMFALCONEP7",
+      "JEDISTARFIGHTERANAKIN",
+      "GEONOSIANSTARFIGHTER1",
+      "SLAVE1"
+    ],
+    "platoon_5_row_2": [
+      "TIEREAPER",
+      "TIEFIGHTERIMPERIAL",
+      "TIEADVANCED",
+      "SITHINFILTRATOR",
+      "SLAVE1"
+    ],
+    "platoon_5_row_3": [
+      "HOUNDSTOOTH",
+      "PHANTOM2",
+      "COMMANDSHUTTLE",
+      "GAUNTLETSTARFIGHTER",
+      "UWINGROGUEONE"
+    ],
+    "platoon_6_row_1": [
+      "SITHFIGHTER",
+      "SITHBOMBER",
+      "EBONHAWK",
+      "XANADUBLOOD",
+      "IG2000"
+    ],
+    "platoon_6_row_2": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_6_row_3": [
+      "SLAVE1",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170REX",
+      "UMBARANSTARFIGHTER"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase05_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z5M",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "MOTHERTALZIN",
+      "TALIA",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "DAKA"
+    ],
+    "platoon_1_row_2": [
+      "PHASMA",
+      "KYLOREN",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEREXECUTIONER",
+      "FIRSTORDERSPECIALFORCESPILOT"
+    ],
+    "platoon_1_row_3": [
+      "EMPERORPALPATINE",
+      "TIEFIGHTERPILOT",
+      "VADER",
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER"
+    ],
+    "platoon_2_row_1": [
+      "VADER",
+      "EMPERORPALPATINE",
+      "ROYALGUARD",
+      "GRANDADMIRALTHRAWN",
+      "IMPERIALPROBEDROID"
+    ],
+    "platoon_2_row_2": [
+      "ASAJVENTRESS",
+      "MAGNAGUARD",
+      "DARTHSIDIOUS",
+      "GEONOSIANSOLDIER",
+      "GEONOSIANSPY"
+    ],
+    "platoon_2_row_3": [
+      "NIGHTSISTERINITIATE",
+      "MOTHERTALZIN",
+      "TALIA",
+      "SAVAGEOPRESS",
+      "DAKA"
+    ],
+    "platoon_3_row_1": [
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_3_row_2": [
+      "IMPERIALSUPERCOMMANDO",
+      "EMPERORPALPATINE",
+      "GRANDADMIRALTHRAWN",
+      "RANGETROOPER",
+      "ROYALGUARD"
+    ],
+    "platoon_3_row_3": [
+      "TIEFIGHTERPILOT",
+      "VADER",
+      "COLONELSTARCK",
+      "SHORETROOPER",
+      "IMPERIALPROBEDROID"
+    ],
+    "platoon_4_row_1": [
+      "COLONELSTARCK",
+      "SHORETROOPER",
+      "GRANDADMIRALTHRAWN",
+      "WAMPA",
+      "ROYALGUARD"
+    ],
+    "platoon_4_row_2": [
+      "BASTILASHANDARK",
+      "CANDEROUSORDO",
+      "HK47",
+      "SITHTROOPER",
+      "SITHASSASSIN"
+    ],
+    "platoon_4_row_3": [
+      "NIGHTSISTERINITIATE",
+      "DAKA",
+      "NIGHTSISTERSPIRIT",
+      "MOTHERTALZIN",
+      "NIGHTSISTERACOLYTE"
+    ],
+    "platoon_5_row_1": [
+      "PHASMA",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDERTROOPER"
+    ],
+    "platoon_5_row_2": [
+      "DARTHTRAYA",
+      "SITHASSASSIN",
+      "SITHMARAUDER",
+      "SITHTROOPER",
+      "DARTHSION"
+    ],
+    "platoon_5_row_3": [
+      "VEERS",
+      "COLONELSTARCK",
+      "RANGETROOPER",
+      "WAMPA",
+      "SNOWTROOPER"
+    ],
+    "platoon_6_row_1": [
+      "FIRSTORDERTIEPILOT",
+      "KYLORENUNMASKED",
+      "PHASMA",
+      "FIRSTORDEREXECUTIONER",
+      "FIRSTORDEROFFICERMALE"
+    ],
+    "platoon_6_row_2": [
+      "BASTILASHANDARK",
+      "CANDEROUSORDO",
+      "SITHMARAUDER",
+      "SITHTROOPER",
+      "SITHASSASSIN"
+    ],
+    "platoon_6_row_3": [
+      "DROIDEKA",
+      "COUNTDOOKU",
+      "B1BATTLEDROIDV2",
+      "DARTHSIDIOUS",
+      "ASAJVENTRESS"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase05_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z5B",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "VEERS",
+      "SNOWTROOPER",
+      "ROYALGUARD",
+      "EMPERORPALPATINE",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_1_row_2": [
+      "GRANDMOFFTARKIN",
+      "COLONELSTARCK",
+      "EMPERORPALPATINE",
+      "TIEFIGHTERPILOT",
+      "WAMPA"
+    ],
+    "platoon_1_row_3": [
+      "VEERS",
+      "SHORETROOPER",
+      "SNOWTROOPER",
+      "TIEFIGHTERPILOT",
+      "IMPERIALSUPERCOMMANDO"
+    ],
+    "platoon_2_row_1": [
+      "PHASMA",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN",
+      "FIRSTORDERTROOPER",
+      "IG86SENTINELDROID"
+    ],
+    "platoon_2_row_2": [
+      "GRANDMOFFTARKIN",
+      "EMPERORPALPATINE",
+      "MAGMATROOPER",
+      "STORMTROOPER",
+      "RANGETROOPER"
+    ],
+    "platoon_2_row_3": [
+      "GRIEVOUS",
+      "DROIDEKA",
+      "B1BATTLEDROIDV2",
+      "B2SUPERBATTLEDROID",
+      "MAGNAGUARD"
+    ],
+    "platoon_3_row_1": [
+      "TUSKENRAIDER",
+      "STORMTROOPER",
+      "ROYALGUARD",
+      "SNOWTROOPER",
+      "MAGMATROOPER"
+    ],
+    "platoon_3_row_2": [
+      "TALIA",
+      "MAUL",
+      "ASAJVENTRESS",
+      "MAGNAGUARD",
+      "DROIDEKA"
+    ],
+    "platoon_3_row_3": [
+      "DARTHSION",
+      "DARTHTRAYA",
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHMARAUDER"
+    ],
+    "platoon_4_row_1": [
+      "PHASMA",
+      "FIRSTORDEROFFICERMALE",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "KYLORENUNMASKED"
+    ],
+    "platoon_4_row_2": [
+      "B1BATTLEDROIDV2",
+      "DROIDEKA",
+      "POGGLETHELESSER",
+      "NUTEGUNRAY",
+      "B2SUPERBATTLEDROID"
+    ],
+    "platoon_4_row_3": [
+      "WAMPA",
+      "VADER",
+      "TUSKENRAIDER",
+      "TUSKENSHAMAN",
+      "URORRURRR"
+    ],
+    "platoon_5_row_1": [
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERZOMBIE",
+      "TALIA",
+      "NIGHTSISTERSPIRIT",
+      "RANGETROOPER"
+    ],
+    "platoon_5_row_2": [
+      "SUNFAC",
+      "B1BATTLEDROIDV2",
+      "DROIDEKA",
+      "MAGNAGUARD",
+      "MAUL"
+    ],
+    "platoon_5_row_3": [
+      "TUSKENRAIDER",
+      "RANGETROOPER",
+      "URORRURRR",
+      "TIEFIGHTERPILOT",
+      "GEONOSIANSOLDIER"
+    ],
+    "platoon_6_row_1": [
+      "SITHMARAUDER",
+      "GEONOSIANSOLDIER",
+      "URORRURRR",
+      "TUSKENRAIDER",
+      "IG86SENTINELDROID"
+    ],
+    "platoon_6_row_2": [
+      "TUSKENSHAMAN",
+      "URORRURRR",
+      "TUSKENRAIDER",
+      "GAMORREANGUARD",
+      "HUMANTHUG"
+    ],
+    "platoon_6_row_3": [
+      "B1BATTLEDROIDV2",
+      "IG86SENTINELDROID",
+      "GEONOSIANSOLDIER",
+      "COUNTDOOKU",
+      "B2SUPERBATTLEDROID"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase06_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z6T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERANAKIN",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX"
+    ],
+    "platoon_1_row_2": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_1_row_3": [
+      "TIEREAPER",
+      "TIEFIGHTERIMPERIAL",
+      "EMPERORSSHUTTLE",
+      "SLAVE1",
+      "TIEADVANCED"
+    ],
+    "platoon_2_row_1": [
+      "MILLENNIUMFALCON",
+      "GHOST",
+      "HOUNDSTOOTH",
+      "EBONHAWK",
+      "SLAVE1"
+    ],
+    "platoon_2_row_2": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERANAKIN",
+      "XWINGRED3",
+      "UWINGSCARIF",
+      "ARC170CLONESERGEANT"
+    ],
+    "platoon_2_row_3": [
+      "UMBARANSTARFIGHTER",
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR"
+    ],
+    "platoon_3_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "MILLENNIUMFALCON",
+      "GHOST",
+      "TIESILENCER"
+    ],
+    "platoon_3_row_2": [
+      "TIEREAPER",
+      "TIEFIGHTERIMPERIAL",
+      "TIEADVANCED",
+      "SITHINFILTRATOR",
+      "SLAVE1"
+    ],
+    "platoon_3_row_3": [
+      "MILLENNIUMFALCON",
+      "MILLENNIUMFALCONEP7",
+      "MILLENNIUMFALCONPRISTINE",
+      "PHANTOM2",
+      "GHOST"
+    ],
+    "platoon_4_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN"
+    ],
+    "platoon_4_row_2": [
+      "TIEFIGHTERIMPERIAL",
+      "TIESILENCER",
+      "TIEFIGHTERFIRSTORDER",
+      "TIEADVANCED",
+      "TIEREAPER"
+    ],
+    "platoon_4_row_3": [
+      "GHOST",
+      "MILLENNIUMFALCONEP7",
+      "MILLENNIUMFALCON",
+      "EBONHAWK",
+      "MILLENNIUMFALCONPRISTINE"
+    ],
+    "platoon_5_row_1": [
+      "GEONOSIANSTARFIGHTER3",
+      "GEONOSIANSTARFIGHTER2",
+      "GEONOSIANSTARFIGHTER1",
+      "TIEREAPER",
+      "TIEFIGHTERIMPERIAL"
+    ],
+    "platoon_5_row_2": [
+      "SLAVE1",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170REX",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_5_row_3": [
+      "SITHBOMBER",
+      "XANADUBLOOD",
+      "IG2000",
+      "SITHFIGHTER",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_6_row_1": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_6_row_2": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "SLAVE1",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_6_row_3": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERFOSF",
+      "COMMANDSHUTTLE",
+      "TIESILENCER",
+      "MILLENNIUMFALCONEP7"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase06_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z6M",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "COUNTDOOKU",
+      "TALIA",
+      "ZAMWESELL",
+      "SAVAGEOPRESS",
+      "DAKA"
+    ],
+    "platoon_1_row_2": [
+      "PHASMA",
+      "KYLOREN",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDEREXECUTIONER",
+      "FIRSTORDERSPECIALFORCESPILOT"
+    ],
+    "platoon_1_row_3": [
+      "FIRSTORDERSPECIALFORCESPILOT",
+      "FIRSTORDEREXECUTIONER",
+      "KYLOREN",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDERTROOPER"
+    ],
+    "platoon_2_row_1": [
+      "EMPERORPALPATINE",
+      "DEATHTROOPER",
+      "GRANDADMIRALTHRAWN",
+      "WAMPA",
+      "ZAMWESELL"
+    ],
+    "platoon_2_row_2": [
+      "EMPERORPALPATINE",
+      "TIEFIGHTERPILOT",
+      "DEATHTROOPER",
+      "DIRECTORKRENNIC",
+      "SITHTROOPER"
+    ],
+    "platoon_2_row_3": [
+      "NIGHTSISTERINITIATE",
+      "NIGHTSISTERSPIRIT",
+      "TALIA",
+      "SAVAGEOPRESS",
+      "DAKA"
+    ],
+    "platoon_3_row_1": [
+      "JANGOFETT",
+      "ZAMWESELL",
+      "MAGNAGUARD",
+      "COUNTDOOKU",
+      "IG86SENTINELDROID"
+    ],
+    "platoon_3_row_2": [
+      "JANGOFETT",
+      "COUNTDOOKU",
+      "NUTEGUNRAY",
+      "DARTHSIDIOUS",
+      "ASAJVENTRESS"
+    ],
+    "platoon_3_row_3": [
+      "SUNFAC",
+      "GEONOSIANSOLDIER",
+      "IG86SENTINELDROID",
+      "GRIEVOUS",
+      "NIGHTSISTERSPIRIT"
+    ],
+    "platoon_4_row_1": [
+      "DENGAR",
+      "CADBANE",
+      "AURRA_SING",
+      "BOSSK",
+      "BOBAFETT"
+    ],
+    "platoon_4_row_2": [
+      "DARTHSION",
+      "DARTHTRAYA",
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHMARAUDER"
+    ],
+    "platoon_4_row_3": [
+      "POGGLETHELESSER",
+      "NIGHTSISTERSPIRIT",
+      "NIGHTSISTERZOMBIE",
+      "MOTHERTALZIN",
+      "NIGHTSISTERACOLYTE"
+    ],
+    "platoon_5_row_1": [
+      "DARTHTRAYA",
+      "SITHASSASSIN",
+      "CANDEROUSORDO",
+      "SITHTROOPER",
+      "DARTHSION"
+    ],
+    "platoon_5_row_2": [
+      "EMBO",
+      "DENGAR",
+      "BOBAFETT",
+      "WAMPA",
+      "CADBANE"
+    ],
+    "platoon_5_row_3": [
+      "MAUL",
+      "TALIA",
+      "NIGHTSISTERSPIRIT",
+      "SAVAGEOPRESS",
+      "URORRURRR"
+    ],
+    "platoon_6_row_1": [
+      "GAMORREANGUARD",
+      "GARSAXON",
+      "GRANDADMIRALTHRAWN",
+      "WAMPA",
+      "SNOWTROOPER"
+    ],
+    "platoon_6_row_2": [
+      "BASTILASHANDARK",
+      "CANDEROUSORDO",
+      "DARTHNIHILUS",
+      "SITHTROOPER",
+      "DARTHSION"
+    ],
+    "platoon_6_row_3": [
+      "B1BATTLEDROIDV2",
+      "DROIDEKA",
+      "POGGLETHELESSER",
+      "NUTEGUNRAY",
+      "B2SUPERBATTLEDROID"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase06_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z6B",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "ASAJVENTRESS",
+      "COUNTDOOKU",
+      "DARTHSIDIOUS",
+      "GRIEVOUS",
+      "WAMPA"
+    ],
+    "platoon_1_row_2": [
+      "GRANDADMIRALTHRAWN",
+      "EMPERORPALPATINE",
+      "HUMANTHUG",
+      "DEATHTROOPER",
+      "MAGMATROOPER"
+    ],
+    "platoon_1_row_3": [
+      "EMPERORPALPATINE",
+      "VADER",
+      "GRANDADMIRALTHRAWN",
+      "SHORETROOPER",
+      "DEATHTROOPER"
+    ],
+    "platoon_2_row_1": [
+      "PHASMA",
+      "FIRSTORDEROFFICERMALE",
+      "FIRSTORDERSPECIALFORCESPILOT",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEREXECUTIONER"
+    ],
+    "platoon_2_row_2": [
+      "GRANDMOFFTARKIN",
+      "EMPERORPALPATINE",
+      "TIEFIGHTERPILOT",
+      "STORMTROOPER",
+      "GARSAXON"
+    ],
+    "platoon_2_row_3": [
+      "TUSKENSHAMAN",
+      "IG86SENTINELDROID",
+      "GRIEVOUS",
+      "COUNTDOOKU",
+      "B2SUPERBATTLEDROID"
+    ],
+    "platoon_3_row_1": [
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER",
+      "GRANDADMIRALTHRAWN",
+      "HUMANTHUG",
+      "ROYALGUARD"
+    ],
+    "platoon_3_row_2": [
+      "IMPERIALSUPERCOMMANDO",
+      "EMPERORPALPATINE",
+      "GRANDADMIRALTHRAWN",
+      "RANGETROOPER",
+      "ROYALGUARD"
+    ],
+    "platoon_3_row_3": [
+      "VADER",
+      "GREEDO",
+      "DEATHTROOPER",
+      "TIEFIGHTERPILOT",
+      "RANGETROOPER"
+    ],
+    "platoon_4_row_1": [
+      "SITHMARAUDER",
+      "DARTHSION",
+      "WAMPA",
+      "HK47",
+      "SITHASSASSIN"
+    ],
+    "platoon_4_row_2": [
+      "IG88",
+      "GREEDO",
+      "GAMORREANGUARD",
+      "HUMANTHUG",
+      "TUSKENRAIDER"
+    ],
+    "platoon_4_row_3": [
+      "KYLORENUNMASKED",
+      "FIRSTORDEROFFICERMALE",
+      "NIGHTSISTERSPIRIT",
+      "DARTHTRAYA",
+      "TUSKENRAIDER"
+    ],
+    "platoon_5_row_1": [
+      "TUSKENSHAMAN",
+      "URORRURRR",
+      "TUSKENRAIDER",
+      "WAMPA",
+      "GARSAXON"
+    ],
+    "platoon_5_row_2": [
+      "WAMPA",
+      "DENGAR",
+      "BOSSK",
+      "AURRA_SING",
+      "CADBANE"
+    ],
+    "platoon_5_row_3": [
+      "MAGMATROOPER",
+      "SHORETROOPER",
+      "DEATHTROOPER",
+      "TIEFIGHTERPILOT",
+      "IMPERIALSUPERCOMMANDO"
+    ],
+    "platoon_6_row_1": [
+      "BASTILASHANDARK",
+      "CANDEROUSORDO",
+      "HK47",
+      "SITHTROOPER",
+      "DARTHTRAYA"
+    ],
+    "platoon_6_row_2": [
+      "SUNFAC",
+      "B1BATTLEDROIDV2",
+      "DROIDEKA",
+      "MAGNAGUARD",
+      "MAUL"
+    ],
+    "platoon_6_row_3": [
+      "GRIEVOUS",
+      "WAMPA",
+      "B1BATTLEDROIDV2",
+      "B2SUPERBATTLEDROID",
+      "NUTEGUNRAY"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase01_conflict01",
+    "unit_type": "character",
+    "area_pos": "Top",
+    "image": "Territory Battle-Separatist Might Platoon-Z1T",
+    "ability_name": "Droid Factory",
+    "platoon_1_row_1": [
+      "BASTILASHANDARK",
+      "VEERS",
+      "IG86SENTINELDROID",
+      "IG88",
+      "DARTHTRAYA"
+    ],
+    "platoon_1_row_2": [
+      "DAKA",
+      "MOTHERTALZIN",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE",
+      "TALIA"
+    ],
+    "platoon_1_row_3": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_2_row_1": [
+      "HK47",
+      "BOSSK",
+      "IG86SENTINELDROID",
+      "WAMPA",
+      "RANGETROOPER"
+    ],
+    "platoon_2_row_2": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "VEERS",
+      "SITHTROOPER"
+    ],
+    "platoon_2_row_3": [
+      "JANGOFETT",
+      "RANGETROOPER",
+      "DARTHTRAYA",
+      "BOSSK",
+      "MOTHERTALZIN"
+    ],
+    "platoon_3_row_1": [
+      "BASTILASHANDARK",
+      "JANGOFETT",
+      "IG86SENTINELDROID",
+      "BOSSK",
+      "VEERS"
+    ],
+    "platoon_3_row_2": [
+      "TALIA",
+      "MOTHERTALZIN",
+      "DAKA",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE"
+    ],
+    "platoon_3_row_3": [
+      "GARSAXON",
+      "DEATHTROOPER",
+      "ROYALGUARD",
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_4_row_1": [
+      "HK47",
+      "VEERS",
+      "IG86SENTINELDROID",
+      "WAMPA",
+      "BOSSK"
+    ],
+    "platoon_4_row_2": [
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHTROOPER",
+      "MAUL",
+      "SAVAGEOPRESS"
+    ],
+    "platoon_4_row_3": [
+      "TALIA",
+      "MOTHERTALZIN",
+      "DAKA",
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERINITIATE"
+    ],
+    "platoon_5_row_1": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "SITHASSASSIN",
+      "SITHTROOPER"
+    ],
+    "platoon_5_row_2": [
+      "GRANDADMIRALTHRAWN",
+      "EMPERORPALPATINE",
+      "ROYALGUARD",
+      "GARSAXON",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_5_row_3": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "VEERS",
+      "SITHTROOPER"
+    ],
+    "platoon_6_row_1": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_6_row_2": [
+      "JANGOFETT",
+      "VEERS",
+      "WAMPA",
+      "BOSSK",
+      "MOTHERTALZIN"
+    ],
+    "platoon_6_row_3": [
+      "DARTHREVAN",
+      "TUSKENRAIDER",
+      "TUSKENSHAMAN",
+      "ASAJVENTRESS",
+      "URORRURRR"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase01_conflict02",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Separatist Might Platoon-Z1B",
+    "ability_name": "Republic Resolve",
+    "platoon_1_row_1": [
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHTROOPER",
+      "BASTILASHANDARK",
+      "SAVAGEOPRESS"
+    ],
+    "platoon_1_row_2": [
+      "GARSAXON",
+      "IMPERIALSUPERCOMMANDO",
+      "BASTILASHANDARK",
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_1_row_3": [
+      "URORRURRR",
+      "TUSKENSHAMAN",
+      "MOTHERTALZIN",
+      "HUMANTHUG",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_2_row_1": [
+      "HK47",
+      "JANGOFETT",
+      "IG86SENTINELDROID",
+      "DARTHTRAYA",
+      "RANGETROOPER"
+    ],
+    "platoon_2_row_2": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "VEERS",
+      "SITHTROOPER"
+    ],
+    "platoon_2_row_3": [
+      "BOSSK",
+      "BASTILASHANDARK",
+      "IG86SENTINELDROID",
+      "JANGOFETT",
+      "RANGETROOPER"
+    ],
+    "platoon_3_row_1": [
+      "DARTHTRAYA",
+      "JANGOFETT",
+      "BASTILASHANDARK",
+      "BOSSK",
+      "WAMPA"
+    ],
+    "platoon_3_row_2": [
+      "DAKA",
+      "VEERS",
+      "NIGHTSISTERZOMBIE",
+      "NIGHTSISTERINITIATE",
+      "TALIA"
+    ],
+    "platoon_3_row_3": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "MOTHERTALZIN"
+    ],
+    "platoon_4_row_1": [
+      "WAMPA",
+      "DIRECTORKRENNIC",
+      "IG86SENTINELDROID",
+      "BOSSK",
+      "VEERS"
+    ],
+    "platoon_4_row_2": [
+      "TALIA",
+      "MOTHERTALZIN",
+      "DAKA",
+      "SAVAGEOPRESS",
+      "NIGHTSISTERINITIATE"
+    ],
+    "platoon_4_row_3": [
+      "GRANDMOFFTARKIN",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "DIRECTORKRENNIC",
+      "BASTILASHANDARK"
+    ],
+    "platoon_5_row_1": [
+      "BASTILASHANDARK",
+      "IMPERIALSUPERCOMMANDO",
+      "MOTHERTALZIN",
+      "DIRECTORKRENNIC",
+      "TIEFIGHTERPILOT"
+    ],
+    "platoon_5_row_2": [
+      "EMPERORPALPATINE",
+      "VEERS",
+      "DARTHNIHILUS",
+      "MAUL",
+      "SITHTROOPER"
+    ],
+    "platoon_5_row_3": [
+      "HK47",
+      "DARTHREVAN",
+      "IG86SENTINELDROID",
+      "WAMPA",
+      "GARSAXON"
+    ],
+    "platoon_6_row_1": [
+      "PHASMA",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEROFFICERMALE",
+      "KYLOREN"
+    ],
+    "platoon_6_row_2": [
+      "GRANDADMIRALTHRAWN",
+      "TIEFIGHTERPILOT",
+      "ROYALGUARD",
+      "BASTILASHANDARK",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_6_row_3": [
+      "DARTHSIDIOUS",
+      "MAUL",
+      "SAVAGEOPRESS",
+      "VEERS",
+      "SITHTROOPER"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase02_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Separatist Might Platoon-Z2T",
+    "ability_name": "Core Ship",
+    "platoon_1_row_1": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERIMPERIAL",
+      "TIEREAPER",
+      "TIEADVANCED",
+      "TIESILENCER"
+    ],
+    "platoon_1_row_2": [
+      "MILLENNIUMFALCONPRISTINE",
+      "EBONHAWK",
+      "TIEFIGHTERIMPERIAL",
+      "SLAVE1",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_1_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_2_row_1": [
+      "XWINGRED3",
+      "HOUNDSTOOTH",
+      "GEONOSIANSTARFIGHTER2",
+      "GEONOSIANSTARFIGHTER1",
+      "SLAVE1"
+    ],
+    "platoon_2_row_2": [
+      "SITHINFILTRATOR",
+      "TIEFIGHTERIMPERIAL",
+      "EMPERORSSHUTTLE",
+      "GEONOSIANSTARFIGHTER3",
+      "SLAVE1"
+    ],
+    "platoon_2_row_3": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "EBONHAWK"
+    ],
+    "platoon_3_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN"
+    ],
+    "platoon_3_row_2": [
+      "EBONHAWK",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "PHANTOM2",
+      "TIEFIGHTERIMPERIAL"
+    ],
+    "platoon_3_row_3": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_4_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "BLADEOFDORIN",
+      "HOUNDSTOOTH",
+      "TIESILENCER"
+    ],
+    "platoon_4_row_2": [
+      "UWINGROGUEONE",
+      "EBONHAWK",
+      "GEONOSIANSTARFIGHTER3",
+      "XWINGBLACKONE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_4_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "EMPERORSSHUTTLE",
+      "BLADEOFDORIN",
+      "ARC170CLONESERGEANT",
+      "ARC170REX"
+    ],
+    "platoon_5_row_1": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "MILLENNIUMFALCONEP7",
+      "SLAVE1",
+      "XANADUBLOOD"
+    ],
+    "platoon_5_row_2": [
+      "EBONHAWK",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_5_row_3": [
+      "SLAVE1",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170REX",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_6_row_1": [
+      "HOUNDSTOOTH",
+      "PHANTOM2",
+      "COMMANDSHUTTLE",
+      "EMPERORSSHUTTLE",
+      "UWINGROGUEONE"
+    ],
+    "platoon_6_row_2": [
+      "HOUNDSTOOTH",
+      "SITHBOMBER",
+      "SLAVE1",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_6_row_3": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "EBONHAWK",
+      "BLADEOFDORIN",
+      "UMBARANSTARFIGHTER"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase02_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Separatist Might Platoon-Z2M",
+    "ability_name": "Hailfire Tank",
+    "platoon_1_row_1": [
+      "B1BATTLEDROIDV2",
+      "STORMTROOPER",
+      "GRIEVOUS",
+      "MAGMATROOPER",
+      "IMPERIALPROBEDROID"
+    ],
+    "platoon_1_row_2": [
+      "GRIEVOUS",
+      "MAUL",
+      "CADBANE",
+      "ZAMWESELL",
+      "DARTHREVAN"
+    ],
+    "platoon_1_row_3": [
+      "MOTHERTALZIN",
+      "BOSSK",
+      "MAUL",
+      "JANGOFETT",
+      "DAKA"
+    ],
+    "platoon_2_row_1": [
+      "GRANDMOFFTARKIN",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "IMPERIALPROBEDROID",
+      "DROIDEKA"
+    ],
+    "platoon_2_row_2": [
+      "CADBANE",
+      "DROIDEKA",
+      "DARTHSIDIOUS",
+      "DARTHREVAN",
+      "GRIEVOUS"
+    ],
+    "platoon_2_row_3": [
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERZOMBIE",
+      "NIGHTSISTERSPIRIT",
+      "BOSSK",
+      "DAKA"
+    ],
+    "platoon_3_row_1": [
+      "DROIDEKA",
+      "B1BATTLEDROIDV2",
+      "NUTEGUNRAY",
+      "DARTHTRAYA",
+      "GRIEVOUS"
+    ],
+    "platoon_3_row_2": [
+      "DARTHSION",
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHMARAUDER",
+      "SITHTROOPER"
+    ],
+    "platoon_3_row_3": [
+      "DARTHREVAN",
+      "JANGOFETT",
+      "FIRSTORDERTIEPILOT",
+      "KYLORENUNMASKED",
+      "FIRSTORDERTROOPER"
+    ],
+    "platoon_4_row_1": [
+      "PHASMA",
+      "KYLOREN",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "BASTILASHANDARK"
+    ],
+    "platoon_4_row_2": [
+      "CADBANE",
+      "JANGOFETT",
+      "MOTHERTALZIN",
+      "BOSSK",
+      "EMBO"
+    ],
+    "platoon_4_row_3": [
+      "COLONELSTARCK",
+      "RANGETROOPER",
+      "STORMTROOPER",
+      "DEATHTROOPER",
+      "GRIEVOUS"
+    ],
+    "platoon_5_row_1": [
+      "JANGOFETT",
+      "ZAMWESELL",
+      "BASTILASHANDARK",
+      "BOBAFETT",
+      "GREEDO"
+    ],
+    "platoon_5_row_2": [
+      "BASTILASHANDARK",
+      "HUMANTHUG",
+      "AURRA_SING",
+      "BOSSK",
+      "IMPERIALPROBEDROID"
+    ],
+    "platoon_5_row_3": [
+      "JANGOFETT",
+      "DARTHREVAN",
+      "GRIEVOUS",
+      "DROIDEKA",
+      "B1BATTLEDROIDV2"
+    ],
+    "platoon_6_row_1": [
+      "FIRSTORDEREXECUTIONER",
+      "FIRSTORDEROFFICERMALE",
+      "FIRSTORDERSPECIALFORCESPILOT",
+      "FIRSTORDERTIEPILOT",
+      "DARTHTRAYA"
+    ],
+    "platoon_6_row_2": [
+      "BASTILASHANDARK",
+      "DARTHNIHILUS",
+      "SITHMARAUDER",
+      "MOTHERTALZIN",
+      "HK47"
+    ],
+    "platoon_6_row_3": [
+      "NUTEGUNRAY",
+      "DARTHREVAN",
+      "JANGOFETT",
+      "DROIDEKA",
+      "B1BATTLEDROIDV2"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase02_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Separatist Might Platoon-Z2B",
+    "ability_name": "Metal Mayhem",
+    "platoon_1_row_1": [
+      "MOTHERTALZIN",
+      "DARTHREVAN",
+      "DARTHTRAYA",
+      "DAKA",
+      "NIGHTSISTERACOLYTE"
+    ],
+    "platoon_1_row_2": [
+      "GRIEVOUS",
+      "DEATHTROOPER",
+      "STORMTROOPER",
+      "TIEFIGHTERPILOT",
+      "VADER"
+    ],
+    "platoon_1_row_3": [
+      "BASTILASHANDARK",
+      "NIGHTSISTERSPIRIT",
+      "BOSSK",
+      "MOTHERTALZIN",
+      "DARTHTRAYA"
+    ],
+    "platoon_2_row_1": [
+      "TIEFIGHTERPILOT",
+      "VADER",
+      "BASTILASHANDARK",
+      "SHORETROOPER",
+      "IMPERIALPROBEDROID"
+    ],
+    "platoon_2_row_2": [
+      "IMPERIALSUPERCOMMANDO",
+      "DARTHREVAN",
+      "JANGOFETT",
+      "GREEDO",
+      "BOSSK"
+    ],
+    "platoon_2_row_3": [
+      "NIGHTSISTERINITIATE",
+      "NIGHTSISTERSPIRIT",
+      "MOTHERTALZIN",
+      "GRIEVOUS",
+      "SAVAGEOPRESS"
+    ],
+    "platoon_3_row_1": [
+      "FIRSTORDERTROOPER",
+      "KYLOREN",
+      "KYLORENUNMASKED",
+      "DARTHSIDIOUS",
+      "DARTHREVAN"
+    ],
+    "platoon_3_row_2": [
+      "FIRSTORDEROFFICERMALE",
+      "GRIEVOUS",
+      "FIRSTORDERTROOPER",
+      "KYLORENUNMASKED",
+      "HUMANTHUG"
+    ],
+    "platoon_3_row_3": [
+      "JANGOFETT",
+      "BOSSK",
+      "HK47",
+      "BASTILASHANDARK",
+      "DENGAR"
+    ],
+    "platoon_4_row_1": [
+      "MOTHERTALZIN",
+      "MAUL",
+      "KYLORENUNMASKED",
+      "GRIEVOUS",
+      "BOSSK"
+    ],
+    "platoon_4_row_2": [
+      "GRIEVOUS",
+      "BASTILASHANDARK",
+      "DARTHSIDIOUS",
+      "DARTHTRAYA",
+      "JANGOFETT"
+    ],
+    "platoon_4_row_3": [
+      "CADBANE",
+      "IG86SENTINELDROID",
+      "MAGNAGUARD",
+      "DARTHREVAN",
+      "B2SUPERBATTLEDROID"
+    ],
+    "platoon_5_row_1": [
+      "KYLORENUNMASKED",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "DARTHREVAN",
+      "HUMANTHUG"
+    ],
+    "platoon_5_row_2": [
+      "BASTILASHANDARK",
+      "CANDEROUSORDO",
+      "MOTHERTALZIN",
+      "DARTHSION",
+      "HK47"
+    ],
+    "platoon_5_row_3": [
+      "DARTHTRAYA",
+      "DEATHTROOPER",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "GRIEVOUS"
+    ],
+    "platoon_6_row_1": [
+      "DARTHSIDIOUS",
+      "DARTHTRAYA",
+      "TUSKENRAIDER",
+      "TUSKENSHAMAN",
+      "URORRURRR"
+    ],
+    "platoon_6_row_2": [
+      "DARTHREVAN",
+      "GARSAXON",
+      "JANGOFETT",
+      "STORMTROOPER",
+      "RANGETROOPER"
+    ],
+    "platoon_6_row_3": [
+      "GRIEVOUS",
+      "DROIDEKA",
+      "B1BATTLEDROIDV2",
+      "BASTILASHANDARK",
+      "JANGOFETT"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase03_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Separatist Might Platoon-Z3T",
+    "ability_name": "Core Ship",
+    "platoon_1_row_1": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "EBONHAWK",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERANAKIN"
+    ],
+    "platoon_1_row_2": [
+      "HOUNDSTOOTH",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "EBONHAWK",
+      "TIEFIGHTERIMPERIAL"
+    ],
+    "platoon_1_row_3": [
+      "TIEFIGHTERFIRSTORDER",
+      "TIEFIGHTERIMPERIAL",
+      "MILLENNIUMFALCON",
+      "TIEADVANCED",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_2_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "MILLENNIUMFALCON",
+      "HOUNDSTOOTH",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_2_row_2": [
+      "UWINGROGUEONE",
+      "HOUNDSTOOTH",
+      "MILLENNIUMFALCON",
+      "EMPERORSSHUTTLE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_2_row_3": [
+      "JEDISTARFIGHTERANAKIN",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_3_row_1": [
+      "ARC170CLONESERGEANT",
+      "ARC170REX",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "EBONHAWK"
+    ],
+    "platoon_3_row_2": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "EBONHAWK",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_3_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "MILLENNIUMFALCON",
+      "ARC170CLONESERGEANT",
+      "BLADEOFDORIN"
+    ],
+    "platoon_4_row_1": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "MILLENNIUMFALCONEP7",
+      "SLAVE1",
+      "XANADUBLOOD"
+    ],
+    "platoon_4_row_2": [
+      "MILLENNIUMFALCONPRISTINE",
+      "XWINGRED3",
+      "TIEFIGHTERIMPERIAL",
+      "EMPERORSSHUTTLE",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_4_row_3": [
+      "MILLENNIUMFALCON",
+      "JEDISTARFIGHTERANAKIN",
+      "EBONHAWK",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX"
+    ],
+    "platoon_5_row_1": [
+      "XWINGRED3",
+      "MILLENNIUMFALCONEP7",
+      "JEDISTARFIGHTERANAKIN",
+      "MILLENNIUMFALCON",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_5_row_2": [
+      "MILLENNIUMFALCON",
+      "TIEFIGHTERIMPERIAL",
+      "TIEADVANCED",
+      "EBONHAWK",
+      "SLAVE1"
+    ],
+    "platoon_5_row_3": [
+      "HOUNDSTOOTH",
+      "JEDISTARFIGHTERANAKIN",
+      "COMMANDSHUTTLE",
+      "GAUNTLETSTARFIGHTER",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_6_row_1": [
+      "SITHFIGHTER",
+      "SITHBOMBER",
+      "EBONHAWK",
+      "XANADUBLOOD",
+      "IG2000"
+    ],
+    "platoon_6_row_2": [
+      "EBONHAWK",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_6_row_3": [
+      "SLAVE1",
+      "JEDISTARFIGHTERANAKIN",
+      "GAUNTLETSTARFIGHTER",
+      "EBONHAWK",
+      "UMBARANSTARFIGHTER"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase03_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Separatist Might Platoon-Z3M",
+    "ability_name": "Hailfire Tank",
+    "platoon_1_row_1": [
+      "MOTHERTALZIN",
+      "TALIA",
+      "DARTHREVAN",
+      "SAVAGEOPRESS",
+      "DAKA"
+    ],
+    "platoon_1_row_2": [
+      "PHASMA",
+      "DARTHMALAK",
+      "BOSSK",
+      "FIRSTORDEREXECUTIONER",
+      "FIRSTORDERSPECIALFORCESPILOT"
+    ],
+    "platoon_1_row_3": [
+      "EMPERORPALPATINE",
+      "TIEFIGHTERPILOT",
+      "AURRA_SING",
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER"
+    ],
+    "platoon_2_row_1": [
+      "MOTHERTALZIN",
+      "EMPERORPALPATINE",
+      "JANGOFETT",
+      "GRANDADMIRALTHRAWN",
+      "IMPERIALPROBEDROID"
+    ],
+    "platoon_2_row_2": [
+      "ASAJVENTRESS",
+      "RANGETROOPER",
+      "BASTILASHANDARK",
+      "DARTHREVAN",
+      "DARTHMALAK"
+    ],
+    "platoon_2_row_3": [
+      "NIGHTSISTERINITIATE",
+      "MOTHERTALZIN",
+      "BOSSK",
+      "SAVAGEOPRESS",
+      "DAKA"
+    ],
+    "platoon_3_row_1": [
+      "MOTHERTALZIN",
+      "DEATHTROOPER",
+      "SHORETROOPER",
+      "STORMTROOPER",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_3_row_2": [
+      "BOSSK",
+      "EMPERORPALPATINE",
+      "GRANDADMIRALTHRAWN",
+      "RANGETROOPER",
+      "DARTHREVAN"
+    ],
+    "platoon_3_row_3": [
+      "TIEFIGHTERPILOT",
+      "WAMPA",
+      "COLONELSTARCK",
+      "SHORETROOPER",
+      "IMPERIALPROBEDROID"
+    ],
+    "platoon_4_row_1": [
+      "JANGOFETT",
+      "SHORETROOPER",
+      "GRANDADMIRALTHRAWN",
+      "WAMPA",
+      "ROYALGUARD"
+    ],
+    "platoon_4_row_2": [
+      "BASTILASHANDARK",
+      "CANDEROUSORDO",
+      "HK47",
+      "BOSSK",
+      "DARTHREVAN"
+    ],
+    "platoon_4_row_3": [
+      "DARTHMALAK",
+      "DAKA",
+      "NIGHTSISTERSPIRIT",
+      "MOTHERTALZIN",
+      "NIGHTSISTERACOLYTE"
+    ],
+    "platoon_5_row_1": [
+      "PHASMA",
+      "FIRSTORDEROFFICERMALE",
+      "DARTHREVAN",
+      "BOSSK",
+      "FIRSTORDERTROOPER"
+    ],
+    "platoon_5_row_2": [
+      "DARTHTRAYA",
+      "JANGOFETT",
+      "SITHMARAUDER",
+      "SITHTROOPER",
+      "DARTHSION"
+    ],
+    "platoon_5_row_3": [
+      "VEERS",
+      "DARTHMALAK",
+      "BOSSK",
+      "WAMPA",
+      "SNOWTROOPER"
+    ],
+    "platoon_6_row_1": [
+      "FIRSTORDERTIEPILOT",
+      "KYLORENUNMASKED",
+      "DARTHREVAN",
+      "FIRSTORDEREXECUTIONER",
+      "FIRSTORDEROFFICERMALE"
+    ],
+    "platoon_6_row_2": [
+      "BASTILASHANDARK",
+      "CANDEROUSORDO",
+      "SITHMARAUDER",
+      "SITHTROOPER",
+      "MOTHERTALZIN"
+    ],
+    "platoon_6_row_3": [
+      "EMBO",
+      "JANGOFETT",
+      "DARTHMALAK",
+      "DARTHREVAN",
+      "ASAJVENTRESS"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase03_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Separatist Might Platoon-Z3B",
+    "ability_name": "AT-TE",
+    "platoon_1_row_1": [
+      "VEERS",
+      "SNOWTROOPER",
+      "DARTHREVAN",
+      "EMPERORPALPATINE",
+      "GRANDMOFFTARKIN"
+    ],
+    "platoon_1_row_2": [
+      "GRANDMOFFTARKIN",
+      "DARTHREVAN",
+      "EMPERORPALPATINE",
+      "GRANDADMIRALTHRAWN",
+      "WAMPA"
+    ],
+    "platoon_1_row_3": [
+      "VEERS",
+      "KYLORENUNMASKED",
+      "SNOWTROOPER",
+      "TIEFIGHTERPILOT",
+      "IMPERIALSUPERCOMMANDO"
+    ],
+    "platoon_2_row_1": [
+      "PHASMA",
+      "FIRSTORDEROFFICERMALE",
+      "DARTHREVAN",
+      "FIRSTORDERTROOPER",
+      "IG86SENTINELDROID"
+    ],
+    "platoon_2_row_2": [
+      "GRANDMOFFTARKIN",
+      "EMPERORPALPATINE",
+      "MAGMATROOPER",
+      "BOSSK",
+      "RANGETROOPER"
+    ],
+    "platoon_2_row_3": [
+      "BOSSK",
+      "JANGOFETT",
+      "AURRA_SING",
+      "EMBO",
+      "DENGAR"
+    ],
+    "platoon_3_row_1": [
+      "TUSKENRAIDER",
+      "STORMTROOPER",
+      "BOSSK",
+      "SNOWTROOPER",
+      "MAGMATROOPER"
+    ],
+    "platoon_3_row_2": [
+      "TALIA",
+      "MOTHERTALZIN",
+      "ASAJVENTRESS",
+      "DAKA",
+      "JANGOFETT"
+    ],
+    "platoon_3_row_3": [
+      "DARTHSION",
+      "DARTHTRAYA",
+      "DARTHNIHILUS",
+      "SITHASSASSIN",
+      "SITHMARAUDER"
+    ],
+    "platoon_4_row_1": [
+      "VEERS",
+      "FIRSTORDEROFFICERMALE",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDERTIEPILOT",
+      "KYLORENUNMASKED"
+    ],
+    "platoon_4_row_2": [
+      "EMBO",
+      "AURRA_SING",
+      "DARTHREVAN",
+      "NUTEGUNRAY",
+      "SHORETROOPER"
+    ],
+    "platoon_4_row_3": [
+      "WAMPA",
+      "DARTHMALAK",
+      "TUSKENRAIDER",
+      "TUSKENSHAMAN",
+      "GRANDADMIRALTHRAWN"
+    ],
+    "platoon_5_row_1": [
+      "NIGHTSISTERACOLYTE",
+      "NIGHTSISTERZOMBIE",
+      "BOSSK",
+      "GRANDADMIRALTHRAWN",
+      "RANGETROOPER"
+    ],
+    "platoon_5_row_2": [
+      "DARTHMALAK",
+      "AURRA_SING",
+      "JANGOFETT",
+      "CADBANE",
+      "BOSSK"
+    ],
+    "platoon_5_row_3": [
+      "TUSKENRAIDER",
+      "RANGETROOPER",
+      "URORRURRR",
+      "TIEFIGHTERPILOT",
+      "DARTHREVAN"
+    ],
+    "platoon_6_row_1": [
+      "SITHMARAUDER",
+      "DARTHREVAN",
+      "URORRURRR",
+      "BOSSK",
+      "SHORETROOPER"
+    ],
+    "platoon_6_row_2": [
+      "TUSKENSHAMAN",
+      "URORRURRR",
+      "BOSSK",
+      "TUSKENRAIDER",
+      "HUMANTHUG"
+    ],
+    "platoon_6_row_3": [
+      "GRANDADMIRALTHRAWN",
+      "IG86SENTINELDROID",
+      "DARTHMALAK",
+      "DARTHREVAN",
+      "IG88"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase04_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Separatist Might Platoon-Z4T",
+    "ability_name": "LAAT",
+    "platoon_1_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "EMPERORSSHUTTLE",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_1_row_2": [
+      "EMPERORSSHUTTLE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_1_row_3": [
+      "TIEREAPER",
+      "TIEFIGHTERIMPERIAL",
+      "EMPERORSSHUTTLE",
+      "EBONHAWK",
+      "TIEADVANCED"
+    ],
+    "platoon_2_row_1": [
+      "MILLENNIUMFALCON",
+      "JEDISTARFIGHTERANAKIN",
+      "HOUNDSTOOTH",
+      "EBONHAWK",
+      "SLAVE1"
+    ],
+    "platoon_2_row_2": [
+      "EBONHAWK",
+      "JEDISTARFIGHTERANAKIN",
+      "XWINGRED3",
+      "HOUNDSTOOTH",
+      "ARC170CLONESERGEANT"
+    ],
+    "platoon_2_row_3": [
+      "UMBARANSTARFIGHTER",
+      "EMPERORSSHUTTLE",
+      "EBONHAWK",
+      "JEDISTARFIGHTERAHSOKATANO",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_3_row_1": [
+      "XWINGRED2",
+      "HOUNDSTOOTH",
+      "MILLENNIUMFALCON",
+      "JEDISTARFIGHTERANAKIN",
+      "TIESILENCER"
+    ],
+    "platoon_3_row_2": [
+      "HOUNDSTOOTH",
+      "TIEFIGHTERIMPERIAL",
+      "TIEADVANCED",
+      "EBONHAWK",
+      "SLAVE1"
+    ],
+    "platoon_3_row_3": [
+      "MILLENNIUMFALCON",
+      "MILLENNIUMFALCONEP7",
+      "MILLENNIUMFALCONPRISTINE",
+      "JEDISTARFIGHTERANAKIN",
+      "HOUNDSTOOTH"
+    ],
+    "platoon_4_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "EBONHAWK",
+      "EMPERORSSHUTTLE",
+      "BLADEOFDORIN"
+    ],
+    "platoon_4_row_2": [
+      "EMPERORSSHUTTLE",
+      "TIESILENCER",
+      "TIEFIGHTERFIRSTORDER",
+      "HOUNDSTOOTH",
+      "TIEREAPER"
+    ],
+    "platoon_4_row_3": [
+      "HOUNDSTOOTH",
+      "MILLENNIUMFALCONEP7",
+      "MILLENNIUMFALCON",
+      "EBONHAWK",
+      "MILLENNIUMFALCONPRISTINE"
+    ],
+    "platoon_5_row_1": [
+      "GEONOSIANSTARFIGHTER3",
+      "GEONOSIANSTARFIGHTER2",
+      "GEONOSIANSTARFIGHTER1",
+      "HOUNDSTOOTH",
+      "EBONHAWK"
+    ],
+    "platoon_5_row_2": [
+      "SLAVE1",
+      "JEDISTARFIGHTERANAKIN",
+      "GAUNTLETSTARFIGHTER",
+      "HOUNDSTOOTH",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_5_row_3": [
+      "SITHBOMBER",
+      "XANADUBLOOD",
+      "IG2000",
+      "SITHFIGHTER",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_6_row_1": [
+      "EMPERORSSHUTTLE",
+      "HOUNDSTOOTH",
+      "EBONHAWK",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_6_row_2": [
+      "HOUNDSTOOTH",
+      "IG2000",
+      "SLAVE1",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_6_row_3": [
+      "EMPERORSSHUTTLE",
+      "EBONHAWK",
+      "COMMANDSHUTTLE",
+      "HOUNDSTOOTH",
+      "MILLENNIUMFALCONEP7"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase04_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Separatist Might Platoon-Z4M",
+    "ability_name": "Republic Resolve",
+    "platoon_1_row_1": [
+      "DARTHREVAN",
+      "BOSSK",
+      "ZAMWESELL",
+      "SAVAGEOPRESS",
+      "DAKA"
+    ],
+    "platoon_1_row_2": [
+      "PHASMA",
+      "BOSSK",
+      "FIRSTORDERTROOPER",
+      "FIRSTORDEREXECUTIONER",
+      "FIRSTORDERSPECIALFORCESPILOT"
+    ],
+    "platoon_1_row_3": [
+      "FIRSTORDERSPECIALFORCESPILOT",
+      "FIRSTORDEREXECUTIONER",
+      "DARTHMALAK",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDERTROOPER"
+    ],
+    "platoon_2_row_1": [
+      "MOTHERTALZIN",
+      "DEATHTROOPER",
+      "GRANDADMIRALTHRAWN",
+      "WAMPA",
+      "DARTHREVAN"
+    ],
+    "platoon_2_row_2": [
+      "EMPERORPALPATINE",
+      "DARTHMALAK",
+      "DEATHTROOPER",
+      "DIRECTORKRENNIC",
+      "SITHTROOPER"
+    ],
+    "platoon_2_row_3": [
+      "NIGHTSISTERINITIATE",
+      "NIGHTSISTERSPIRIT",
+      "BOSSK",
+      "SAVAGEOPRESS",
+      "DAKA"
+    ],
+    "platoon_3_row_1": [
+      "JANGOFETT",
+      "ZAMWESELL",
+      "IG88",
+      "BOSSK",
+      "IG86SENTINELDROID"
+    ],
+    "platoon_3_row_2": [
+      "JANGOFETT",
+      "BOSSK",
+      "DARTHMALAK",
+      "DARTHSIDIOUS",
+      "DARTHREVAN"
+    ],
+    "platoon_3_row_3": [
+      "DARTHREVAN",
+      "MOTHERTALZIN",
+      "IG86SENTINELDROID",
+      "JANGOFETT",
+      "NIGHTSISTERSPIRIT"
+    ],
+    "platoon_4_row_1": [
+      "DENGAR",
+      "DARTHMALAK",
+      "AURRA_SING",
+      "BOSSK",
+      "BOBAFETT"
+    ],
+    "platoon_4_row_2": [
+      "DARTHSION",
+      "DARTHTRAYA",
+      "DARTHNIHILUS",
+      "DARTHREVAN",
+      "SITHMARAUDER"
+    ],
+    "platoon_4_row_3": [
+      "DARTHREVAN",
+      "NIGHTSISTERSPIRIT",
+      "NIGHTSISTERZOMBIE",
+      "MOTHERTALZIN",
+      "NIGHTSISTERACOLYTE"
+    ],
+    "platoon_5_row_1": [
+      "DARTHTRAYA",
+      "DARTHMALAK",
+      "CANDEROUSORDO",
+      "DARTHREVAN",
+      "DARTHSION"
+    ],
+    "platoon_5_row_2": [
+      "MOTHERTALZIN",
+      "DENGAR",
+      "BOBAFETT",
+      "WAMPA",
+      "BOSSK"
+    ],
+    "platoon_5_row_3": [
+      "DARTHREVAN",
+      "BOSSK",
+      "NIGHTSISTERSPIRIT",
+      "SAVAGEOPRESS",
+      "URORRURRR"
+    ],
+    "platoon_6_row_1": [
+      "GAMORREANGUARD",
+      "GARSAXON",
+      "GRANDADMIRALTHRAWN",
+      "WAMPA",
+      "SNOWTROOPER"
+    ],
+    "platoon_6_row_2": [
+      "BASTILASHANDARK",
+      "CANDEROUSORDO",
+      "DARTHNIHILUS",
+      "SITHTROOPER",
+      "DARTHSION"
+    ],
+    "platoon_6_row_3": [
+      "DARTHREVAN",
+      "DARTHMALAK",
+      "JANGOFETT",
+      "MOTHERTALZIN",
+      "BOSSK"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase04_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Separatist Might Platoon-Z4B",
+    "ability_name": "AT-TE",
+    "platoon_1_row_1": [
+      "DARTHREVAN",
+      "DARTHMALAK",
+      "DARTHSIDIOUS",
+      "KYLORENUNMASKED",
+      "WAMPA"
+    ],
+    "platoon_1_row_2": [
+      "GRANDADMIRALTHRAWN",
+      "EMPERORPALPATINE",
+      "HUMANTHUG",
+      "DEATHTROOPER",
+      "MAGMATROOPER"
+    ],
+    "platoon_1_row_3": [
+      "EMPERORPALPATINE",
+      "VADER",
+      "GRANDADMIRALTHRAWN",
+      "MOTHERTALZIN",
+      "DEATHTROOPER"
+    ],
+    "platoon_2_row_1": [
+      "MOTHERTALZIN",
+      "FIRSTORDEROFFICERMALE",
+      "FIRSTORDERSPECIALFORCESPILOT",
+      "FIRSTORDERTIEPILOT",
+      "FIRSTORDEREXECUTIONER"
+    ],
+    "platoon_2_row_2": [
+      "GRANDMOFFTARKIN",
+      "EMPERORPALPATINE",
+      "TIEFIGHTERPILOT",
+      "STORMTROOPER",
+      "BOSSK"
+    ],
+    "platoon_2_row_3": [
+      "TUSKENSHAMAN",
+      "IG86SENTINELDROID",
+      "DARTHREVAN",
+      "BOSSK",
+      "DARTHMALAK"
+    ],
+    "platoon_3_row_1": [
+      "DIRECTORKRENNIC",
+      "DEATHTROOPER",
+      "GRANDADMIRALTHRAWN",
+      "HUMANTHUG",
+      "BOSSK"
+    ],
+    "platoon_3_row_2": [
+      "IMPERIALSUPERCOMMANDO",
+      "EMPERORPALPATINE",
+      "GRANDADMIRALTHRAWN",
+      "RANGETROOPER",
+      "DARTHMALAK"
+    ],
+    "platoon_3_row_3": [
+      "DARTHREVAN",
+      "GREEDO",
+      "DEATHTROOPER",
+      "TIEFIGHTERPILOT",
+      "RANGETROOPER"
+    ],
+    "platoon_4_row_1": [
+      "BOSSK",
+      "DARTHSION",
+      "WAMPA",
+      "HK47",
+      "SITHASSASSIN"
+    ],
+    "platoon_4_row_2": [
+      "IG88",
+      "BOSSK",
+      "GAMORREANGUARD",
+      "HUMANTHUG",
+      "TUSKENRAIDER"
+    ],
+    "platoon_4_row_3": [
+      "KYLORENUNMASKED",
+      "FIRSTORDEROFFICERMALE",
+      "DARTHREVAN",
+      "DARTHTRAYA",
+      "DARTHMALAK"
+    ],
+    "platoon_5_row_1": [
+      "DARTHMALAK",
+      "URORRURRR",
+      "TUSKENRAIDER",
+      "WAMPA",
+      "GARSAXON"
+    ],
+    "platoon_5_row_2": [
+      "WAMPA",
+      "DENGAR",
+      "BOSSK",
+      "AURRA_SING",
+      "DARTHREVAN"
+    ],
+    "platoon_5_row_3": [
+      "MAGMATROOPER",
+      "BOSSK",
+      "DEATHTROOPER",
+      "TIEFIGHTERPILOT",
+      "IMPERIALSUPERCOMMANDO"
+    ],
+    "platoon_6_row_1": [
+      "BASTILASHANDARK",
+      "CANDEROUSORDO",
+      "HK47",
+      "SITHTROOPER",
+      "DARTHTRAYA"
+    ],
+    "platoon_6_row_2": [
+      "DARTHREVAN",
+      "JANGOFETT",
+      "MOTHERTALZIN",
+      "DARTHMALAK",
+      "MAUL"
+    ],
+    "platoon_6_row_3": [
+      "DARTHMALAK",
+      "WAMPA",
+      "DARTHREVAN",
+      "JANGOFETT",
+      "MOTHERTALZIN"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase01_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Republic Offensive Platoon-Z1T",
+    "ability_name": "Formations",
+    "platoon_1_row_1": [
+      "TIEFIGHTERFIRSTORDER",
+      "HYENABOMBER",
+      "TIEREAPER",
+      "TIEADVANCED",
+      "TIESILENCER"
+    ],
+    "platoon_1_row_2": [
+      "MILLENNIUMFALCONPRISTINE",
+      "EBONHAWK",
+      "HYENABOMBER",
+      "YWINGCLONEWARS",
+      "MILLENNIUMFALCON"
+    ],
+    "platoon_1_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "VULTUREDROID",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_2_row_1": [
+      "XWINGRED3",
+      "MILLENNIUMFALCON",
+      "GEONOSIANSTARFIGHTER3",
+      "GEONOSIANSTARFIGHTER1",
+      "YWINGCLONEWARS"
+    ],
+    "platoon_2_row_2": [
+      "SITHINFILTRATOR",
+      "HYENABOMBER",
+      "EMPERORSSHUTTLE",
+      "GEONOSIANSTARFIGHTER3",
+      "YWINGCLONEWARS"
+    ],
+    "platoon_2_row_3": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "EBONHAWK"
+    ],
+    "platoon_3_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX",
+      "VULTUREDROID",
+      "BLADEOFDORIN"
+    ],
+    "platoon_3_row_2": [
+      "EBONHAWK",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "PHANTOM2",
+      "HYENABOMBER"
+    ],
+    "platoon_3_row_3": [
+      "VULTUREDROID",
+      "ARC170REX",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_4_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "BLADEOFDORIN",
+      "MILLENNIUMFALCON",
+      "TIESILENCER"
+    ],
+    "platoon_4_row_2": [
+      "UWINGROGUEONE",
+      "EBONHAWK",
+      "GEONOSIANSTARFIGHTER3",
+      "XWINGBLACKONE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_4_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "EMPERORSSHUTTLE",
+      "BLADEOFDORIN",
+      "VULTUREDROID",
+      "ARC170REX"
+    ],
+    "platoon_5_row_1": [
+      "MILLENNIUMFALCON",
+      "IG2000",
+      "MILLENNIUMFALCONEP7",
+      "YWINGCLONEWARS",
+      "XANADUBLOOD"
+    ],
+    "platoon_5_row_2": [
+      "EBONHAWK",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_5_row_3": [
+      "YWINGCLONEWARS",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170REX",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_6_row_1": [
+      "MILLENNIUMFALCON",
+      "PHANTOM2",
+      "COMMANDSHUTTLE",
+      "EMPERORSSHUTTLE",
+      "UWINGROGUEONE"
+    ],
+    "platoon_6_row_2": [
+      "MILLENNIUMFALCON",
+      "ARC170REX",
+      "YWINGCLONEWARS",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_6_row_3": [
+      "VULTUREDROID",
+      "MILLENNIUMFALCON",
+      "EBONHAWK",
+      "BLADEOFDORIN",
+      "UMBARANSTARFIGHTER"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase01_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Republic Offensive Platoon-Z1M",
+    "ability_name": "Republic Resolve",
+    "platoon_1_row_1": [
+      "BB8",
+      "HERASYNDULLAS3",
+      "ZEBS3",
+      "CHIRRUTIMWE",
+      "GENERALKENOBI"
+    ],
+    "platoon_1_row_2": [
+      "BARRISSOFFEE",
+      "R2D2_LEGENDARY",
+      "SABINEWRENS3",
+      "ROSETICO",
+      "AMILYNHOLDO"
+    ],
+    "platoon_1_row_3": [
+      "CORUSCANTUNDERWORLDPOLICE",
+      "STORMTROOPERHAN",
+      "RESISTANCETROOPER",
+      "RESISTANCEPILOT",
+      "REY"
+    ],
+    "platoon_2_row_1": [
+      "C3POLEGENDARY",
+      "FINN",
+      "ZEBS3",
+      "HERMITYODA",
+      "ENFYSNEST"
+    ],
+    "platoon_2_row_2": [
+      "AHSOKATANO",
+      "C3POLEGENDARY",
+      "BIGGSDARKLIGHTER",
+      "SHAAKTI",
+      "VISASMARR"
+    ],
+    "platoon_2_row_3": [
+      "COMMANDERLUKESKYWALKER",
+      "ENFYSNEST",
+      "GENERALKENOBI",
+      "FINN",
+      "R2D2_LEGENDARY"
+    ],
+    "platoon_3_row_1": [
+      "BB8",
+      "COMMANDERLUKESKYWALKER",
+      "ZEBS3",
+      "FINN",
+      "HERASYNDULLAS3"
+    ],
+    "platoon_3_row_2": [
+      "AMILYNHOLDO",
+      "R2D2_LEGENDARY",
+      "BARRISSOFFEE",
+      "SABINEWRENS3",
+      "C3POLEGENDARY"
+    ],
+    "platoon_3_row_3": [
+      "L3_37",
+      "PAO",
+      "LUMINARAUNDULI",
+      "FULCRUMAHSOKA",
+      "PRINCESSLEIA"
+    ],
+    "platoon_4_row_1": [
+      "C3POLEGENDARY",
+      "HERASYNDULLAS3",
+      "ZEBS3",
+      "HERMITYODA",
+      "FINN"
+    ],
+    "platoon_4_row_2": [
+      "BAZEMALBUS",
+      "REYJEDITRAINING",
+      "VISASMARR",
+      "C3POLEGENDARY",
+      "BIGGSDARKLIGHTER"
+    ],
+    "platoon_4_row_3": [
+      "AMILYNHOLDO",
+      "R2D2_LEGENDARY",
+      "BARRISSOFFEE",
+      "SABINEWRENS3",
+      "C3POLEGENDARY"
+    ],
+    "platoon_5_row_1": [
+      "AHSOKATANO",
+      "ROSETICO",
+      "BIGGSDARKLIGHTER",
+      "CHIRRUTIMWE",
+      "VISASMARR"
+    ],
+    "platoon_5_row_2": [
+      "CHEWBACCALEGENDARY",
+      "REYJEDITRAINING",
+      "LUMINARAUNDULI",
+      "L3_37",
+      "PRINCESSLEIA"
+    ],
+    "platoon_5_row_3": [
+      "AHSOKATANO",
+      "C3POLEGENDARY",
+      "BIGGSDARKLIGHTER",
+      "HERASYNDULLAS3",
+      "VISASMARR"
+    ],
+    "platoon_6_row_1": [
+      "CORUSCANTUNDERWORLDPOLICE",
+      "STORMTROOPERHAN",
+      "RESISTANCETROOPER",
+      "RESISTANCEPILOT",
+      "REY"
+    ],
+    "platoon_6_row_2": [
+      "COMMANDERLUKESKYWALKER",
+      "SHAAKTI",
+      "HERMITYODA",
+      "FINN",
+      "R2D2_LEGENDARY"
+    ],
+    "platoon_6_row_3": [
+      "CT7567",
+      "JAWASCAVENGER",
+      "CC2224",
+      "CT210408",
+      "UGNAUGHT"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase01_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Republic Offensive Platoon-Z1B",
+    "ability_name": "AT-TE",
+    "platoon_1_row_1": [
+      "BAZEMALBUS",
+      "REYJEDITRAINING",
+      "VISASMARR",
+      "BB8",
+      "BIGGSDARKLIGHTER"
+    ],
+    "platoon_1_row_2": [
+      "L3_37",
+      "LOBOT",
+      "BB8",
+      "FULCRUMAHSOKA",
+      "PRINCESSLEIA"
+    ],
+    "platoon_1_row_3": [
+      "UGNAUGHT",
+      "JAWA",
+      "R2D2_LEGENDARY",
+      "HOTHREBELSOLDIER",
+      "ADMIRALACKBAR"
+    ],
+    "platoon_2_row_1": [
+      "C3POLEGENDARY",
+      "COMMANDERLUKESKYWALKER",
+      "ZEBS3",
+      "GENERALKENOBI",
+      "ENFYSNEST"
+    ],
+    "platoon_2_row_2": [
+      "AHSOKATANO",
+      "COMMANDERLUKESKYWALKER",
+      "BIGGSDARKLIGHTER",
+      "SHAAKTI",
+      "VISASMARR"
+    ],
+    "platoon_2_row_3": [
+      "FINN",
+      "BB8",
+      "ZEBS3",
+      "COMMANDERLUKESKYWALKER",
+      "ENFYSNEST"
+    ],
+    "platoon_3_row_1": [
+      "GENERALKENOBI",
+      "COMMANDERLUKESKYWALKER",
+      "BB8",
+      "FINN",
+      "HERMITYODA"
+    ],
+    "platoon_3_row_2": [
+      "BARRISSOFFEE",
+      "HERASYNDULLAS3",
+      "HOTHREBELSCOUT",
+      "COMMANDERLUKESKYWALKER",
+      "AMILYNHOLDO"
+    ],
+    "platoon_3_row_3": [
+      "CORUSCANTUNDERWORLDPOLICE",
+      "STORMTROOPERHAN",
+      "RESISTANCETROOPER",
+      "RESISTANCEPILOT",
+      "R2D2_LEGENDARY"
+    ],
+    "platoon_4_row_1": [
+      "HERMITYODA",
+      "FULCRUMAHSOKA",
+      "ZEBS3",
+      "FINN",
+      "SHAAKTI"
+    ],
+    "platoon_4_row_2": [
+      "AMILYNHOLDO",
+      "R2D2_LEGENDARY",
+      "BARRISSOFFEE",
+      "BIGGSDARKLIGHTER",
+      "ROSETICO"
+    ],
+    "platoon_4_row_3": [
+      "ADMIRALACKBAR",
+      "PRINCESSLEIA",
+      "LUMINARAUNDULI",
+      "FULCRUMAHSOKA",
+      "BB8"
+    ],
+    "platoon_5_row_1": [
+      "BB8",
+      "LOBOT",
+      "R2D2_LEGENDARY",
+      "FULCRUMAHSOKA",
+      "PRINCESSLEIA"
+    ],
+    "platoon_5_row_2": [
+      "REYJEDITRAINING",
+      "SHAAKTI",
+      "BAZEMALBUS",
+      "ROSETICO",
+      "VISASMARR"
+    ],
+    "platoon_5_row_3": [
+      "C3POLEGENDARY",
+      "CT7567",
+      "ZEBS3",
+      "HERMITYODA",
+      "L3_37"
+    ],
+    "platoon_6_row_1": [
+      "CORUSCANTUNDERWORLDPOLICE",
+      "STORMTROOPERHAN",
+      "RESISTANCETROOPER",
+      "RESISTANCEPILOT",
+      "REY"
+    ],
+    "platoon_6_row_2": [
+      "CHEWBACCALEGENDARY",
+      "PRINCESSLEIA",
+      "LUMINARAUNDULI",
+      "BB8",
+      "ADMIRALACKBAR"
+    ],
+    "platoon_6_row_3": [
+      "AHSOKATANO",
+      "C3POLEGENDARY",
+      "BIGGSDARKLIGHTER",
+      "SHAAKTI",
+      "VISASMARR"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase02_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Republic Offensive Platoon-Z2T",
+    "ability_name": "Core Ship",
+    "platoon_1_row_1": [
+      "TIEFIGHTERFIRSTORDER",
+      "HYENABOMBER",
+      "TIEREAPER",
+      "TIEADVANCED",
+      "TIESILENCER"
+    ],
+    "platoon_1_row_2": [
+      "MILLENNIUMFALCONPRISTINE",
+      "EBONHAWK",
+      "HYENABOMBER",
+      "YWINGCLONEWARS",
+      "MILLENNIUMFALCON"
+    ],
+    "platoon_1_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "VULTUREDROID",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_2_row_1": [
+      "XWINGRED3",
+      "MILLENNIUMFALCON",
+      "GEONOSIANSTARFIGHTER2",
+      "GEONOSIANSTARFIGHTER1",
+      "YWINGCLONEWARS"
+    ],
+    "platoon_2_row_2": [
+      "SITHINFILTRATOR",
+      "HYENABOMBER",
+      "EMPERORSSHUTTLE",
+      "GEONOSIANSTARFIGHTER3",
+      "YWINGCLONEWARS"
+    ],
+    "platoon_2_row_3": [
+      "UWINGROGUEONE",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "EBONHAWK"
+    ],
+    "platoon_3_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX",
+      "VULTUREDROID",
+      "BLADEOFDORIN"
+    ],
+    "platoon_3_row_2": [
+      "EBONHAWK",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "PHANTOM2",
+      "HYENABOMBER"
+    ],
+    "platoon_3_row_3": [
+      "VULTUREDROID",
+      "ARC170REX",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_4_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "BLADEOFDORIN",
+      "MILLENNIUMFALCON",
+      "TIESILENCER"
+    ],
+    "platoon_4_row_2": [
+      "UWINGROGUEONE",
+      "EBONHAWK",
+      "GEONOSIANSTARFIGHTER3",
+      "XWINGBLACKONE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_4_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "EMPERORSSHUTTLE",
+      "BLADEOFDORIN",
+      "VULTUREDROID",
+      "ARC170REX"
+    ],
+    "platoon_5_row_1": [
+      "MILLENNIUMFALCON",
+      "IG2000",
+      "MILLENNIUMFALCONEP7",
+      "YWINGCLONEWARS",
+      "XANADUBLOOD"
+    ],
+    "platoon_5_row_2": [
+      "EBONHAWK",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "GHOST"
+    ],
+    "platoon_5_row_3": [
+      "YWINGCLONEWARS",
+      "PHANTOM2",
+      "GAUNTLETSTARFIGHTER",
+      "ARC170REX",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_6_row_1": [
+      "MILLENNIUMFALCON",
+      "PHANTOM2",
+      "COMMANDSHUTTLE",
+      "EMPERORSSHUTTLE",
+      "UWINGROGUEONE"
+    ],
+    "platoon_6_row_2": [
+      "MILLENNIUMFALCON",
+      "ARC170REX",
+      "YWINGCLONEWARS",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_6_row_3": [
+      "VULTUREDROID",
+      "MILLENNIUMFALCON",
+      "EBONHAWK",
+      "BLADEOFDORIN",
+      "UMBARANSTARFIGHTER"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase02_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Republic Offensive Platoon-Z2M",
+    "ability_name": "Hailfire Tank",
+    "platoon_1_row_1": [
+      "REYJEDITRAINING",
+      "IMAGUNDI",
+      "SHAAKTI",
+      "ENFYSNEST",
+      "HOTHLEIA"
+    ],
+    "platoon_1_row_2": [
+      "SHAAKTI",
+      "ROSETICO",
+      "BB8",
+      "PAPLOO",
+      "JEDIKNIGHTREVAN"
+    ],
+    "platoon_1_row_3": [
+      "CT7567",
+      "FINN",
+      "ROSETICO",
+      "COMMANDERLUKESKYWALKER",
+      "BARRISSOFFEE"
+    ],
+    "platoon_2_row_1": [
+      "ADMIRALACKBAR",
+      "ZAALBAR",
+      "IMAGUNDI",
+      "HOTHLEIA",
+      "C3POLEGENDARY"
+    ],
+    "platoon_2_row_2": [
+      "BB8",
+      "C3POLEGENDARY",
+      "BARRISSOFFEE",
+      "JEDIKNIGHTREVAN",
+      "SHAAKTI"
+    ],
+    "platoon_2_row_3": [
+      "SABINEWRENS3",
+      "HOTHREBELSCOUT",
+      "WICKET",
+      "FINN",
+      "BARRISSOFFEE"
+    ],
+    "platoon_3_row_1": [
+      "C3POLEGENDARY",
+      "REYJEDITRAINING",
+      "QIRA",
+      "AMILYNHOLDO",
+      "SHAAKTI"
+    ],
+    "platoon_3_row_2": [
+      "HANSOLO",
+      "BAZEMALBUS",
+      "REYJEDITRAINING",
+      "EZRABRIDGERS3",
+      "VISASMARR"
+    ],
+    "platoon_3_row_3": [
+      "JEDIKNIGHTREVAN",
+      "COMMANDERLUKESKYWALKER",
+      "RESISTANCETROOPER",
+      "REY",
+      "STORMTROOPERHAN"
+    ],
+    "platoon_4_row_1": [
+      "CORUSCANTUNDERWORLDPOLICE",
+      "REY",
+      "STORMTROOPERHAN",
+      "RESISTANCETROOPER",
+      "HOTHLEIA"
+    ],
+    "platoon_4_row_2": [
+      "BB8",
+      "COMMANDERLUKESKYWALKER",
+      "CT7567",
+      "FINN",
+      "AMILYNHOLDO"
+    ],
+    "platoon_4_row_3": [
+      "HOTHHAN",
+      "ENFYSNEST",
+      "IMAGUNDI",
+      "PAO",
+      "SHAAKTI"
+    ],
+    "platoon_5_row_1": [
+      "COMMANDERLUKESKYWALKER",
+      "PAPLOO",
+      "HOTHLEIA",
+      "ROSETICO",
+      "JUHANI"
+    ],
+    "platoon_5_row_2": [
+      "HOTHLEIA",
+      "HOTHREBELSOLDIER",
+      "ROSETICO",
+      "FINN",
+      "BB8"
+    ],
+    "platoon_5_row_3": [
+      "COMMANDERLUKESKYWALKER",
+      "JEDIKNIGHTREVAN",
+      "SHAAKTI",
+      "C3POLEGENDARY",
+      "REYJEDITRAINING"
+    ],
+    "platoon_6_row_1": [
+      "MISSIONVAO",
+      "RESISTANCEPILOT",
+      "UGNAUGHT",
+      "RESISTANCETROOPER",
+      "AMILYNHOLDO"
+    ],
+    "platoon_6_row_2": [
+      "HOTHLEIA",
+      "BAZEMALBUS",
+      "EZRABRIDGERS3",
+      "CT7567",
+      "GRANDMASTERYODA"
+    ],
+    "platoon_6_row_3": [
+      "QIRA",
+      "JEDIKNIGHTREVAN",
+      "COMMANDERLUKESKYWALKER",
+      "C3POLEGENDARY",
+      "REYJEDITRAINING"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase02_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Republic Offensive Platoon-Z2B",
+    "ability_name": "AT-TE",
+    "platoon_1_row_1": [
+      "CT7567",
+      "R2D2_LEGENDARY",
+      "AMILYNHOLDO",
+      "BARRISSOFFEE",
+      "SABINEWRENS3"
+    ],
+    "platoon_1_row_2": [
+      "SHAAKTI",
+      "PAO",
+      "IMAGUNDI",
+      "PRINCESSLEIA",
+      "LOGRAY"
+    ],
+    "platoon_1_row_3": [
+      "HOTHLEIA",
+      "WICKET",
+      "FINN",
+      "CT7567",
+      "AMILYNHOLDO"
+    ],
+    "platoon_2_row_1": [
+      "PRINCESSLEIA",
+      "LOGRAY",
+      "BB8",
+      "ZAALBAR",
+      "HOTHLEIA"
+    ],
+    "platoon_2_row_2": [
+      "LOBOT",
+      "R2D2_LEGENDARY",
+      "COMMANDERLUKESKYWALKER",
+      "JUHANI",
+      "FINN"
+    ],
+    "platoon_2_row_3": [
+      "ROSETICO",
+      "WICKET",
+      "CT7567",
+      "SHAAKTI",
+      "BIGGSDARKLIGHTER"
+    ],
+    "platoon_3_row_1": [
+      "STORMTROOPERHAN",
+      "REY",
+      "AMILYNHOLDO",
+      "BARRISSOFFEE",
+      "R2D2_LEGENDARY"
+    ],
+    "platoon_3_row_2": [
+      "RESISTANCEPILOT",
+      "SHAAKTI",
+      "STORMTROOPERHAN",
+      "REY",
+      "HOTHREBELSOLDIER"
+    ],
+    "platoon_3_row_3": [
+      "COMMANDERLUKESKYWALKER",
+      "FINN",
+      "GRANDMASTERYODA",
+      "HOTHLEIA",
+      "AMILYNHOLDO"
+    ],
+    "platoon_4_row_1": [
+      "CT7567",
+      "ROSETICO",
+      "REY",
+      "SHAAKTI",
+      "FINN"
+    ],
+    "platoon_4_row_2": [
+      "SHAAKTI",
+      "HOTHLEIA",
+      "BARRISSOFFEE",
+      "AMILYNHOLDO",
+      "COMMANDERLUKESKYWALKER"
+    ],
+    "platoon_4_row_3": [
+      "BB8",
+      "ZEBS3",
+      "ROSETICO",
+      "R2D2_LEGENDARY",
+      "AMILYNHOLDO"
+    ],
+    "platoon_5_row_1": [
+      "REY",
+      "STORMTROOPERHAN",
+      "RESISTANCETROOPER",
+      "R2D2_LEGENDARY",
+      "HOTHREBELSOLDIER"
+    ],
+    "platoon_5_row_2": [
+      "HOTHLEIA",
+      "AMILYNHOLDO",
+      "CT7567",
+      "HANSOLO",
+      "GRANDMASTERYODA"
+    ],
+    "platoon_5_row_3": [
+      "AMILYNHOLDO",
+      "PAO",
+      "ZAALBAR",
+      "IMAGUNDI",
+      "SHAAKTI"
+    ],
+    "platoon_6_row_1": [
+      "BARRISSOFFEE",
+      "AMILYNHOLDO",
+      "JAWASCAVENGER",
+      "JAWA",
+      "UGNAUGHT"
+    ],
+    "platoon_6_row_2": [
+      "R2D2_LEGENDARY",
+      "L3_37",
+      "COMMANDERLUKESKYWALKER",
+      "IMAGUNDI",
+      "ENFYSNEST"
+    ],
+    "platoon_6_row_3": [
+      "SHAAKTI",
+      "C3POLEGENDARY",
+      "REYJEDITRAINING",
+      "HOTHLEIA",
+      "COMMANDERLUKESKYWALKER"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase03_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Republic Offensive Platoon-Z3T",
+    "ability_name": "LAAT",
+    "platoon_1_row_1": [
+      "VULTUREDROID",
+      "ARC170REX",
+      "YWINGCLONEWARS",
+      "BLADEOFDORIN",
+      "MILLENNIUMFALCONEP7"
+    ],
+    "platoon_1_row_2": [
+      "MILLENNIUMFALCON",
+      "GAUNTLETSTARFIGHTER",
+      "XWINGRED2",
+      "VULTUREDROID",
+      "HYENABOMBER"
+    ],
+    "platoon_1_row_3": [
+      "TIEFIGHTERFIRSTORDER",
+      "HYENABOMBER",
+      "YWINGCLONEWARS",
+      "TIEADVANCED",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_2_row_1": [
+      "XWINGRED2",
+      "XWINGBLACKONE",
+      "VULTUREDROID",
+      "MILLENNIUMFALCON",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_2_row_2": [
+      "UWINGROGUEONE",
+      "MILLENNIUMFALCON",
+      "YWINGCLONEWARS",
+      "EMPERORSSHUTTLE",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_2_row_3": [
+      "MILLENNIUMFALCONEP7",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "MILLENNIUMFALCON"
+    ],
+    "platoon_3_row_1": [
+      "VULTUREDROID",
+      "EBONHAWK",
+      "XWINGBLACKONE",
+      "XWINGRED3",
+      "XANADUBLOOD"
+    ],
+    "platoon_3_row_2": [
+      "MILLENNIUMFALCON",
+      "IG2000",
+      "VULTUREDROID",
+      "EBONHAWK",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_3_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "JEDISTARFIGHTERCONSULAR",
+      "YWINGCLONEWARS",
+      "VULTUREDROID",
+      "BLADEOFDORIN"
+    ],
+    "platoon_4_row_1": [
+      "MILLENNIUMFALCON",
+      "IG2000",
+      "MILLENNIUMFALCONEP7",
+      "YWINGCLONEWARS",
+      "XANADUBLOOD"
+    ],
+    "platoon_4_row_2": [
+      "YWINGCLONEWARS",
+      "MILLENNIUMFALCON",
+      "HYENABOMBER",
+      "EMPERORSSHUTTLE",
+      "XWINGRED3"
+    ],
+    "platoon_4_row_3": [
+      "YWINGCLONEWARS",
+      "MILLENNIUMFALCONEP7",
+      "EBONHAWK",
+      "JEDISTARFIGHTERCONSULAR",
+      "ARC170REX"
+    ],
+    "platoon_5_row_1": [
+      "MILLENNIUMFALCON",
+      "MILLENNIUMFALCONEP7",
+      "MILLENNIUMFALCONPRISTINE",
+      "YWINGCLONEWARS",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_5_row_2": [
+      "MILLENNIUMFALCONPRISTINE",
+      "HYENABOMBER",
+      "TIEADVANCED",
+      "EBONHAWK",
+      "YWINGCLONEWARS"
+    ],
+    "platoon_5_row_3": [
+      "MILLENNIUMFALCON",
+      "MILLENNIUMFALCONEP7",
+      "COMMANDSHUTTLE",
+      "GAUNTLETSTARFIGHTER",
+      "EMPERORSSHUTTLE"
+    ],
+    "platoon_6_row_1": [
+      "SITHFIGHTER",
+      "SITHBOMBER",
+      "VULTUREDROID",
+      "XANADUBLOOD",
+      "IG2000"
+    ],
+    "platoon_6_row_2": [
+      "VULTUREDROID",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "MILLENNIUMFALCON"
+    ],
+    "platoon_6_row_3": [
+      "YWINGCLONEWARS",
+      "MILLENNIUMFALCONEP7",
+      "GAUNTLETSTARFIGHTER",
+      "EBONHAWK",
+      "UMBARANSTARFIGHTER"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase03_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Republic Offensive Platoon-Z3M",
+    "ability_name": "Metal Mayhem",
+    "platoon_1_row_1": [
+      "BB8",
+      "AMILYNHOLDO",
+      "JEDIKNIGHTREVAN",
+      "BIGGSDARKLIGHTER",
+      "BARRISSOFFEE"
+    ],
+    "platoon_1_row_2": [
+      "CORUSCANTUNDERWORLDPOLICE",
+      "GENERALSKYWALKER",
+      "COMMANDERLUKESKYWALKER",
+      "MISSIONVAO",
+      "BARRISSOFFEE"
+    ],
+    "platoon_1_row_3": [
+      "R2D2_LEGENDARY",
+      "PRINCESSLEIA",
+      "C3POLEGENDARY",
+      "FULCRUMAHSOKA",
+      "PAO"
+    ],
+    "platoon_2_row_1": [
+      "BB8",
+      "PADMEAMIDALA",
+      "COMMANDERLUKESKYWALKER",
+      "CHEWBACCALEGENDARY",
+      "HOTHLEIA"
+    ],
+    "platoon_2_row_2": [
+      "R2D2_LEGENDARY",
+      "ROSETICO",
+      "C3POLEGENDARY",
+      "JEDIKNIGHTREVAN",
+      "GENERALSKYWALKER"
+    ],
+    "platoon_2_row_3": [
+      "ROSETICO",
+      "BB8",
+      "COMMANDERLUKESKYWALKER",
+      "BIGGSDARKLIGHTER",
+      "BARRISSOFFEE"
+    ],
+    "platoon_3_row_1": [
+      "BB8",
+      "PAO",
+      "ZAALBAR",
+      "IMAGUNDI",
+      "ADMIRALACKBAR"
+    ],
+    "platoon_3_row_2": [
+      "FINN",
+      "R2D2_LEGENDARY",
+      "CHEWBACCALEGENDARY",
+      "ENFYSNEST",
+      "JEDIKNIGHTREVAN"
+    ],
+    "platoon_3_row_3": [
+      "PRINCESSLEIA",
+      "HERMITYODA",
+      "HOTHHAN",
+      "ZAALBAR",
+      "HOTHLEIA"
+    ],
+    "platoon_4_row_1": [
+      "C3POLEGENDARY",
+      "ZAALBAR",
+      "CHEWBACCALEGENDARY",
+      "HERMITYODA",
+      "LUMINARAUNDULI"
+    ],
+    "platoon_4_row_2": [
+      "BASTILASHAN",
+      "AMILYNHOLDO",
+      "BB8",
+      "FINN",
+      "JEDIKNIGHTREVAN"
+    ],
+    "platoon_4_row_3": [
+      "C3POLEGENDARY",
+      "BARRISSOFFEE",
+      "WICKET",
+      "BB8",
+      "GENERALSKYWALKER"
+    ],
+    "platoon_5_row_1": [
+      "CORUSCANTUNDERWORLDPOLICE",
+      "RESISTANCEPILOT",
+      "JEDIKNIGHTREVAN",
+      "COMMANDERLUKESKYWALKER",
+      "STORMTROOPERHAN"
+    ],
+    "platoon_5_row_2": [
+      "R2D2_LEGENDARY",
+      "FINN",
+      "EZRABRIDGERS3",
+      "VISASMARR",
+      "HANSOLO"
+    ],
+    "platoon_5_row_3": [
+      "HERASYNDULLAS3",
+      "GENERALSKYWALKER",
+      "COMMANDERLUKESKYWALKER",
+      "HERMITYODA",
+      "SABINEWRENS3"
+    ],
+    "platoon_6_row_1": [
+      "RESISTANCETROOPER",
+      "REY",
+      "JEDIKNIGHTREVAN",
+      "MISSIONVAO",
+      "RESISTANCEPILOT"
+    ],
+    "platoon_6_row_2": [
+      "BASTILASHAN",
+      "AMILYNHOLDO",
+      "EZRABRIDGERS3",
+      "VISASMARR",
+      "BB8"
+    ],
+    "platoon_6_row_3": [
+      "C3POLEGENDARY",
+      "COMMANDERLUKESKYWALKER",
+      "REYJEDITRAINING",
+      "JEDIKNIGHTREVAN",
+      "R2D2_LEGENDARY"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase03_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Republic Offensive Platoon-Z3B",
+    "ability_name": "Republic Resolve",
+    "platoon_1_row_1": [
+      "HERASYNDULLAS3",
+      "GENERALSKYWALKER",
+      "JEDIKNIGHTREVAN",
+      "PADMEAMIDALA",
+      "ADMIRALACKBAR"
+    ],
+    "platoon_1_row_2": [
+      "ADMIRALACKBAR",
+      "JEDIKNIGHTREVAN",
+      "PADMEAMIDALA",
+      "REY",
+      "HERMITYODA"
+    ],
+    "platoon_1_row_3": [
+      "HERASYNDULLAS3",
+      "HERMITYODA",
+      "GENERALSKYWALKER",
+      "PRINCESSLEIA",
+      "LOBOT"
+    ],
+    "platoon_2_row_1": [
+      "CORUSCANTUNDERWORLDPOLICE",
+      "RESISTANCEPILOT",
+      "GRANDMASTERYODA",
+      "STORMTROOPERHAN",
+      "ZEBS3"
+    ],
+    "platoon_2_row_2": [
+      "ADMIRALACKBAR",
+      "PADMEAMIDALA",
+      "ENFYSNEST",
+      "COMMANDERLUKESKYWALKER",
+      "ROSETICO"
+    ],
+    "platoon_2_row_3": [
+      "HERMITYODA",
+      "C3POLEGENDARY",
+      "REYJEDITRAINING",
+      "ROSETICO",
+      "ENFYSNEST"
+    ],
+    "platoon_3_row_1": [
+      "JAWASCAVENGER",
+      "IMAGUNDI",
+      "GRANDMASTERYODA",
+      "GENERALSKYWALKER",
+      "ENFYSNEST"
+    ],
+    "platoon_3_row_2": [
+      "AMILYNHOLDO",
+      "HERMITYODA",
+      "R2D2_LEGENDARY",
+      "ROSETICO",
+      "C3POLEGENDARY"
+    ],
+    "platoon_3_row_3": [
+      "HANSOLO",
+      "GENERALKENOBI",
+      "HERMITYODA",
+      "REYJEDITRAINING",
+      "EZRABRIDGERS3"
+    ],
+    "platoon_4_row_1": [
+      "HERMITYODA",
+      "RESISTANCEPILOT",
+      "STORMTROOPERHAN",
+      "RESISTANCETROOPER",
+      "REY"
+    ],
+    "platoon_4_row_2": [
+      "REYJEDITRAINING",
+      "C3POLEGENDARY",
+      "GRANDMASTERYODA",
+      "QIRA",
+      "ROSETICO"
+    ],
+    "platoon_4_row_3": [
+      "HERMITYODA",
+      "GENERALSKYWALKER",
+      "JAWASCAVENGER",
+      "JAWA",
+      "REY"
+    ],
+    "platoon_5_row_1": [
+      "SABINEWRENS3",
+      "HOTHREBELSCOUT",
+      "COMMANDERLUKESKYWALKER",
+      "REY",
+      "ENFYSNEST"
+    ],
+    "platoon_5_row_2": [
+      "GENERALSKYWALKER",
+      "REYJEDITRAINING",
+      "C3POLEGENDARY",
+      "ROSETICO",
+      "GRANDMASTERYODA"
+    ],
+    "platoon_5_row_3": [
+      "JAWASCAVENGER",
+      "ENFYSNEST",
+      "UGNAUGHT",
+      "PRINCESSLEIA",
+      "JEDIKNIGHTREVAN"
+    ],
+    "platoon_6_row_1": [
+      "EZRABRIDGERS3",
+      "GRANDMASTERYODA",
+      "UGNAUGHT",
+      "COMMANDERLUKESKYWALKER",
+      "REY"
+    ],
+    "platoon_6_row_2": [
+      "JAWA",
+      "UGNAUGHT",
+      "REY",
+      "C3POLEGENDARY",
+      "HOTHREBELSOLDIER"
+    ],
+    "platoon_6_row_3": [
+      "REYJEDITRAINING",
+      "ZEBS3",
+      "GENERALSKYWALKER",
+      "CHIRRUTIMWE",
+      "ROSETICO"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase04_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Republic Offensive Platoon-Z4T",
+    "ability_name": "Droid Factory",
+    "platoon_1_row_1": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "VULTUREDROID",
+      "BLADEOFDORIN",
+      "JEDISTARFIGHTERCONSULAR",
+      "YWINGCLONEWARS"
+    ],
+    "platoon_1_row_2": [
+      "VULTUREDROID",
+      "UWINGSCARIF",
+      "XWINGRED2",
+      "XWINGRED3",
+      "MILLENNIUMFALCON"
+    ],
+    "platoon_1_row_3": [
+      "TIEREAPER",
+      "HYENABOMBER",
+      "VULTUREDROID",
+      "MILLENNIUMFALCONEP7",
+      "TIEADVANCED"
+    ],
+    "platoon_2_row_1": [
+      "HYENABOMBER",
+      "XANADUBLOOD",
+      "MILLENNIUMFALCON",
+      "EBONHAWK",
+      "YWINGCLONEWARS"
+    ],
+    "platoon_2_row_2": [
+      "MILLENNIUMFALCON",
+      "XANADUBLOOD",
+      "XWINGRED3",
+      "YWINGCLONEWARS",
+      "VULTUREDROID"
+    ],
+    "platoon_2_row_3": [
+      "MILLENNIUMFALCON",
+      "VULTUREDROID",
+      "HYENABOMBER",
+      "JEDISTARFIGHTERAHSOKATANO",
+      "YWINGCLONEWARS"
+    ],
+    "platoon_3_row_1": [
+      "XWINGRED2",
+      "UMBARANSTARFIGHTER",
+      "MILLENNIUMFALCON",
+      "HYENABOMBER",
+      "TIESILENCER"
+    ],
+    "platoon_3_row_2": [
+      "MILLENNIUMFALCON",
+      "HYENABOMBER",
+      "TIEADVANCED",
+      "XANADUBLOOD",
+      "YWINGCLONEWARS"
+    ],
+    "platoon_3_row_3": [
+      "JEDISTARFIGHTERAHSOKATANO",
+      "HYENABOMBER",
+      "MILLENNIUMFALCONPRISTINE",
+      "MILLENNIUMFALCONEP7",
+      "MILLENNIUMFALCON"
+    ],
+    "platoon_4_row_1": [
+      "MILLENNIUMFALCON",
+      "JEDISTARFIGHTERCONSULAR",
+      "HYENABOMBER",
+      "EMPERORSSHUTTLE",
+      "BLADEOFDORIN"
+    ],
+    "platoon_4_row_2": [
+      "VULTUREDROID",
+      "TIESILENCER",
+      "TIEFIGHTERFIRSTORDER",
+      "MILLENNIUMFALCON",
+      "TIEREAPER"
+    ],
+    "platoon_4_row_3": [
+      "YWINGCLONEWARS",
+      "MILLENNIUMFALCONEP7",
+      "MILLENNIUMFALCON",
+      "EBONHAWK",
+      "MILLENNIUMFALCONPRISTINE"
+    ],
+    "platoon_5_row_1": [
+      "GEONOSIANSTARFIGHTER3",
+      "GEONOSIANSTARFIGHTER2",
+      "GEONOSIANSTARFIGHTER1",
+      "MILLENNIUMFALCON",
+      "HYENABOMBER"
+    ],
+    "platoon_5_row_2": [
+      "YWINGCLONEWARS",
+      "MILLENNIUMFALCONEP7",
+      "GAUNTLETSTARFIGHTER",
+      "MILLENNIUMFALCON",
+      "UMBARANSTARFIGHTER"
+    ],
+    "platoon_5_row_3": [
+      "SITHBOMBER",
+      "XANADUBLOOD",
+      "IG2000",
+      "SITHFIGHTER",
+      "SITHINFILTRATOR"
+    ],
+    "platoon_6_row_1": [
+      "VULTUREDROID",
+      "MILLENNIUMFALCON",
+      "HYENABOMBER",
+      "XWINGRED3",
+      "XWINGRED2"
+    ],
+    "platoon_6_row_2": [
+      "MILLENNIUMFALCON",
+      "IG2000",
+      "YWINGCLONEWARS",
+      "XANADUBLOOD",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "platoon_6_row_3": [
+      "EMPERORSSHUTTLE",
+      "HYENABOMBER",
+      "COMMANDSHUTTLE",
+      "YWINGCLONEWARS",
+      "MILLENNIUMFALCONEP7"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase04_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Republic Offensive Platoon-Z4M",
+    "ability_name": "Hailfire Tank",
+    "platoon_1_row_1": [
+      "JEDIKNIGHTREVAN",
+      "COMMANDERLUKESKYWALKER",
+      "PAPLOO",
+      "BIGGSDARKLIGHTER",
+      "BAZEMALBUS"
+    ],
+    "platoon_1_row_2": [
+      "CORUSCANTUNDERWORLDPOLICE",
+      "COMMANDERLUKESKYWALKER",
+      "STORMTROOPERHAN",
+      "MISSIONVAO",
+      "HANSOLO"
+    ],
+    "platoon_1_row_3": [
+      "HANSOLO",
+      "MISSIONVAO",
+      "GRANDMASTERYODA",
+      "RESISTANCETROOPER",
+      "STORMTROOPERHAN"
+    ],
+    "platoon_2_row_1": [
+      "REYJEDITRAINING",
+      "PAO",
+      "CHEWBACCALEGENDARY",
+      "HERMITYODA",
+      "JEDIKNIGHTREVAN"
+    ],
+    "platoon_2_row_2": [
+      "BAZEMALBUS",
+      "GRANDMASTERYODA",
+      "PAO",
+      "FULCRUMAHSOKA",
+      "VISASMARR"
+    ],
+    "platoon_2_row_3": [
+      "ROSETICO",
+      "WICKET",
+      "COMMANDERLUKESKYWALKER",
+      "BIGGSDARKLIGHTER",
+      "BAZEMALBUS"
+    ],
+    "platoon_3_row_1": [
+      "REYJEDITRAINING",
+      "PAPLOO",
+      "ROSETICO",
+      "COMMANDERLUKESKYWALKER",
+      "ZEBS3"
+    ],
+    "platoon_3_row_2": [
+      "REYJEDITRAINING",
+      "COMMANDERLUKESKYWALKER",
+      "GRANDMASTERYODA",
+      "FULCRUMAHSOKA",
+      "JEDIKNIGHTREVAN"
+    ],
+    "platoon_3_row_3": [
+      "JEDIKNIGHTREVAN",
+      "ENFYSNEST",
+      "ZEBS3",
+      "REYJEDITRAINING",
+      "WICKET"
+    ],
+    "platoon_4_row_1": [
+      "AMILYNHOLDO",
+      "GRANDMASTERYODA",
+      "ROSETICO",
+      "COMMANDERLUKESKYWALKER",
+      "SABINEWRENS3"
+    ],
+    "platoon_4_row_2": [
+      "HANSOLO",
+      "ENFYSNEST",
+      "BAZEMALBUS",
+      "JEDIKNIGHTREVAN",
+      "EZRABRIDGERS3"
+    ],
+    "platoon_4_row_3": [
+      "JEDIKNIGHTREVAN",
+      "WICKET",
+      "HOTHREBELSCOUT",
+      "ENFYSNEST",
+      "ROSETICO"
+    ],
+    "platoon_5_row_1": [
+      "ENFYSNEST",
+      "GRANDMASTERYODA",
+      "AMILYNHOLDO",
+      "JEDIKNIGHTREVAN",
+      "HANSOLO"
+    ],
+    "platoon_5_row_2": [
+      "REYJEDITRAINING",
+      "AMILYNHOLDO",
+      "ROSETICO",
+      "HERMITYODA",
+      "COMMANDERLUKESKYWALKER"
+    ],
+    "platoon_5_row_3": [
+      "JEDIKNIGHTREVAN",
+      "COMMANDERLUKESKYWALKER",
+      "WICKET",
+      "BIGGSDARKLIGHTER",
+      "UGNAUGHT"
+    ],
+    "platoon_6_row_1": [
+      "BASTILASHAN",
+      "L3_37",
+      "CHEWBACCALEGENDARY",
+      "HERMITYODA",
+      "GRANDMASTERYODA"
+    ],
+    "platoon_6_row_2": [
+      "BASTILASHAN",
+      "AMILYNHOLDO",
+      "BAZEMALBUS",
+      "VISASMARR",
+      "HANSOLO"
+    ],
+    "platoon_6_row_3": [
+      "JEDIKNIGHTREVAN",
+      "GRANDMASTERYODA",
+      "REYJEDITRAINING",
+      "ENFYSNEST",
+      "COMMANDERLUKESKYWALKER"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase04_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Republic Offensive Platoon-Z4B",
+    "ability_name": "AT-TE",
+    "platoon_1_row_1": [
+      "JEDIKNIGHTREVAN",
+      "GRANDMASTERYODA",
+      "FULCRUMAHSOKA",
+      "REYJEDITRAINING",
+      "HERMITYODA"
+    ],
+    "platoon_1_row_2": [
+      "CHEWBACCALEGENDARY",
+      "BAZEMALBUS",
+      "HOTHREBELSOLDIER",
+      "PAO",
+      "ENFYSNEST"
+    ],
+    "platoon_1_row_3": [
+      "L3_37",
+      "LOGRAY",
+      "CHEWBACCALEGENDARY",
+      "REYJEDITRAINING",
+      "PAO"
+    ],
+    "platoon_2_row_1": [
+      "REYJEDITRAINING",
+      "RESISTANCEPILOT",
+      "HANSOLO",
+      "RESISTANCETROOPER",
+      "MISSIONVAO"
+    ],
+    "platoon_2_row_2": [
+      "ADMIRALACKBAR",
+      "L3_37",
+      "PRINCESSLEIA",
+      "IMAGUNDI",
+      "COMMANDERLUKESKYWALKER"
+    ],
+    "platoon_2_row_3": [
+      "JAWA",
+      "ZEBS3",
+      "JEDIKNIGHTREVAN",
+      "COMMANDERLUKESKYWALKER",
+      "GRANDMASTERYODA"
+    ],
+    "platoon_3_row_1": [
+      "FULCRUMAHSOKA",
+      "PAO",
+      "CHEWBACCALEGENDARY",
+      "HOTHREBELSOLDIER",
+      "COMMANDERLUKESKYWALKER"
+    ],
+    "platoon_3_row_2": [
+      "LOBOT",
+      "L3_37",
+      "CHEWBACCALEGENDARY",
+      "ENFYSNEST",
+      "GRANDMASTERYODA"
+    ],
+    "platoon_3_row_3": [
+      "JEDIKNIGHTREVAN",
+      "JUHANI",
+      "PAO",
+      "PRINCESSLEIA",
+      "ENFYSNEST"
+    ],
+    "platoon_4_row_1": [
+      "COMMANDERLUKESKYWALKER",
+      "HANSOLO",
+      "HERMITYODA",
+      "GRANDMASTERYODA",
+      "REYJEDITRAINING"
+    ],
+    "platoon_4_row_2": [
+      "ZEBS3",
+      "COMMANDERLUKESKYWALKER",
+      "BASTILASHAN",
+      "HOTHREBELSOLDIER",
+      "JAWASCAVENGER"
+    ],
+    "platoon_4_row_3": [
+      "REY",
+      "RESISTANCEPILOT",
+      "JEDIKNIGHTREVAN",
+      "ENFYSNEST",
+      "GRANDMASTERYODA"
+    ],
+    "platoon_5_row_1": [
+      "GRANDMASTERYODA",
+      "UGNAUGHT",
+      "JAWASCAVENGER",
+      "HERMITYODA",
+      "L3_37"
+    ],
+    "platoon_5_row_2": [
+      "HERMITYODA",
+      "AMILYNHOLDO",
+      "COMMANDERLUKESKYWALKER",
+      "ROSETICO",
+      "JEDIKNIGHTREVAN"
+    ],
+    "platoon_5_row_3": [
+      "ENFYSNEST",
+      "COMMANDERLUKESKYWALKER",
+      "PAO",
+      "PRINCESSLEIA",
+      "LOBOT"
+    ],
+    "platoon_6_row_1": [
+      "BASTILASHAN",
+      "AMILYNHOLDO",
+      "GRANDMASTERYODA",
+      "VISASMARR",
+      "ENFYSNEST"
+    ],
+    "platoon_6_row_2": [
+      "JEDIKNIGHTREVAN",
+      "REYJEDITRAINING",
+      "ENFYSNEST",
+      "GRANDMASTERYODA",
+      "ROSETICO"
+    ],
+    "platoon_6_row_3": [
+      "GRANDMASTERYODA",
+      "HERMITYODA",
+      "JEDIKNIGHTREVAN",
+      "REYJEDITRAINING",
+      "ENFYSNEST"
+    ]
+  }
+]

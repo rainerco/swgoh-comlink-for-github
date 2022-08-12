@@ -1,0 +1,7238 @@
+[
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase01_conflict01",
+    "unit_type": "character",
+    "area_pos": "NA",
+    "image": "Territory Battle-Rebel Assault Platoon-Z1T",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "Mace Windu",
+      "Jedi Knight Anakin",
+      "Jedi Knight Guardian",
+      "Ahsoka Tano",
+      "Barriss Offee"
+    ],
+    "platoon_1_row_2": [
+      "Princess Leia",
+      "Luke Skywalker (Farmboy)",
+      "Lobot",
+      "Stormtrooper Han",
+      "Lando Calrissian"
+    ],
+    "platoon_1_row_3": [
+      "Finn",
+      "Poe Dameron",
+      "Rey (Scavenger)",
+      "Resistance Trooper",
+      "Resistance Pilot"
+    ],
+    "platoon_2_row_1": [
+      "Jedi Consular",
+      "Ima-Gun Di",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Qui-Gon Jinn",
+      "Plo Koon"
+    ],
+    "platoon_2_row_2": [
+      "Princess Leia",
+      "Hoth Rebel Scout",
+      "Stormtrooper Han",
+      "Admiral Ackbar",
+      "Hoth Rebel Soldier"
+    ],
+    "platoon_2_row_3": [
+      "Chief Nebit",
+      "Dathcha",
+      "Jawa",
+      "Jawa Engineer",
+      "Jawa Scavenger"
+    ],
+    "platoon_3_row_1": [
+      "Kit Fisto",
+      "Jedi Consular",
+      "Luminara Unduli",
+      "Admiral Ackbar",
+      "Pao"
+    ],
+    "platoon_3_row_2": [
+      "Wedge Antilles",
+      "Biggs Darklighter",
+      "Hoth Rebel Scout",
+      "Ahsoka Tano (Fulcrum)",
+      "Bistan"
+    ],
+    "platoon_3_row_3": [
+      "Chief Chirpa",
+      "Ewok Elder",
+      "Ewok Scout",
+      "Teebo",
+      "Paploo"
+    ],
+    "platoon_4_row_1": [
+      "Ima-Gun Di",
+      "Jedi Consular",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Qui-Gon Jinn",
+      "Plo Koon"
+    ],
+    "platoon_4_row_2": [
+      "Jyn Erso",
+      "Cassian Andor",
+      "Baze Malbus",
+      "Chirrut Îmwe",
+      "K-2SO"
+    ],
+    "platoon_4_row_3": [
+      "Clone Wars Chewbacca",
+      "Coruscant Underworld Police",
+      "Clone Sergeant - Phase I",
+      "Jedi Knight Anakin",
+      "Ahsoka Tano"
+    ],
+    "platoon_5_row_1": [
+      "Hoth Rebel Soldier",
+      "Jedi Consular",
+      "Ahsoka Tano",
+      "Aayla Secura",
+      "Mace Windu"
+    ],
+    "platoon_5_row_2": [
+      "Bodhi Rook",
+      "Pao",
+      "Bistan",
+      "Cassian Andor",
+      "K-2SO"
+    ],
+    "platoon_5_row_3": [
+      "Teebo",
+      "Ewok Scout",
+      "Paploo",
+      "Logray",
+      "Ewok Elder"
+    ],
+    "platoon_6_row_1": [
+      "Mace Windu",
+      "Jedi Knight Anakin",
+      "Jedi Knight Guardian",
+      "Eeth Koth",
+      "Barriss Offee"
+    ],
+    "platoon_6_row_2": [
+      "Jyn Erso",
+      "Bodhi Rook",
+      "Pao",
+      "Bistan",
+      "Scarif Rebel Pathfinder"
+    ],
+    "platoon_6_row_3": [
+      "CC-2224 !Cody!",
+      "CT-21-0408 !Echo!",
+      "CT-5555 !Fives!",
+      "Clone Sergeant - Phase I",
+      "CT-7567 !Rex!"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase02_conflict01",
+    "unit_type": "character",
+    "area_pos": "Top",
+    "image": "Territory Battle-Rebel Assault Platoon-Z2T",
+    "ability_name": "Ion Cannon Blast",
+    "platoon_1_row_1": [
+      "Hoth Rebel Scout",
+      "Jedi Consular",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Princess Leia",
+      "Plo Koon"
+    ],
+    "platoon_1_row_2": [
+      "Wedge Antilles",
+      "Biggs Darklighter",
+      "Chopper",
+      "Ahsoka Tano (Fulcrum)",
+      "Obi-Wan Kenobi (Old Ben)"
+    ],
+    "platoon_1_row_3": [
+      "Teebo",
+      "Ewok Scout",
+      "Paploo",
+      "Chief Chirpa",
+      "Ewok Elder"
+    ],
+    "platoon_2_row_1": [
+      "Mace Windu",
+      "Jedi Knight Anakin",
+      "Jedi Knight Guardian",
+      "Eeth Koth",
+      "Barriss Offee"
+    ],
+    "platoon_2_row_2": [
+      "Wedge Antilles",
+      "Biggs Darklighter",
+      "Luke Skywalker (Farmboy)",
+      "Princess Leia",
+      "Lando Calrissian"
+    ],
+    "platoon_2_row_3": [
+      "Clone Wars Chewbacca",
+      "Kit Fisto",
+      "Clone Sergeant - Phase I",
+      "Jedi Knight Anakin",
+      "Ahsoka Tano"
+    ],
+    "platoon_3_row_1": [
+      "Finn",
+      "Poe Dameron",
+      "Rey (Scavenger)",
+      "Admiral Ackbar",
+      "Ahsoka Tano"
+    ],
+    "platoon_3_row_2": [
+      "Hera Syndulla",
+      "Kanan Jarrus",
+      "Garazeb !Zeb! Orrelios",
+      "Ezra Bridger",
+      "Chopper"
+    ],
+    "platoon_3_row_3": [
+      "Chief Chirpa",
+      "Ewok Elder",
+      "Ewok Scout",
+      "Teebo",
+      "Paploo"
+    ],
+    "platoon_4_row_1": [
+      "Mace Windu",
+      "Admiral Ackbar",
+      "Jedi Knight Guardian",
+      "Luminara Unduli",
+      "Barriss Offee"
+    ],
+    "platoon_4_row_2": [
+      "Hera Syndulla",
+      "Kanan Jarrus",
+      "Chopper",
+      "Ezra Bridger",
+      "Sabine Wren"
+    ],
+    "platoon_4_row_3": [
+      "Chief Nebit",
+      "Dathcha",
+      "Jawa",
+      "Jawa Engineer",
+      "Jawa Scavenger"
+    ],
+    "platoon_5_row_1": [
+      "Kit Fisto",
+      "Luminara Unduli",
+      "Qui-Gon Jinn",
+      "Ima-Gun Di",
+      "Ahsoka Tano"
+    ],
+    "platoon_5_row_2": [
+      "Wedge Antilles",
+      "Biggs Darklighter",
+      "Garazeb !Zeb! Orrelios",
+      "Ahsoka Tano (Fulcrum)",
+      "Luke Skywalker (Farmboy)"
+    ],
+    "platoon_5_row_3": [
+      "CC-2224 !Cody!",
+      "CT-21-0408 !Echo!",
+      "CT-5555 !Fives!",
+      "Clone Sergeant - Phase I",
+      "CT-7567 !Rex!"
+    ],
+    "platoon_6_row_1": [
+      "Ima-Gun Di",
+      "Jedi Consular",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Qui-Gon Jinn",
+      "Plo Koon"
+    ],
+    "platoon_6_row_2": [
+      "Hera Syndulla",
+      "Kanan Jarrus",
+      "Garazeb !Zeb! Orrelios",
+      "Ezra Bridger",
+      "Sabine Wren"
+    ],
+    "platoon_6_row_3": [
+      "Finn",
+      "Poe Dameron",
+      "Rey (Scavenger)",
+      "Resistance Trooper",
+      "Resistance Pilot"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase02_conflict02",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Rebel Assault Platoon-Z2B",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "Mace Windu",
+      "Jedi Consular",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Qui-Gon Jinn",
+      "Plo Koon"
+    ],
+    "platoon_1_row_2": [
+      "Hera Syndulla",
+      "Kanan Jarrus",
+      "Garazeb !Zeb! Orrelios",
+      "Ezra Bridger",
+      "Sabine Wren"
+    ],
+    "platoon_1_row_3": [
+      "Finn",
+      "Poe Dameron",
+      "Rey (Scavenger)",
+      "Resistance Trooper",
+      "Resistance Pilot"
+    ],
+    "platoon_2_row_1": [
+      "Mace Windu",
+      "Jedi Knight Anakin",
+      "Jedi Knight Guardian",
+      "Aayla Secura",
+      "Barriss Offee"
+    ],
+    "platoon_2_row_2": [
+      "Hera Syndulla",
+      "Kanan Jarrus",
+      "Chopper",
+      "Ezra Bridger",
+      "Sabine Wren"
+    ],
+    "platoon_2_row_3": [
+      "Chief Nebit",
+      "Dathcha",
+      "Jawa",
+      "Jawa Engineer",
+      "Jawa Scavenger"
+    ],
+    "platoon_3_row_1": [
+      "Ima-Gun Di",
+      "Jedi Consular",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Qui-Gon Jinn",
+      "Plo Koon"
+    ],
+    "platoon_3_row_2": [
+      "Princess Leia",
+      "Lando Calrissian",
+      "Luke Skywalker (Farmboy)",
+      "Stormtrooper Han",
+      "Admiral Ackbar"
+    ],
+    "platoon_3_row_3": [
+      "Teebo",
+      "Ewok Scout",
+      "Paploo",
+      "Chief Chirpa",
+      "Ewok Elder"
+    ],
+    "platoon_4_row_1": [
+      "Hoth Rebel Scout",
+      "Admiral Ackbar",
+      "Princess Leia",
+      "Biggs Darklighter",
+      "Ahsoka Tano (Fulcrum)"
+    ],
+    "platoon_4_row_2": [
+      "Wedge Antilles",
+      "Biggs Darklighter",
+      "Lobot",
+      "Ugnaught",
+      "Lando Calrissian"
+    ],
+    "platoon_4_row_3": [
+      "CC-2224 !Cody!",
+      "CT-21-0408 !Echo!",
+      "CT-5555 !Fives!",
+      "Clone Sergeant - Phase I",
+      "CT-7567 !Rex!"
+    ],
+    "platoon_5_row_1": [
+      "Sabine Wren",
+      "Chopper",
+      "Garazeb !Zeb! Orrelios",
+      "Hoth Rebel Scout",
+      "Ahsoka Tano"
+    ],
+    "platoon_5_row_2": [
+      "Princess Leia",
+      "Lobot",
+      "Luke Skywalker (Farmboy)",
+      "Stormtrooper Han",
+      "Admiral Ackbar"
+    ],
+    "platoon_5_row_3": [
+      "Chief Chirpa",
+      "Ewok Elder",
+      "Ewok Scout",
+      "Teebo",
+      "Paploo"
+    ],
+    "platoon_6_row_1": [
+      "Mace Windu",
+      "Jedi Knight Anakin",
+      "Jedi Knight Guardian",
+      "Aayla Secura",
+      "Barriss Offee"
+    ],
+    "platoon_6_row_2": [
+      "Wedge Antilles",
+      "Princess Leia",
+      "Lobot",
+      "Hoth Rebel Scout",
+      "Lando Calrissian"
+    ],
+    "platoon_6_row_3": [
+      "Clone Wars Chewbacca",
+      "Coruscant Underworld Police",
+      "Clone Sergeant - Phase I",
+      "Jedi Knight Anakin",
+      "Ahsoka Tano"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase03_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Rebel Assault Platoon-Z3T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "First Order TIE Fighter",
+      "Imperial TIE Fighter",
+      "Scimitar",
+      "Slave I",
+      "Phantom II"
+    ],
+    "platoon_1_row_2": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Phantom II"
+    ],
+    "platoon_1_row_3": [
+      "Clone Sergeant's ARC-170",
+      "Bistan's U-wing",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_2_row_1": [
+      "Clone Sergeant's ARC-170",
+      "Ahsoka Tano's Jedi Starfighter",
+      "Phantom II",
+      "Plo Koon's Jedi Starfighter",
+      "Umbaran Starfighter"
+    ],
+    "platoon_2_row_2": [
+      "First Order TIE Fighter",
+      "Imperial TIE Fighter",
+      "Slave I",
+      "TIE Advanced x1",
+      "TIE Silencer"
+    ],
+    "platoon_2_row_3": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Plo Koon's Jedi Starfighter",
+      "Ghost",
+      "TIE Silencer"
+    ],
+    "platoon_3_row_1": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_3_row_2": [
+      "Hound's Tooth",
+      "Phantom II",
+      "Imperial TIE Fighter",
+      "Gauntlet Starfighter",
+      "First Order TIE Fighter"
+    ],
+    "platoon_3_row_3": [
+      "Scimitar",
+      "Imperial TIE Fighter",
+      "TIE Advanced x1",
+      "TIE Silencer",
+      "Slave I"
+    ],
+    "platoon_4_row_1": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_4_row_2": [
+      "Biggs Darklighter's X-wing",
+      "Gauntlet Starfighter",
+      "Geonosian Soldier's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "Slave I"
+    ],
+    "platoon_4_row_3": [
+      "Lando's Millennium Falcon",
+      "Ghost",
+      "Imperial TIE Fighter",
+      "Slave I",
+      "Hound's Tooth"
+    ],
+    "platoon_5_row_1": [
+      "Cassian's U-wing",
+      "Ghost",
+      "Geonosian Spy's Starfighter",
+      "Poe Dameron's X-wing",
+      "Scimitar"
+    ],
+    "platoon_5_row_2": [
+      "Slave I",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_5_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Plo Koon's Jedi Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_6_row_1": [
+      "Ghost",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Phantom II",
+      "Imperial TIE Fighter"
+    ],
+    "platoon_6_row_2": [
+      "Hound's Tooth",
+      "Bistan's U-wing",
+      "Slave I",
+      "Cassian's U-wing",
+      "Ebon Hawk"
+    ],
+    "platoon_6_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Umbaran Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase03_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Rebel Assault Platoon-Z3M",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "Mace Windu",
+      "Jedi Knight Anakin",
+      "Jedi Knight Guardian",
+      "Luminara Unduli",
+      "Ahsoka Tano"
+    ],
+    "platoon_1_row_2": [
+      "Wedge Antilles",
+      "Biggs Darklighter",
+      "Lobot",
+      "Ahsoka Tano (Fulcrum)",
+      "Lando Calrissian"
+    ],
+    "platoon_1_row_3": [
+      "Teebo",
+      "Ewok Scout",
+      "Paploo",
+      "Logray",
+      "Ewok Elder"
+    ],
+    "platoon_2_row_1": [
+      "Mace Windu",
+      "Jedi Knight Anakin",
+      "Jedi Knight Guardian",
+      "Luminara Unduli",
+      "Barriss Offee"
+    ],
+    "platoon_2_row_2": [
+      "Hera Syndulla",
+      "Kanan Jarrus",
+      "Garazeb !Zeb! Orrelios",
+      "Ezra Bridger",
+      "Sabine Wren"
+    ],
+    "platoon_2_row_3": [
+      "Clone Wars Chewbacca",
+      "Coruscant Underworld Police",
+      "Clone Sergeant - Phase I",
+      "Jedi Knight Anakin",
+      "Ahsoka Tano"
+    ],
+    "platoon_3_row_1": [
+      "Grand Master Yoda",
+      "Mace Windu",
+      "Luminara Unduli",
+      "Ima-Gun Di",
+      "Plo Koon"
+    ],
+    "platoon_3_row_2": [
+      "Luke Skywalker (Farmboy)",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Lando Calrissian",
+      "Hera Syndulla",
+      "Princess Leia"
+    ],
+    "platoon_3_row_3": [
+      "Finn",
+      "Poe Dameron",
+      "Rey (Scavenger)",
+      "Resistance Trooper",
+      "Resistance Pilot"
+    ],
+    "platoon_4_row_1": [
+      "Grand Master Yoda",
+      "Aayla Secura",
+      "Qui-Gon Jinn",
+      "Luminara Unduli",
+      "Jedi Knight Anakin"
+    ],
+    "platoon_4_row_2": [
+      "Admiral Ackbar",
+      "Biggs Darklighter",
+      "Stormtrooper Han",
+      "Sabine Wren",
+      "Luke Skywalker (Farmboy)"
+    ],
+    "platoon_4_row_3": [
+      "Chief Chirpa",
+      "Ewok Elder",
+      "Ewok Scout",
+      "Teebo",
+      "Paploo"
+    ],
+    "platoon_5_row_1": [
+      "Pao",
+      "Ima-Gun Di",
+      "Jedi Consular",
+      "Qui-Gon Jinn",
+      "Obi-Wan Kenobi (Old Ben)"
+    ],
+    "platoon_5_row_2": [
+      "Jyn Erso",
+      "Cassian Andor",
+      "Baze Malbus",
+      "Chirrut Îmwe",
+      "K-2SO"
+    ],
+    "platoon_5_row_3": [
+      "Plo Koon",
+      "CC-2224 !Cody!",
+      "CT-21-0408 !Echo!",
+      "CT-5555 !Fives!",
+      "Clone Sergeant - Phase I"
+    ],
+    "platoon_6_row_1": [
+      "Kit Fisto",
+      "Barriss Offee",
+      "Kanan Jarrus",
+      "Eeth Koth",
+      "Ahsoka Tano"
+    ],
+    "platoon_6_row_2": [
+      "Jyn Erso",
+      "Bodhi Rook",
+      "Pao",
+      "Bistan",
+      "Scarif Rebel Pathfinder"
+    ],
+    "platoon_6_row_3": [
+      "Chief Nebit",
+      "Dathcha",
+      "Jawa",
+      "Jawa Engineer",
+      "Jawa Scavenger"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase03_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Rebel Assault Platoon-Z3B",
+    "ability_name": "Power Generator",
+    "platoon_1_row_1": [
+      "Grand Master Yoda",
+      "Mace Windu",
+      "Luminara Unduli",
+      "Ima-Gun Di",
+      "Plo Koon"
+    ],
+    "platoon_1_row_2": [
+      "Luke Skywalker (Farmboy)",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Stormtrooper Han",
+      "Admiral Ackbar",
+      "Princess Leia"
+    ],
+    "platoon_1_row_3": [
+      "Clone Wars Chewbacca",
+      "Coruscant Underworld Police",
+      "Clone Sergeant - Phase I",
+      "Jedi Knight Anakin",
+      "Ahsoka Tano"
+    ],
+    "platoon_2_row_1": [
+      "Chopper",
+      "Ezra Bridger",
+      "Ahsoka Tano (Fulcrum)",
+      "Wedge Antilles",
+      "Garazeb !Zeb! Orrelios"
+    ],
+    "platoon_2_row_2": [
+      "Princess Leia",
+      "Lobot",
+      "Ahsoka Tano (Fulcrum)",
+      "Stormtrooper Han",
+      "Admiral Ackbar"
+    ],
+    "platoon_2_row_3": [
+      "CC-2224 !Cody!",
+      "CT-21-0408 !Echo!",
+      "CT-5555 !Fives!",
+      "Clone Sergeant - Phase I",
+      "CT-7567 !Rex!"
+    ],
+    "platoon_3_row_1": [
+      "Kit Fisto",
+      "Eeth Koth",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Qui-Gon Jinn",
+      "Ahsoka Tano"
+    ],
+    "platoon_3_row_2": [
+      "Hera Syndulla",
+      "Kanan Jarrus",
+      "Chopper",
+      "Ezra Bridger",
+      "Sabine Wren"
+    ],
+    "platoon_3_row_3": [
+      "Chief Nebit",
+      "Dathcha",
+      "Jawa",
+      "Jawa Engineer",
+      "Jawa Scavenger"
+    ],
+    "platoon_4_row_1": [
+      "Ima-Gun Di",
+      "Jedi Consular",
+      "Eeth Koth",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Plo Koon"
+    ],
+    "platoon_4_row_2": [
+      "Bodhi Rook",
+      "Pao",
+      "Bistan",
+      "Cassian Andor",
+      "K-2SO"
+    ],
+    "platoon_4_row_3": [
+      "Finn",
+      "Poe Dameron",
+      "Rey (Scavenger)",
+      "Resistance Trooper",
+      "Resistance Pilot"
+    ],
+    "platoon_5_row_1": [
+      "Mace Windu",
+      "Jedi Knight Anakin",
+      "Jedi Knight Guardian",
+      "Aayla Secura",
+      "Barriss Offee"
+    ],
+    "platoon_5_row_2": [
+      "Jyn Erso",
+      "Cassian Andor",
+      "Baze Malbus",
+      "Chirrut Îmwe",
+      "K-2SO"
+    ],
+    "platoon_5_row_3": [
+      "Chief Chirpa",
+      "Ewok Elder",
+      "Ewok Scout",
+      "Teebo",
+      "Paploo"
+    ],
+    "platoon_6_row_1": [
+      "Grand Master Yoda",
+      "Aayla Secura",
+      "Qui-Gon Jinn",
+      "Kit Fisto",
+      "Jedi Knight Anakin"
+    ],
+    "platoon_6_row_2": [
+      "Chopper",
+      "Wedge Antilles",
+      "Biggs Darklighter",
+      "Garazeb !Zeb! Orrelios",
+      "Luke Skywalker (Farmboy)"
+    ],
+    "platoon_6_row_3": [
+      "Teebo",
+      "Ewok Scout",
+      "Paploo",
+      "Logray",
+      "Ewok Elder"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase04_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Rebel Assault Platoon-Z4T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "First Order TIE Fighter",
+      "Imperial TIE Fighter",
+      "TIE Reaper",
+      "TIE Advanced x1",
+      "TIE Silencer"
+    ],
+    "platoon_1_row_2": [
+      "Lando's Millennium Falcon",
+      "Ghost",
+      "Imperial TIE Fighter",
+      "Slave I",
+      "Hound's Tooth"
+    ],
+    "platoon_1_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170"
+    ],
+    "platoon_2_row_1": [
+      "Biggs Darklighter's X-wing",
+      "Rey's Millennium Falcon",
+      "Geonosian Soldier's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "Slave I"
+    ],
+    "platoon_2_row_2": [
+      "Scimitar",
+      "Imperial TIE Fighter",
+      "TIE Advanced x1",
+      "Geonosian Spy's Starfighter",
+      "Slave I"
+    ],
+    "platoon_2_row_3": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_3_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_3_row_2": [
+      "Ghost",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Phantom II",
+      "Imperial TIE Fighter"
+    ],
+    "platoon_3_row_3": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_4_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Plo Koon's Jedi Starfighter",
+      "Ghost",
+      "TIE Silencer"
+    ],
+    "platoon_4_row_2": [
+      "Cassian's U-wing",
+      "Ghost",
+      "Geonosian Spy's Starfighter",
+      "Poe Dameron's X-wing",
+      "Scimitar"
+    ],
+    "platoon_4_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Plo Koon's Jedi Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170"
+    ],
+    "platoon_5_row_1": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Rey's Millennium Falcon",
+      "Slave I",
+      "Xanadu Blood"
+    ],
+    "platoon_5_row_2": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_5_row_3": [
+      "Slave I",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Rex's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_6_row_1": [
+      "Hound's Tooth",
+      "Phantom II",
+      "Kylo Ren's Command Shuttle",
+      "Gauntlet Starfighter",
+      "Cassian's U-wing"
+    ],
+    "platoon_6_row_2": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Slave I",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_6_row_3": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Phantom II",
+      "Plo Koon's Jedi Starfighter",
+      "Umbaran Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase04_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Rebel Assault Platoon-Z4M",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "Stormtrooper Han",
+      "Luke Skywalker (Farmboy)",
+      "Enfys Nest",
+      "Princess Leia",
+      "Obi-Wan Kenobi (Old Ben)"
+    ],
+    "platoon_1_row_2": [
+      "Qui-Gon Jinn",
+      "Mace Windu",
+      "Plo Koon",
+      "Clone Wars Chewbacca",
+      "Barriss Offee"
+    ],
+    "platoon_1_row_3": [
+      "Admiral Ackbar",
+      "Biggs Darklighter",
+      "Stormtrooper Han",
+      "Garazeb !Zeb! Orrelios",
+      "Princess Leia"
+    ],
+    "platoon_2_row_1": [
+      "Jedi Knight Guardian",
+      "Clone Sergeant - Phase I",
+      "Ahsoka Tano",
+      "CT-5555 !Fives!",
+      "Mace Windu"
+    ],
+    "platoon_2_row_2": [
+      "Sabine Wren",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Chirrut Îmwe",
+      "Baze Malbus",
+      "Luke Skywalker (Farmboy)"
+    ],
+    "platoon_2_row_3": [
+      "CT-7567 !Rex!",
+      "CT-21-0408 !Echo!",
+      "CC-2224 !Cody!",
+      "Kanan Jarrus",
+      "Chief Nebit"
+    ],
+    "platoon_3_row_1": [
+      "Jedi Knight Anakin",
+      "CT-21-0408 !Echo!",
+      "Jedi Consular",
+      "Luminara Unduli",
+      "CC-2224 !Cody!"
+    ],
+    "platoon_3_row_2": [
+      "Lando Calrissian",
+      "Chopper",
+      "Admiral Ackbar",
+      "Biggs Darklighter",
+      "Luke Skywalker (Farmboy)"
+    ],
+    "platoon_3_row_3": [
+      "Rey (Scavenger)",
+      "Jawa",
+      "Jawa Engineer",
+      "Jawa Scavenger",
+      "Wicket"
+    ],
+    "platoon_4_row_1": [
+      "Veteran Smuggler Chewbacca",
+      "Veteran Smuggler Han Solo",
+      "Poe Dameron",
+      "Resistance Pilot",
+      "Finn"
+    ],
+    "platoon_4_row_2": [
+      "Ezra Bridger",
+      "Bistan",
+      "Bodhi Rook",
+      "Wedge Antilles",
+      "Hera Syndulla"
+    ],
+    "platoon_4_row_3": [
+      "Cassian Andor",
+      "K-2SO",
+      "Pao",
+      "Bistan",
+      "Chopper"
+    ],
+    "platoon_5_row_1": [
+      "Cassian Andor",
+      "K-2SO",
+      "Chirrut Îmwe",
+      "Baze Malbus",
+      "Jyn Erso"
+    ],
+    "platoon_5_row_2": [
+      "Chief Chirpa",
+      "Ewok Elder",
+      "Teebo",
+      "Ewok Scout",
+      "Wicket"
+    ],
+    "platoon_5_row_3": [
+      "Admiral Ackbar",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Jawa Engineer",
+      "Princess Leia",
+      "Wedge Antilles"
+    ],
+    "platoon_6_row_1": [
+      "Young Han Solo",
+      "Qi'ra",
+      "Vandor Chewbacca",
+      "Enfys Nest",
+      "Young Lando Calrissian"
+    ],
+    "platoon_6_row_2": [
+      "Rey (Scavenger)",
+      "Resistance Pilot",
+      "Poe Dameron",
+      "Qui-Gon Jinn",
+      "L3-37"
+    ],
+    "platoon_6_row_3": [
+      "Jyn Erso",
+      "Scarif Rebel Pathfinder",
+      "Wedge Antilles",
+      "Jawa Scavenger",
+      "Captain Han Solo"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase04_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Rebel Assault Platoon-Z4B",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "Lando Calrissian",
+      "Stormtrooper Han",
+      "Admiral Ackbar",
+      "Ahsoka Tano (Fulcrum)",
+      "Luke Skywalker (Farmboy)"
+    ],
+    "platoon_1_row_2": [
+      "Ahsoka Tano",
+      "Jedi Knight Anakin",
+      "Aayla Secura",
+      "CT-5555 !Fives!",
+      "Luminara Unduli"
+    ],
+    "platoon_1_row_3": [
+      "Stormtrooper Han",
+      "Wedge Antilles",
+      "Biggs Darklighter",
+      "Lando Calrissian",
+      "Princess Leia"
+    ],
+    "platoon_2_row_1": [
+      "Jedi Knight Anakin",
+      "Clone Wars Chewbacca",
+      "Qui-Gon Jinn",
+      "Luminara Unduli",
+      "Jedi Consular"
+    ],
+    "platoon_2_row_2": [
+      "Hera Syndulla",
+      "Stormtrooper Han",
+      "Princess Leia",
+      "Scarif Rebel Pathfinder",
+      "Biggs Darklighter"
+    ],
+    "platoon_2_row_3": [
+      "Rey (Scavenger)",
+      "Finn",
+      "Resistance Pilot",
+      "Resistance Trooper",
+      "Veteran Smuggler Chewbacca"
+    ],
+    "platoon_3_row_1": [
+      "Chief Chirpa",
+      "Ewok Elder",
+      "Ewok Scout",
+      "Paploo",
+      "Logray"
+    ],
+    "platoon_3_row_2": [
+      "Ahsoka Tano",
+      "Jedi Knight Anakin",
+      "Qui-Gon Jinn",
+      "Mace Windu",
+      "Luminara Unduli"
+    ],
+    "platoon_3_row_3": [
+      "Barriss Offee",
+      "Clone Sergeant - Phase I",
+      "Aayla Secura",
+      "Plo Koon",
+      "Jedi Consular"
+    ],
+    "platoon_4_row_1": [
+      "Sabine Wren",
+      "Kanan Jarrus",
+      "Ezra Bridger",
+      "Garazeb !Zeb! Orrelios",
+      "Obi-Wan Kenobi (Old Ben)"
+    ],
+    "platoon_4_row_2": [
+      "Teebo",
+      "Wicket",
+      "Ewok Scout",
+      "Logray",
+      "Paploo"
+    ],
+    "platoon_4_row_3": [
+      "Jedi Consular",
+      "Barriss Offee",
+      "Jedi Knight Guardian",
+      "Qui-Gon Jinn",
+      "Coruscant Underworld Police"
+    ],
+    "platoon_5_row_1": [
+      "Ahsoka Tano",
+      "Jedi Knight Anakin",
+      "CT-7567 !Rex!",
+      "Mace Windu",
+      "Plo Koon"
+    ],
+    "platoon_5_row_2": [
+      "Lando Calrissian",
+      "Luke Skywalker (Farmboy)",
+      "Biggs Darklighter",
+      "Wedge Antilles",
+      "Ugnaught"
+    ],
+    "platoon_5_row_3": [
+      "Veteran Smuggler Han Solo",
+      "Veteran Smuggler Chewbacca",
+      "Amilyn Holdo",
+      "Resistance Trooper",
+      "Poe Dameron"
+    ],
+    "platoon_6_row_1": [
+      "Rose Tico",
+      "Poe Dameron",
+      "Resistance Pilot",
+      "Rey (Scavenger)",
+      "Veteran Smuggler Han Solo"
+    ],
+    "platoon_6_row_2": [
+      "Young Han Solo",
+      "Young Lando Calrissian",
+      "Vandor Chewbacca",
+      "Qi'ra",
+      "L3-37"
+    ],
+    "platoon_6_row_3": [
+      "Chief Chirpa",
+      "Logray",
+      "Paploo",
+      "Ewok Elder",
+      "Teebo"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase05_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Rebel Assault Platoon-Z5T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Phantom II",
+      "Plo Koon's Jedi Starfighter",
+      "Umbaran Starfighter"
+    ],
+    "platoon_1_row_2": [
+      "Ghost",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Phantom II",
+      "Imperial TIE Fighter"
+    ],
+    "platoon_1_row_3": [
+      "First Order TIE Fighter",
+      "Imperial TIE Fighter",
+      "Geonosian Soldier's Starfighter",
+      "TIE Advanced x1",
+      "First Order SF TIE Fighter"
+    ],
+    "platoon_2_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Han's Millennium Falcon",
+      "Ghost",
+      "TIE Silencer"
+    ],
+    "platoon_2_row_2": [
+      "Cassian's U-wing",
+      "Ghost",
+      "Geonosian Spy's Starfighter",
+      "Poe Dameron's X-wing",
+      "Scimitar"
+    ],
+    "platoon_2_row_3": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_3_row_1": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_3_row_2": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Slave I",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_3_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_4_row_1": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Rey's Millennium Falcon",
+      "Slave I",
+      "Xanadu Blood"
+    ],
+    "platoon_4_row_2": [
+      "Lando's Millennium Falcon",
+      "Ghost",
+      "Imperial TIE Fighter",
+      "Slave I",
+      "Hound's Tooth"
+    ],
+    "platoon_4_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Anakin's Eta-2 Starfighter",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170"
+    ],
+    "platoon_5_row_1": [
+      "Biggs Darklighter's X-wing",
+      "Rey's Millennium Falcon",
+      "Anakin's Eta-2 Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "Slave I"
+    ],
+    "platoon_5_row_2": [
+      "TIE Reaper",
+      "Imperial TIE Fighter",
+      "TIE Advanced x1",
+      "Scimitar",
+      "Slave I"
+    ],
+    "platoon_5_row_3": [
+      "Hound's Tooth",
+      "Phantom II",
+      "Kylo Ren's Command Shuttle",
+      "Gauntlet Starfighter",
+      "Cassian's U-wing"
+    ],
+    "platoon_6_row_1": [
+      "Sith Fighter",
+      "B-28 Extinction-class Bomber",
+      "Ebon Hawk",
+      "Xanadu Blood",
+      "IG-2000"
+    ],
+    "platoon_6_row_2": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_6_row_3": [
+      "Slave I",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Rex's ARC-170",
+      "Umbaran Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase05_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Rebel Assault Platoon-Z5M",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "Stormtrooper Han",
+      "Luke Skywalker (Farmboy)",
+      "R2-D2",
+      "Princess Leia",
+      "Obi-Wan Kenobi (Old Ben)"
+    ],
+    "platoon_1_row_2": [
+      "Qui-Gon Jinn",
+      "Mace Windu",
+      "Plo Koon",
+      "Grand Master Yoda",
+      "Barriss Offee"
+    ],
+    "platoon_1_row_3": [
+      "CT-21-0408 !Echo!",
+      "Clone Sergeant - Phase I",
+      "Visas Marr",
+      "Plo Koon",
+      "Jedi Consular"
+    ],
+    "platoon_2_row_1": [
+      "Ahsoka Tano",
+      "Jedi Knight Anakin",
+      "CT-7567 !Rex!",
+      "Mace Windu",
+      "Plo Koon"
+    ],
+    "platoon_2_row_2": [
+      "Ahsoka Tano",
+      "Jedi Knight Anakin",
+      "Grand Master Yoda",
+      "Mace Windu",
+      "Luminara Unduli"
+    ],
+    "platoon_2_row_3": [
+      "Rose Tico",
+      "Poe Dameron",
+      "BB-8",
+      "Rey (Scavenger)",
+      "Veteran Smuggler Han Solo"
+    ],
+    "platoon_3_row_1": [
+      "Jedi Consular",
+      "Barriss Offee",
+      "Jedi Knight Guardian",
+      "Qui-Gon Jinn",
+      "Coruscant Underworld Police"
+    ],
+    "platoon_3_row_2": [
+      "Lando Calrissian",
+      "Han Solo",
+      "Biggs Darklighter",
+      "Wedge Antilles",
+      "Ugnaught"
+    ],
+    "platoon_3_row_3": [
+      "Admiral Ackbar",
+      "Ahsoka Tano (Fulcrum)",
+      "Baze Malbus",
+      "R2-D2",
+      "Princess Leia"
+    ],
+    "platoon_4_row_1": [
+      "General Kenobi",
+      "CT-21-0408 !Echo!",
+      "CT-5555 !Fives!",
+      "Mace Windu",
+      "CC-2224 !Cody!"
+    ],
+    "platoon_4_row_2": [
+      "Lando Calrissian",
+      "Ugnaught",
+      "Admiral Ackbar",
+      "Biggs Darklighter",
+      "Luke Skywalker (Farmboy)"
+    ],
+    "platoon_4_row_3": [
+      "Chief Nebit",
+      "Jawa",
+      "Jawa Engineer",
+      "Lobot",
+      "Dathcha"
+    ],
+    "platoon_5_row_1": [
+      "Teebo",
+      "Wicket",
+      "Ewok Scout",
+      "Chief Nebit",
+      "Jawa Scavenger"
+    ],
+    "platoon_5_row_2": [
+      "Chief Chirpa",
+      "Ewok Elder",
+      "Ewok Scout",
+      "Paploo",
+      "Logray"
+    ],
+    "platoon_5_row_3": [
+      "Veteran Smuggler Han Solo",
+      "Veteran Smuggler Chewbacca",
+      "Amilyn Holdo",
+      "R2-D2",
+      "L3-37"
+    ],
+    "platoon_6_row_1": [
+      "Qi'ra",
+      "Young Han Solo",
+      "Vandor Chewbacca",
+      "Hermit Yoda",
+      "Obi-Wan Kenobi (Old Ben)"
+    ],
+    "platoon_6_row_2": [
+      "Young Han Solo",
+      "Young Lando Calrissian",
+      "Vandor Chewbacca",
+      "Qi'ra",
+      "L3-37"
+    ],
+    "platoon_6_row_3": [
+      "Chief Chirpa",
+      "Logray",
+      "Paploo",
+      "Ewok Elder",
+      "Teebo"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase05_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Rebel Assault Platoon-Z5B",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "Lando Calrissian",
+      "Stormtrooper Han",
+      "Admiral Ackbar",
+      "Ahsoka Tano (Fulcrum)",
+      "Luke Skywalker (Farmboy)"
+    ],
+    "platoon_1_row_2": [
+      "Ahsoka Tano",
+      "Jedi Knight Anakin",
+      "Grand Master Yoda",
+      "CT-5555 !Fives!",
+      "Luminara Unduli"
+    ],
+    "platoon_1_row_3": [
+      "Rey (Scavenger)",
+      "Finn",
+      "Resistance Pilot",
+      "Resistance Trooper",
+      "Veteran Smuggler Chewbacca"
+    ],
+    "platoon_2_row_1": [
+      "Ahsoka Tano",
+      "Clone Sergeant - Phase I",
+      "Qui-Gon Jinn",
+      "Luminara Unduli",
+      "Jedi Consular"
+    ],
+    "platoon_2_row_2": [
+      "Mission Vao",
+      "Zaalbar",
+      "T3-M4",
+      "Jolee Bindo",
+      "Bastila Shan"
+    ],
+    "platoon_2_row_3": [
+      "Admiral Ackbar",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Hermit Yoda",
+      "Princess Leia",
+      "Veteran Smuggler Han Solo"
+    ],
+    "platoon_3_row_1": [
+      "Jedi Knight Guardian",
+      "Clone Sergeant - Phase I",
+      "Ahsoka Tano",
+      "CT-5555 !Fives!",
+      "Mace Windu"
+    ],
+    "platoon_3_row_2": [
+      "Chief Chirpa",
+      "Ewok Elder",
+      "Teebo",
+      "Ewok Scout",
+      "Wicket"
+    ],
+    "platoon_3_row_3": [
+      "Chewbacca",
+      "Pao",
+      "Biggs Darklighter",
+      "Lando Calrissian",
+      "Hermit Yoda"
+    ],
+    "platoon_4_row_1": [
+      "Veteran Smuggler Chewbacca",
+      "Veteran Smuggler Han Solo",
+      "Poe Dameron",
+      "BB-8",
+      "Finn"
+    ],
+    "platoon_4_row_2": [
+      "Cassian Andor",
+      "Bistan",
+      "Bodhi Rook",
+      "K-2SO",
+      "Baze Malbus"
+    ],
+    "platoon_4_row_3": [
+      "Cassian Andor",
+      "K-2SO",
+      "Pao",
+      "Bistan",
+      "Chief Nebit"
+    ],
+    "platoon_5_row_1": [
+      "Cassian Andor",
+      "K-2SO",
+      "C-3PO",
+      "Baze Malbus",
+      "Jyn Erso"
+    ],
+    "platoon_5_row_2": [
+      "Cassian Andor",
+      "K-2SO",
+      "Chirrut Îmwe",
+      "Baze Malbus",
+      "Jyn Erso"
+    ],
+    "platoon_5_row_3": [
+      "Captain Han Solo",
+      "Kit Fisto",
+      "Hoth Rebel Soldier",
+      "Obi-Wan Kenobi (Old Ben)",
+      "Hermit Yoda"
+    ],
+    "platoon_6_row_1": [
+      "Young Han Solo",
+      "Qi'ra",
+      "Vandor Chewbacca",
+      "Enfys Nest",
+      "Coruscant Underworld Police"
+    ],
+    "platoon_6_row_2": [
+      "Jawa Engineer",
+      "Admiral Ackbar",
+      "Princess Leia",
+      "Scarif Rebel Pathfinder",
+      "Han Solo"
+    ],
+    "platoon_6_row_3": [
+      "Veteran Smuggler Chewbacca",
+      "Scarif Rebel Pathfinder",
+      "Wedge Antilles",
+      "Hoth Rebel Soldier",
+      "Captain Han Solo"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase06_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Rebel Assault Platoon-Z6T",
+    "ability_name": "Orbital Bombardment",
+    "platoon_1_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Anakin's Eta-2 Starfighter",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170"
+    ],
+    "platoon_1_row_2": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_1_row_3": [
+      "TIE Reaper",
+      "Imperial TIE Fighter",
+      "Emperor's Shuttle",
+      "Slave I",
+      "TIE Advanced x1"
+    ],
+    "platoon_2_row_1": [
+      "Han's Millennium Falcon",
+      "Ghost",
+      "Hound's Tooth",
+      "Ebon Hawk",
+      "Slave I"
+    ],
+    "platoon_2_row_2": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Anakin's Eta-2 Starfighter",
+      "Biggs Darklighter's X-wing",
+      "Bistan's U-wing",
+      "Clone Sergeant's ARC-170"
+    ],
+    "platoon_2_row_3": [
+      "Umbaran Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter"
+    ],
+    "platoon_3_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Han's Millennium Falcon",
+      "Ghost",
+      "TIE Silencer"
+    ],
+    "platoon_3_row_2": [
+      "TIE Reaper",
+      "Imperial TIE Fighter",
+      "TIE Advanced x1",
+      "Scimitar",
+      "Slave I"
+    ],
+    "platoon_3_row_3": [
+      "Han's Millennium Falcon",
+      "Rey's Millennium Falcon",
+      "Lando's Millennium Falcon",
+      "Phantom II",
+      "Ghost"
+    ],
+    "platoon_4_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_4_row_2": [
+      "Imperial TIE Fighter",
+      "TIE Silencer",
+      "First Order TIE Fighter",
+      "TIE Advanced x1",
+      "TIE Reaper"
+    ],
+    "platoon_4_row_3": [
+      "Ghost",
+      "Rey's Millennium Falcon",
+      "Han's Millennium Falcon",
+      "Ebon Hawk",
+      "Lando's Millennium Falcon"
+    ],
+    "platoon_5_row_1": [
+      "Geonosian Spy's Starfighter",
+      "Geonosian Soldier's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "TIE Reaper",
+      "Imperial TIE Fighter"
+    ],
+    "platoon_5_row_2": [
+      "Slave I",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Rex's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_5_row_3": [
+      "B-28 Extinction-class Bomber",
+      "Xanadu Blood",
+      "IG-2000",
+      "Sith Fighter",
+      "Scimitar"
+    ],
+    "platoon_6_row_1": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_6_row_2": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Slave I",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_6_row_3": [
+      "First Order TIE Fighter",
+      "First Order SF TIE Fighter",
+      "Kylo Ren's Command Shuttle",
+      "TIE Silencer",
+      "Rey's Millennium Falcon"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase06_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Rebel Assault Platoon-Z6M",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "Stormtrooper Han",
+      "Luke Skywalker (Farmboy)",
+      "C-3PO",
+      "Princess Leia",
+      "Obi-Wan Kenobi (Old Ben)"
+    ],
+    "platoon_1_row_2": [
+      "Qui-Gon Jinn",
+      "Aayla Secura",
+      "Ahsoka Tano",
+      "Grand Master Yoda",
+      "Barriss Offee"
+    ],
+    "platoon_1_row_3": [
+      "Admiral Ackbar",
+      "Ahsoka Tano (Fulcrum)",
+      "Hermit Yoda",
+      "Sabine Wren",
+      "Commander Luke Skywalker"
+    ],
+    "platoon_2_row_1": [
+      "Coruscant Underworld Police",
+      "CC-2224 !Cody!",
+      "Barriss Offee",
+      "Mace Windu",
+      "Qui-Gon Jinn"
+    ],
+    "platoon_2_row_2": [
+      "Lando Calrissian",
+      "Han Solo",
+      "Sabine Wren",
+      "Wedge Antilles",
+      "Hermit Yoda"
+    ],
+    "platoon_2_row_3": [
+      "Veteran Smuggler Han Solo",
+      "Poe Dameron",
+      "Amilyn Holdo",
+      "Rey (Jedi Training)",
+      "Finn"
+    ],
+    "platoon_3_row_1": [
+      "C-3PO",
+      "Logray",
+      "Paploo",
+      "Wicket",
+      "Hermit Yoda"
+    ],
+    "platoon_3_row_2": [
+      "CC-2224 !Cody!",
+      "Jedi Knight Anakin",
+      "Aayla Secura",
+      "Mace Windu",
+      "Luminara Unduli"
+    ],
+    "platoon_3_row_3": [
+      "Barriss Offee",
+      "Jedi Knight Anakin",
+      "Visas Marr",
+      "CT-7567 !Rex!",
+      "Coruscant Underworld Police"
+    ],
+    "platoon_4_row_1": [
+      "General Kenobi",
+      "Qui-Gon Jinn",
+      "Visas Marr",
+      "Grand Master Yoda",
+      "Barriss Offee"
+    ],
+    "platoon_4_row_2": [
+      "Lando Calrissian",
+      "Wedge Antilles",
+      "Kit Fisto",
+      "Kanan Jarrus",
+      "Luke Skywalker (Farmboy)"
+    ],
+    "platoon_4_row_3": [
+      "Chief Nebit",
+      "Jawa",
+      "Dathcha",
+      "Jawa Scavenger",
+      "Ezra Bridger"
+    ],
+    "platoon_5_row_1": [
+      "Young Han Solo",
+      "Young Lando Calrissian",
+      "Plo Koon",
+      "L3-37",
+      "Rey (Jedi Training)"
+    ],
+    "platoon_5_row_2": [
+      "Jedi Knight Revan",
+      "Zaalbar",
+      "T3-M4",
+      "Jolee Bindo",
+      "Bastila Shan"
+    ],
+    "platoon_5_row_3": [
+      "Lando Calrissian",
+      "Kanan Jarrus",
+      "Hoth Rebel Scout",
+      "Hoth Rebel Soldier",
+      "Captain Han Solo"
+    ],
+    "platoon_6_row_1": [
+      "Rose Tico",
+      "Poe Dameron",
+      "BB-8",
+      "Rey (Scavenger)",
+      "Amilyn Holdo"
+    ],
+    "platoon_6_row_2": [
+      "Young Han Solo",
+      "Young Lando Calrissian",
+      "Enfys Nest",
+      "R2-D2",
+      "L3-37"
+    ],
+    "platoon_6_row_3": [
+      "Kanan Jarrus",
+      "Chewbacca",
+      "Ewok Scout",
+      "Ezra Bridger",
+      "Logray"
+    ]
+  },
+  {
+    "tb_id": "t01D",
+    "zone_id": "phase06_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Rebel Assault Platoon-Z6B",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "L3-37",
+      "Veteran Smuggler Han Solo",
+      "Poe Dameron",
+      "Rey (Jedi Training)",
+      "Hermit Yoda"
+    ],
+    "platoon_1_row_2": [
+      "Ahsoka Tano",
+      "Jedi Knight Anakin",
+      "Grand Master Yoda",
+      "Qui-Gon Jinn",
+      "Ima-Gun Di"
+    ],
+    "platoon_1_row_3": [
+      "Garazeb !Zeb! Orrelios",
+      "Wicket",
+      "Chewbacca",
+      "Veteran Smuggler Chewbacca",
+      "Zaalbar"
+    ],
+    "platoon_2_row_1": [
+      "Eeth Koth",
+      "General Kenobi",
+      "Jedi Knight Guardian",
+      "Ima-Gun Di",
+      "Coruscant Underworld Police"
+    ],
+    "platoon_2_row_2": [
+      "Sabine Wren",
+      "Ezra Bridger",
+      "Teebo",
+      "Chewbacca",
+      "Hermit Yoda"
+    ],
+    "platoon_2_row_3": [
+      "Admiral Ackbar",
+      "Logray",
+      "Stormtrooper Han",
+      "Princess Leia",
+      "Wedge Antilles"
+    ],
+    "platoon_3_row_1": [
+      "Hermit Yoda",
+      "Captain Han Solo",
+      "Ahsoka Tano (Fulcrum)",
+      "Commander Luke Skywalker",
+      "Ezra Bridger"
+    ],
+    "platoon_3_row_2": [
+      "Lando Calrissian",
+      "Stormtrooper Han",
+      "Ugnaught",
+      "Kit Fisto",
+      "Plo Koon"
+    ],
+    "platoon_3_row_3": [
+      "Captain Han Solo",
+      "Hoth Rebel Scout",
+      "Hoth Rebel Soldier",
+      "Ahsoka Tano (Fulcrum)",
+      "Commander Luke Skywalker"
+    ],
+    "platoon_4_row_1": [
+      "CT-21-0408 !Echo!",
+      "CT-7567 !Rex!",
+      "Grand Master Yoda",
+      "Eeth Koth",
+      "Luminara Unduli"
+    ],
+    "platoon_4_row_2": [
+      "Chopper",
+      "Hera Syndulla",
+      "Garazeb !Zeb! Orrelios",
+      "Kanan Jarrus",
+      "Lobot"
+    ],
+    "platoon_4_row_3": [
+      "Stormtrooper Han",
+      "Wedge Antilles",
+      "Lobot",
+      "Lando Calrissian",
+      "Hermit Yoda"
+    ],
+    "platoon_5_row_1": [
+      "T3-M4",
+      "Bastila Shan",
+      "Jedi Knight Revan",
+      "Juhani",
+      "Zaalbar"
+    ],
+    "platoon_5_row_2": [
+      "Lando Calrissian",
+      "Enfys Nest",
+      "Princess Leia",
+      "Biggs Darklighter",
+      "Han Solo"
+    ],
+    "platoon_5_row_3": [
+      "Rey (Scavenger)",
+      "Finn",
+      "C-3PO",
+      "BB-8",
+      "Poe Dameron"
+    ],
+    "platoon_6_row_1": [
+      "Chopper",
+      "Ugnaught",
+      "Juhani",
+      "Kanan Jarrus",
+      "Carth Onasi"
+    ],
+    "platoon_6_row_2": [
+      "Poe Dameron",
+      "Rey (Scavenger)",
+      "Hermit Yoda",
+      "R2-D2",
+      "Rose Tico"
+    ],
+    "platoon_6_row_3": [
+      "Jolee Bindo",
+      "Juhani",
+      "Carth Onasi",
+      "T3-M4",
+      "Mission Vao"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase01_conflict01",
+    "unit_type": "character",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z1T",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "Talia",
+      "Asajj Ventress",
+      "Old Daka",
+      "Nightsister Zombie",
+      "Nightsister Initiate"
+    ],
+    "platoon_1_row_2": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_1_row_3": [
+      "HK-47",
+      "Poggle the Lesser",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Nute Gunray"
+    ],
+    "platoon_2_row_1": [
+      "Nute Gunray",
+      "Sun Fac",
+      "IG-86 Sentinel Droid",
+      "Count Dooku",
+      "IG-100 MagnaGuard"
+    ],
+    "platoon_2_row_2": [
+      "Director Krennic",
+      "Death Trooper",
+      "Shoretrooper",
+      "Stormtrooper",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_2_row_3": [
+      "Boba Fett",
+      "Dengar",
+      "Greedo",
+      "IG-88",
+      "Cad Bane"
+    ],
+    "platoon_3_row_1": [
+      "Count Dooku",
+      "Geonosian Spy",
+      "Geonosian Soldier",
+      "Poggle the Lesser",
+      "Sun Fac"
+    ],
+    "platoon_3_row_2": [
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Empire Trooper",
+      "Darth Maul",
+      "Savage Opress"
+    ],
+    "platoon_3_row_3": [
+      "Director Krennic",
+      "Death Trooper",
+      "Shoretrooper",
+      "Stormtrooper",
+      "Magmatrooper"
+    ],
+    "platoon_4_row_1": [
+      "Poggle the Lesser",
+      "Nute Gunray",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Sun Fac"
+    ],
+    "platoon_4_row_2": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_4_row_3": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Count Dooku",
+      "Sith Empire Trooper"
+    ],
+    "platoon_5_row_1": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_5_row_2": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Count Dooku",
+      "Sith Empire Trooper"
+    ],
+    "platoon_5_row_3": [
+      "Gar Saxon",
+      "Death Trooper",
+      "Royal Guard",
+      "Director Krennic",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_6_row_1": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_6_row_2": [
+      "Old Daka",
+      "Asajj Ventress",
+      "Nightsister Acolyte",
+      "Nightsister Initiate",
+      "Talia"
+    ],
+    "platoon_6_row_3": [
+      "Grand Moff Tarkin",
+      "Royal Guard",
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Magmatrooper"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase01_conflict02",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z1B",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "Old Daka",
+      "Asajj Ventress",
+      "Nightsister Zombie",
+      "Nightsister Initiate",
+      "Talia"
+    ],
+    "platoon_1_row_2": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_1_row_3": [
+      "Grand Moff Tarkin",
+      "Royal Guard",
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Magmatrooper"
+    ],
+    "platoon_2_row_1": [
+      "Count Dooku",
+      "Geonosian Spy",
+      "Geonosian Soldier",
+      "Poggle the Lesser",
+      "Sun Fac"
+    ],
+    "platoon_2_row_2": [
+      "Grand Moff Tarkin",
+      "Royal Guard",
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Magmatrooper"
+    ],
+    "platoon_2_row_3": [
+      "Gar Saxon",
+      "Death Trooper",
+      "Royal Guard",
+      "Director Krennic",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_3_row_1": [
+      "Talia",
+      "Asajj Ventress",
+      "Old Daka",
+      "Nightsister Zombie",
+      "Nightsister Initiate"
+    ],
+    "platoon_3_row_2": [
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Empire Trooper",
+      "Darth Maul",
+      "Savage Opress"
+    ],
+    "platoon_3_row_3": [
+      "HK-47",
+      "Poggle the Lesser",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Sun Fac"
+    ],
+    "platoon_4_row_1": [
+      "Nute Gunray",
+      "B1 Battle Droid",
+      "IG-86 Sentinel Droid",
+      "Count Dooku",
+      "IG-100 MagnaGuard"
+    ],
+    "platoon_4_row_2": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_4_row_3": [
+      "Director Krennic",
+      "Death Trooper",
+      "Shoretrooper",
+      "Stormtrooper",
+      "Magmatrooper"
+    ],
+    "platoon_5_row_1": [
+      "Poggle the Lesser",
+      "Nute Gunray",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Sun Fac"
+    ],
+    "platoon_5_row_2": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Count Dooku",
+      "Sith Empire Trooper"
+    ],
+    "platoon_5_row_3": [
+      "Boba Fett",
+      "Dengar",
+      "Greedo",
+      "IG-88",
+      "Bossk"
+    ],
+    "platoon_6_row_1": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_6_row_2": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_6_row_3": [
+      "Boba Fett",
+      "Tusken Shaman",
+      "Tusken Raider",
+      "Mob Enforcer",
+      "Bossk"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase02_conflict01",
+    "unit_type": "character",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z2T",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "Poggle the Lesser",
+      "Count Dooku",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Sun Fac"
+    ],
+    "platoon_1_row_2": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_1_row_3": [
+      "Director Krennic",
+      "Death Trooper",
+      "Range Trooper",
+      "Stormtrooper",
+      "Magmatrooper"
+    ],
+    "platoon_2_row_1": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_2_row_2": [
+      "Nute Gunray",
+      "Poggle the Lesser",
+      "IG-86 Sentinel Droid",
+      "Count Dooku",
+      "IG-100 MagnaGuard"
+    ],
+    "platoon_2_row_3": [
+      "Director Krennic",
+      "TIE Fighter Pilot",
+      "Stormtrooper",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_3_row_1": [
+      "Count Dooku",
+      "Geonosian Spy",
+      "Geonosian Soldier",
+      "Poggle the Lesser",
+      "Sun Fac"
+    ],
+    "platoon_3_row_2": [
+      "Director Krennic",
+      "Death Trooper",
+      "Shoretrooper",
+      "Stormtrooper",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_3_row_3": [
+      "Gar Saxon",
+      "Imperial Super Commando",
+      "Royal Guard",
+      "Director Krennic",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_4_row_1": [
+      "HK-47",
+      "Poggle the Lesser",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "B1 Battle Droid"
+    ],
+    "platoon_4_row_2": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_4_row_3": [
+      "Grand Moff Tarkin",
+      "Royal Guard",
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Magmatrooper"
+    ],
+    "platoon_5_row_1": [
+      "Talia",
+      "Asajj Ventress",
+      "Old Daka",
+      "Nightsister Acolyte",
+      "Nightsister Initiate"
+    ],
+    "platoon_5_row_2": [
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Empire Trooper",
+      "Darth Maul",
+      "Savage Opress"
+    ],
+    "platoon_5_row_3": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_6_row_1": [
+      "Old Daka",
+      "Asajj Ventress",
+      "Nightsister Acolyte",
+      "Nightsister Initiate",
+      "Talia"
+    ],
+    "platoon_6_row_2": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Count Dooku",
+      "Sith Empire Trooper"
+    ],
+    "platoon_6_row_3": [
+      "Nute Gunray",
+      "B2 Super Battle Droid",
+      "IG-86 Sentinel Droid",
+      "Count Dooku",
+      "IG-100 MagnaGuard"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase02_conflict02",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z2B",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "Old Daka",
+      "Asajj Ventress",
+      "Nightsister Acolyte",
+      "Nightsister Initiate",
+      "Talia"
+    ],
+    "platoon_1_row_2": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_1_row_3": [
+      "Count Dooku",
+      "Geonosian Spy",
+      "Geonosian Soldier",
+      "Poggle the Lesser",
+      "Sun Fac"
+    ],
+    "platoon_2_row_1": [
+      "HK-47",
+      "Poggle the Lesser",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "B1 Battle Droid"
+    ],
+    "platoon_2_row_2": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Count Dooku",
+      "Sith Empire Trooper"
+    ],
+    "platoon_2_row_3": [
+      "Nute Gunray",
+      "Droideka",
+      "IG-86 Sentinel Droid",
+      "Count Dooku",
+      "IG-100 MagnaGuard"
+    ],
+    "platoon_3_row_1": [
+      "Talia",
+      "Asajj Ventress",
+      "Old Daka",
+      "Nightsister Acolyte",
+      "Nightsister Initiate"
+    ],
+    "platoon_3_row_2": [
+      "Grand Moff Tarkin",
+      "Royal Guard",
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Magmatrooper"
+    ],
+    "platoon_3_row_3": [
+      "URoRRuR'R'R",
+      "Tusken Shaman",
+      "Tusken Raider",
+      "Mob Enforcer",
+      "Gamorrean Guard"
+    ],
+    "platoon_4_row_1": [
+      "Director Krennic",
+      "Death Trooper",
+      "Shoretrooper",
+      "Stormtrooper",
+      "Magmatrooper"
+    ],
+    "platoon_4_row_2": [
+      "Poggle the Lesser",
+      "Count Dooku",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Sun Fac"
+    ],
+    "platoon_4_row_3": [
+      "Gar Saxon",
+      "Death Trooper",
+      "Royal Guard",
+      "Director Krennic",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_5_row_1": [
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Empire Trooper",
+      "Darth Maul",
+      "Savage Opress"
+    ],
+    "platoon_5_row_2": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_5_row_3": [
+      "Director Krennic",
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_6_row_1": [
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Magmatrooper",
+      "Death Trooper"
+    ],
+    "platoon_6_row_2": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_6_row_3": [
+      "Grand Moff Tarkin",
+      "Royal Guard",
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Magmatrooper"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase03_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z3T",
+    "ability_name": "Orbital Bombardment",
+    "platoon_1_row_1": [
+      "First Order TIE Fighter",
+      "Imperial TIE Fighter",
+      "Scimitar",
+      "Slave I",
+      "Phantom II"
+    ],
+    "platoon_1_row_2": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Phantom II"
+    ],
+    "platoon_1_row_3": [
+      "Clone Sergeant's ARC-170",
+      "Bistan's U-wing",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_2_row_1": [
+      "Clone Sergeant's ARC-170",
+      "Ahsoka Tano's Jedi Starfighter",
+      "Phantom II",
+      "Plo Koon's Jedi Starfighter",
+      "Umbaran Starfighter"
+    ],
+    "platoon_2_row_2": [
+      "First Order TIE Fighter",
+      "Imperial TIE Fighter",
+      "Slave I",
+      "TIE Advanced x1",
+      "TIE Silencer"
+    ],
+    "platoon_2_row_3": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Plo Koon's Jedi Starfighter",
+      "Ghost",
+      "TIE Silencer"
+    ],
+    "platoon_3_row_1": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_3_row_2": [
+      "Hound's Tooth",
+      "Phantom II",
+      "Imperial TIE Fighter",
+      "Gauntlet Starfighter",
+      "First Order TIE Fighter"
+    ],
+    "platoon_3_row_3": [
+      "Scimitar",
+      "Imperial TIE Fighter",
+      "TIE Advanced x1",
+      "TIE Silencer",
+      "Slave I"
+    ],
+    "platoon_4_row_1": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_4_row_2": [
+      "Biggs Darklighter's X-wing",
+      "Gauntlet Starfighter",
+      "Geonosian Soldier's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "Slave I"
+    ],
+    "platoon_4_row_3": [
+      "Lando's Millennium Falcon",
+      "Ghost",
+      "Imperial TIE Fighter",
+      "Slave I",
+      "Hound's Tooth"
+    ],
+    "platoon_5_row_1": [
+      "Cassian's U-wing",
+      "Ghost",
+      "Geonosian Spy's Starfighter",
+      "Poe Dameron's X-wing",
+      "Scimitar"
+    ],
+    "platoon_5_row_2": [
+      "Slave I",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_5_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Plo Koon's Jedi Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_6_row_1": [
+      "Ghost",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Phantom II",
+      "Imperial TIE Fighter"
+    ],
+    "platoon_6_row_2": [
+      "Hound's Tooth",
+      "Bistan's U-wing",
+      "Slave I",
+      "Cassian's U-wing",
+      "Ebon Hawk"
+    ],
+    "platoon_6_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Umbaran Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase03_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z3M",
+    "ability_name": "Ion Cannon Blast",
+    "platoon_1_row_1": [
+      "Nute Gunray",
+      "B2 Super Battle Droid",
+      "IG-86 Sentinel Droid",
+      "Count Dooku",
+      "IG-100 MagnaGuard"
+    ],
+    "platoon_1_row_2": [
+      "Old Daka",
+      "Asajj Ventress",
+      "Nightsister Acolyte",
+      "Nightsister Initiate",
+      "Talia"
+    ],
+    "platoon_1_row_3": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_2_row_1": [
+      "HK-47",
+      "Poggle the Lesser",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Nute Gunray"
+    ],
+    "platoon_2_row_2": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Count Dooku",
+      "Sith Empire Trooper"
+    ],
+    "platoon_2_row_3": [
+      "Count Dooku",
+      "Geonosian Spy",
+      "Geonosian Soldier",
+      "Poggle the Lesser",
+      "Sun Fac"
+    ],
+    "platoon_3_row_1": [
+      "Poggle the Lesser",
+      "B2 Super Battle Droid",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Sun Fac"
+    ],
+    "platoon_3_row_2": [
+      "Talia",
+      "Asajj Ventress",
+      "Old Daka",
+      "Nightsister Acolyte",
+      "Nightsister Initiate"
+    ],
+    "platoon_3_row_3": [
+      "Gar Saxon",
+      "Death Trooper",
+      "Royal Guard",
+      "Director Krennic",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_4_row_1": [
+      "HK-47",
+      "Poggle the Lesser",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Sun Fac"
+    ],
+    "platoon_4_row_2": [
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Empire Trooper",
+      "Darth Maul",
+      "Savage Opress"
+    ],
+    "platoon_4_row_3": [
+      "Talia",
+      "Asajj Ventress",
+      "Old Daka",
+      "Nightsister Acolyte",
+      "Nightsister Initiate"
+    ],
+    "platoon_5_row_1": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Count Dooku",
+      "Sith Empire Trooper"
+    ],
+    "platoon_5_row_2": [
+      "Grand Admiral Thrawn",
+      "Emperor Palpatine",
+      "Royal Guard",
+      "Gar Saxon",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_5_row_3": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Count Dooku",
+      "Sith Empire Trooper"
+    ],
+    "platoon_6_row_1": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_6_row_2": [
+      "General Grievous",
+      "IG-100 MagnaGuard",
+      "Count Dooku",
+      "Nute Gunray",
+      "Poggle the Lesser"
+    ],
+    "platoon_6_row_3": [
+      "Nute Gunray",
+      "Tusken Raider",
+      "Geonosian Soldier",
+      "Geonosian Spy",
+      "URoRRuR'R'R"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase03_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z3B",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Empire Trooper",
+      "Darth Maul",
+      "Savage Opress"
+    ],
+    "platoon_1_row_2": [
+      "Gar Saxon",
+      "Imperial Super Commando",
+      "Royal Guard",
+      "Director Krennic",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_1_row_3": [
+      "URoRRuR'R'R",
+      "Tusken Shaman",
+      "Tusken Raider",
+      "Mob Enforcer",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_2_row_1": [
+      "HK-47",
+      "Poggle the Lesser",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Sun Fac"
+    ],
+    "platoon_2_row_2": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Count Dooku",
+      "Sith Empire Trooper"
+    ],
+    "platoon_2_row_3": [
+      "Poggle the Lesser",
+      "Asajj Ventress",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Sun Fac"
+    ],
+    "platoon_3_row_1": [
+      "Count Dooku",
+      "Geonosian Spy",
+      "Geonosian Soldier",
+      "Poggle the Lesser",
+      "Sun Fac"
+    ],
+    "platoon_3_row_2": [
+      "Old Daka",
+      "Asajj Ventress",
+      "Nightsister Zombie",
+      "Nightsister Initiate",
+      "Talia"
+    ],
+    "platoon_3_row_3": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_4_row_1": [
+      "Nute Gunray",
+      "Director Krennic",
+      "IG-86 Sentinel Droid",
+      "Count Dooku",
+      "IG-100 MagnaGuard"
+    ],
+    "platoon_4_row_2": [
+      "Talia",
+      "Asajj Ventress",
+      "Old Daka",
+      "Savage Opress",
+      "Nightsister Initiate"
+    ],
+    "platoon_4_row_3": [
+      "Grand Moff Tarkin",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Director Krennic",
+      "Gar Saxon"
+    ],
+    "platoon_5_row_1": [
+      "Gar Saxon",
+      "Imperial Super Commando",
+      "Royal Guard",
+      "Director Krennic",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_5_row_2": [
+      "Emperor Palpatine",
+      "General Grievous",
+      "Darth Nihilus",
+      "Darth Maul",
+      "Sith Empire Trooper"
+    ],
+    "platoon_5_row_3": [
+      "HK-47",
+      "Poggle the Lesser",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Gar Saxon"
+    ],
+    "platoon_6_row_1": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_6_row_2": [
+      "Grand Admiral Thrawn",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Gar Saxon",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_6_row_3": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Count Dooku",
+      "Sith Empire Trooper"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase04_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z4T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "First Order TIE Fighter",
+      "Imperial TIE Fighter",
+      "TIE Reaper",
+      "TIE Advanced x1",
+      "TIE Silencer"
+    ],
+    "platoon_1_row_2": [
+      "Lando's Millennium Falcon",
+      "Ghost",
+      "Imperial TIE Fighter",
+      "Slave I",
+      "Hound's Tooth"
+    ],
+    "platoon_1_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170"
+    ],
+    "platoon_2_row_1": [
+      "Biggs Darklighter's X-wing",
+      "Rey's Millennium Falcon",
+      "Geonosian Soldier's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "Slave I"
+    ],
+    "platoon_2_row_2": [
+      "Scimitar",
+      "Imperial TIE Fighter",
+      "TIE Advanced x1",
+      "Geonosian Spy's Starfighter",
+      "Slave I"
+    ],
+    "platoon_2_row_3": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_3_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_3_row_2": [
+      "Ghost",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Phantom II",
+      "Imperial TIE Fighter"
+    ],
+    "platoon_3_row_3": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_4_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Plo Koon's Jedi Starfighter",
+      "Ghost",
+      "TIE Silencer"
+    ],
+    "platoon_4_row_2": [
+      "Cassian's U-wing",
+      "Ghost",
+      "Geonosian Spy's Starfighter",
+      "Poe Dameron's X-wing",
+      "Scimitar"
+    ],
+    "platoon_4_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Plo Koon's Jedi Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170"
+    ],
+    "platoon_5_row_1": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Rey's Millennium Falcon",
+      "Slave I",
+      "Xanadu Blood"
+    ],
+    "platoon_5_row_2": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_5_row_3": [
+      "Slave I",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Rex's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_6_row_1": [
+      "Hound's Tooth",
+      "Phantom II",
+      "Kylo Ren's Command Shuttle",
+      "Gauntlet Starfighter",
+      "Cassian's U-wing"
+    ],
+    "platoon_6_row_2": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Slave I",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_6_row_3": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Phantom II",
+      "Plo Koon's Jedi Starfighter",
+      "Umbaran Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase04_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z4M",
+    "ability_name": "Power Generator",
+    "platoon_1_row_1": [
+      "Darth Vader",
+      "Stormtrooper",
+      "Royal Guard",
+      "Magmatrooper",
+      "Imperial Probe Droid"
+    ],
+    "platoon_1_row_2": [
+      "IG-100 MagnaGuard",
+      "Darth Maul",
+      "Cad Bane",
+      "Zam Wesell",
+      "Asajj Ventress"
+    ],
+    "platoon_1_row_3": [
+      "Mother Talzin",
+      "Talia",
+      "Darth Maul",
+      "Savage Opress",
+      "Old Daka"
+    ],
+    "platoon_2_row_1": [
+      "Grand Moff Tarkin",
+      "Shoretrooper",
+      "Stormtrooper",
+      "Imperial Probe Droid",
+      "Royal Guard"
+    ],
+    "platoon_2_row_2": [
+      "Cad Bane",
+      "IG-100 MagnaGuard",
+      "Darth Sidious",
+      "Geonosian Soldier",
+      "Geonosian Spy"
+    ],
+    "platoon_2_row_3": [
+      "Nightsister Acolyte",
+      "Nightsister Zombie",
+      "Nightsister Spirit",
+      "Talia",
+      "Old Daka"
+    ],
+    "platoon_3_row_1": [
+      "Count Dooku",
+      "Poggle the Lesser",
+      "Nute Gunray",
+      "Sun Fac",
+      "Asajj Ventress"
+    ],
+    "platoon_3_row_2": [
+      "Darth Sion",
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Marauder",
+      "Sith Empire Trooper"
+    ],
+    "platoon_3_row_3": [
+      "Darth Sidious",
+      "IG-86 Sentinel Droid",
+      "First Order TIE Pilot",
+      "Kylo Ren (Unmasked)",
+      "First Order Stormtrooper"
+    ],
+    "platoon_4_row_1": [
+      "Captain Phasma",
+      "Kylo Ren",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Executioner"
+    ],
+    "platoon_4_row_2": [
+      "Cad Bane",
+      "Jango Fett",
+      "Zam Wesell",
+      "IG-88",
+      "Embo"
+    ],
+    "platoon_4_row_3": [
+      "Colonel Starck",
+      "Range Trooper",
+      "Stormtrooper",
+      "Death Trooper",
+      "Magmatrooper"
+    ],
+    "platoon_5_row_1": [
+      "Jango Fett",
+      "Zam Wesell",
+      "Asajj Ventress",
+      "Boba Fett",
+      "Greedo"
+    ],
+    "platoon_5_row_2": [
+      "Gar Saxon",
+      "Mob Enforcer",
+      "Aurra Sing",
+      "IG-88",
+      "Imperial Probe Droid"
+    ],
+    "platoon_5_row_3": [
+      "Geonosian Soldier",
+      "Geonosian Spy",
+      "Tusken Raider",
+      "Tusken Shaman",
+      "URoRRuR'R'R"
+    ],
+    "platoon_6_row_1": [
+      "First Order Executioner",
+      "First Order Officer",
+      "First Order SF TIE Pilot",
+      "First Order TIE Pilot",
+      "Captain Phasma"
+    ],
+    "platoon_6_row_2": [
+      "Bastila Shan (Fallen)",
+      "Darth Nihilus",
+      "Sith Marauder",
+      "Sith Empire Trooper",
+      "HK-47"
+    ],
+    "platoon_6_row_3": [
+      "Nute Gunray",
+      "Sun Fac",
+      "Poggle the Lesser",
+      "Droideka",
+      "B1 Battle Droid"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase04_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z4B",
+    "ability_name": "AT-AT Assault",
+    "platoon_1_row_1": [
+      "Mother Talzin",
+      "Darth Maul",
+      "Talia",
+      "Old Daka",
+      "Nightsister Acolyte"
+    ],
+    "platoon_1_row_2": [
+      "Grand Moff Tarkin",
+      "Death Trooper",
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Darth Vader"
+    ],
+    "platoon_1_row_3": [
+      "Nightsister Initiate",
+      "Nightsister Spirit",
+      "Nightsister Zombie",
+      "Mother Talzin",
+      "Nightsister Acolyte"
+    ],
+    "platoon_2_row_1": [
+      "TIE Fighter Pilot",
+      "Darth Vader",
+      "Colonel Starck",
+      "Shoretrooper",
+      "Imperial Probe Droid"
+    ],
+    "platoon_2_row_2": [
+      "Imperial Super Commando",
+      "Darth Vader",
+      "Boba Fett",
+      "Greedo",
+      "Bossk"
+    ],
+    "platoon_2_row_3": [
+      "Nightsister Initiate",
+      "Nightsister Spirit",
+      "Mother Talzin",
+      "Talia",
+      "Savage Opress"
+    ],
+    "platoon_3_row_1": [
+      "First Order Stormtrooper",
+      "Kylo Ren",
+      "Kylo Ren (Unmasked)",
+      "Darth Sidious",
+      "Boba Fett"
+    ],
+    "platoon_3_row_2": [
+      "First Order Officer",
+      "First Order TIE Pilot",
+      "First Order Stormtrooper",
+      "Kylo Ren (Unmasked)",
+      "Mob Enforcer"
+    ],
+    "platoon_3_row_3": [
+      "Boba Fett",
+      "Greedo",
+      "HK-47",
+      "IG-88",
+      "Dengar"
+    ],
+    "platoon_4_row_1": [
+      "Mother Talzin",
+      "Darth Maul",
+      "Kylo Ren (Unmasked)",
+      "Tusken Shaman",
+      "URoRRuR'R'R"
+    ],
+    "platoon_4_row_2": [
+      "General Grievous",
+      "IG-100 MagnaGuard",
+      "Darth Sidious",
+      "Gamorrean Guard",
+      "Greedo"
+    ],
+    "platoon_4_row_3": [
+      "Cad Bane",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Count Dooku",
+      "B2 Super Battle Droid"
+    ],
+    "platoon_5_row_1": [
+      "Kylo Ren (Unmasked)",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "Greedo",
+      "Mob Enforcer"
+    ],
+    "platoon_5_row_2": [
+      "Bastila Shan (Fallen)",
+      "Canderous Ordo",
+      "Darth Nihilus",
+      "Darth Sion",
+      "HK-47"
+    ],
+    "platoon_5_row_3": [
+      "Director Krennic",
+      "Death Trooper",
+      "Shoretrooper",
+      "Stormtrooper",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_6_row_1": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Tusken Raider",
+      "Tusken Shaman",
+      "URoRRuR'R'R"
+    ],
+    "platoon_6_row_2": [
+      "Grand Moff Tarkin",
+      "Gar Saxon",
+      "Boba Fett",
+      "Stormtrooper",
+      "Range Trooper"
+    ],
+    "platoon_6_row_3": [
+      "General Grievous",
+      "Droideka",
+      "B1 Battle Droid",
+      "B2 Super Battle Droid",
+      "IG-86 Sentinel Droid"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase05_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z5T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Phantom II",
+      "Plo Koon's Jedi Starfighter",
+      "Umbaran Starfighter"
+    ],
+    "platoon_1_row_2": [
+      "Ghost",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Phantom II",
+      "Imperial TIE Fighter"
+    ],
+    "platoon_1_row_3": [
+      "First Order TIE Fighter",
+      "Imperial TIE Fighter",
+      "Geonosian Soldier's Starfighter",
+      "TIE Advanced x1",
+      "First Order SF TIE Fighter"
+    ],
+    "platoon_2_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Han's Millennium Falcon",
+      "Ghost",
+      "TIE Silencer"
+    ],
+    "platoon_2_row_2": [
+      "Cassian's U-wing",
+      "Ghost",
+      "Geonosian Spy's Starfighter",
+      "Poe Dameron's X-wing",
+      "Scimitar"
+    ],
+    "platoon_2_row_3": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_3_row_1": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_3_row_2": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Slave I",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_3_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_4_row_1": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Rey's Millennium Falcon",
+      "Slave I",
+      "Xanadu Blood"
+    ],
+    "platoon_4_row_2": [
+      "Lando's Millennium Falcon",
+      "Ghost",
+      "Imperial TIE Fighter",
+      "Slave I",
+      "Hound's Tooth"
+    ],
+    "platoon_4_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Anakin's Eta-2 Starfighter",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170"
+    ],
+    "platoon_5_row_1": [
+      "Biggs Darklighter's X-wing",
+      "Rey's Millennium Falcon",
+      "Anakin's Eta-2 Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "Slave I"
+    ],
+    "platoon_5_row_2": [
+      "TIE Reaper",
+      "Imperial TIE Fighter",
+      "TIE Advanced x1",
+      "Scimitar",
+      "Slave I"
+    ],
+    "platoon_5_row_3": [
+      "Hound's Tooth",
+      "Phantom II",
+      "Kylo Ren's Command Shuttle",
+      "Gauntlet Starfighter",
+      "Cassian's U-wing"
+    ],
+    "platoon_6_row_1": [
+      "Sith Fighter",
+      "B-28 Extinction-class Bomber",
+      "Ebon Hawk",
+      "Xanadu Blood",
+      "IG-2000"
+    ],
+    "platoon_6_row_2": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_6_row_3": [
+      "Slave I",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Rex's ARC-170",
+      "Umbaran Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase05_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z5M",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "Mother Talzin",
+      "Talia",
+      "Darth Maul",
+      "Savage Opress",
+      "Old Daka"
+    ],
+    "platoon_1_row_2": [
+      "Captain Phasma",
+      "Kylo Ren",
+      "First Order TIE Pilot",
+      "First Order Executioner",
+      "First Order SF TIE Pilot"
+    ],
+    "platoon_1_row_3": [
+      "Emperor Palpatine",
+      "TIE Fighter Pilot",
+      "Darth Vader",
+      "Director Krennic",
+      "Death Trooper"
+    ],
+    "platoon_2_row_1": [
+      "Darth Vader",
+      "Emperor Palpatine",
+      "Royal Guard",
+      "Grand Admiral Thrawn",
+      "Imperial Probe Droid"
+    ],
+    "platoon_2_row_2": [
+      "Asajj Ventress",
+      "IG-100 MagnaGuard",
+      "Darth Sidious",
+      "Geonosian Soldier",
+      "Geonosian Spy"
+    ],
+    "platoon_2_row_3": [
+      "Nightsister Initiate",
+      "Mother Talzin",
+      "Talia",
+      "Savage Opress",
+      "Old Daka"
+    ],
+    "platoon_3_row_1": [
+      "Director Krennic",
+      "Death Trooper",
+      "Shoretrooper",
+      "Stormtrooper",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_3_row_2": [
+      "Imperial Super Commando",
+      "Emperor Palpatine",
+      "Grand Admiral Thrawn",
+      "Range Trooper",
+      "Royal Guard"
+    ],
+    "platoon_3_row_3": [
+      "TIE Fighter Pilot",
+      "Darth Vader",
+      "Colonel Starck",
+      "Shoretrooper",
+      "Imperial Probe Droid"
+    ],
+    "platoon_4_row_1": [
+      "Colonel Starck",
+      "Shoretrooper",
+      "Grand Admiral Thrawn",
+      "Wampa",
+      "Royal Guard"
+    ],
+    "platoon_4_row_2": [
+      "Bastila Shan (Fallen)",
+      "Canderous Ordo",
+      "HK-47",
+      "Sith Empire Trooper",
+      "Sith Assassin"
+    ],
+    "platoon_4_row_3": [
+      "Nightsister Initiate",
+      "Old Daka",
+      "Nightsister Spirit",
+      "Mother Talzin",
+      "Nightsister Acolyte"
+    ],
+    "platoon_5_row_1": [
+      "Captain Phasma",
+      "First Order Officer",
+      "Kylo Ren",
+      "First Order TIE Pilot",
+      "First Order Stormtrooper"
+    ],
+    "platoon_5_row_2": [
+      "Darth Traya",
+      "Sith Assassin",
+      "Sith Marauder",
+      "Sith Empire Trooper",
+      "Darth Sion"
+    ],
+    "platoon_5_row_3": [
+      "General Veers",
+      "Colonel Starck",
+      "Range Trooper",
+      "Wampa",
+      "Snowtrooper"
+    ],
+    "platoon_6_row_1": [
+      "First Order TIE Pilot",
+      "Kylo Ren (Unmasked)",
+      "Captain Phasma",
+      "First Order Executioner",
+      "First Order Officer"
+    ],
+    "platoon_6_row_2": [
+      "Bastila Shan (Fallen)",
+      "Canderous Ordo",
+      "Sith Marauder",
+      "Sith Empire Trooper",
+      "Sith Assassin"
+    ],
+    "platoon_6_row_3": [
+      "Droideka",
+      "Count Dooku",
+      "B1 Battle Droid",
+      "Darth Sidious",
+      "Asajj Ventress"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase05_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z5B",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "General Veers",
+      "Snowtrooper",
+      "Royal Guard",
+      "Emperor Palpatine",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_1_row_2": [
+      "Grand Moff Tarkin",
+      "Colonel Starck",
+      "Emperor Palpatine",
+      "TIE Fighter Pilot",
+      "Wampa"
+    ],
+    "platoon_1_row_3": [
+      "General Veers",
+      "Shoretrooper",
+      "Snowtrooper",
+      "TIE Fighter Pilot",
+      "Imperial Super Commando"
+    ],
+    "platoon_2_row_1": [
+      "Captain Phasma",
+      "First Order Officer",
+      "Kylo Ren",
+      "First Order Stormtrooper",
+      "IG-86 Sentinel Droid"
+    ],
+    "platoon_2_row_2": [
+      "Grand Moff Tarkin",
+      "Emperor Palpatine",
+      "Magmatrooper",
+      "Stormtrooper",
+      "Range Trooper"
+    ],
+    "platoon_2_row_3": [
+      "General Grievous",
+      "Droideka",
+      "B1 Battle Droid",
+      "B2 Super Battle Droid",
+      "IG-100 MagnaGuard"
+    ],
+    "platoon_3_row_1": [
+      "Tusken Raider",
+      "Stormtrooper",
+      "Royal Guard",
+      "Snowtrooper",
+      "Magmatrooper"
+    ],
+    "platoon_3_row_2": [
+      "Talia",
+      "Darth Maul",
+      "Asajj Ventress",
+      "IG-100 MagnaGuard",
+      "Droideka"
+    ],
+    "platoon_3_row_3": [
+      "Darth Sion",
+      "Darth Traya",
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Marauder"
+    ],
+    "platoon_4_row_1": [
+      "Captain Phasma",
+      "First Order Officer",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "Kylo Ren (Unmasked)"
+    ],
+    "platoon_4_row_2": [
+      "B1 Battle Droid",
+      "Droideka",
+      "Poggle the Lesser",
+      "Nute Gunray",
+      "B2 Super Battle Droid"
+    ],
+    "platoon_4_row_3": [
+      "Wampa",
+      "Darth Vader",
+      "Tusken Raider",
+      "Tusken Shaman",
+      "URoRRuR'R'R"
+    ],
+    "platoon_5_row_1": [
+      "Nightsister Acolyte",
+      "Nightsister Zombie",
+      "Talia",
+      "Nightsister Spirit",
+      "Range Trooper"
+    ],
+    "platoon_5_row_2": [
+      "Sun Fac",
+      "B1 Battle Droid",
+      "Droideka",
+      "IG-100 MagnaGuard",
+      "Darth Maul"
+    ],
+    "platoon_5_row_3": [
+      "Tusken Raider",
+      "Range Trooper",
+      "URoRRuR'R'R",
+      "TIE Fighter Pilot",
+      "Geonosian Soldier"
+    ],
+    "platoon_6_row_1": [
+      "Sith Marauder",
+      "Geonosian Soldier",
+      "URoRRuR'R'R",
+      "Tusken Raider",
+      "IG-86 Sentinel Droid"
+    ],
+    "platoon_6_row_2": [
+      "Tusken Shaman",
+      "URoRRuR'R'R",
+      "Tusken Raider",
+      "Gamorrean Guard",
+      "Mob Enforcer"
+    ],
+    "platoon_6_row_3": [
+      "B1 Battle Droid",
+      "IG-86 Sentinel Droid",
+      "Geonosian Soldier",
+      "Count Dooku",
+      "B2 Super Battle Droid"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase06_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z6T",
+    "ability_name": "Rebel Strafing Run",
+    "platoon_1_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Anakin's Eta-2 Starfighter",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170"
+    ],
+    "platoon_1_row_2": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_1_row_3": [
+      "TIE Reaper",
+      "Imperial TIE Fighter",
+      "Emperor's Shuttle",
+      "Slave I",
+      "TIE Advanced x1"
+    ],
+    "platoon_2_row_1": [
+      "Han's Millennium Falcon",
+      "Ghost",
+      "Hound's Tooth",
+      "Ebon Hawk",
+      "Slave I"
+    ],
+    "platoon_2_row_2": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Anakin's Eta-2 Starfighter",
+      "Biggs Darklighter's X-wing",
+      "Bistan's U-wing",
+      "Clone Sergeant's ARC-170"
+    ],
+    "platoon_2_row_3": [
+      "Umbaran Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter"
+    ],
+    "platoon_3_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Han's Millennium Falcon",
+      "Ghost",
+      "TIE Silencer"
+    ],
+    "platoon_3_row_2": [
+      "TIE Reaper",
+      "Imperial TIE Fighter",
+      "TIE Advanced x1",
+      "Scimitar",
+      "Slave I"
+    ],
+    "platoon_3_row_3": [
+      "Han's Millennium Falcon",
+      "Rey's Millennium Falcon",
+      "Lando's Millennium Falcon",
+      "Phantom II",
+      "Ghost"
+    ],
+    "platoon_4_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_4_row_2": [
+      "Imperial TIE Fighter",
+      "TIE Silencer",
+      "First Order TIE Fighter",
+      "TIE Advanced x1",
+      "TIE Reaper"
+    ],
+    "platoon_4_row_3": [
+      "Ghost",
+      "Rey's Millennium Falcon",
+      "Han's Millennium Falcon",
+      "Ebon Hawk",
+      "Lando's Millennium Falcon"
+    ],
+    "platoon_5_row_1": [
+      "Geonosian Spy's Starfighter",
+      "Geonosian Soldier's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "TIE Reaper",
+      "Imperial TIE Fighter"
+    ],
+    "platoon_5_row_2": [
+      "Slave I",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Rex's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_5_row_3": [
+      "B-28 Extinction-class Bomber",
+      "Xanadu Blood",
+      "IG-2000",
+      "Sith Fighter",
+      "Scimitar"
+    ],
+    "platoon_6_row_1": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_6_row_2": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Slave I",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_6_row_3": [
+      "First Order TIE Fighter",
+      "First Order SF TIE Fighter",
+      "Kylo Ren's Command Shuttle",
+      "TIE Silencer",
+      "Rey's Millennium Falcon"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase06_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z6M",
+    "ability_name": "Rebel Guerrilla Strike",
+    "platoon_1_row_1": [
+      "Count Dooku",
+      "Talia",
+      "Zam Wesell",
+      "Savage Opress",
+      "Old Daka"
+    ],
+    "platoon_1_row_2": [
+      "Captain Phasma",
+      "Kylo Ren",
+      "First Order Stormtrooper",
+      "First Order Executioner",
+      "First Order SF TIE Pilot"
+    ],
+    "platoon_1_row_3": [
+      "First Order SF TIE Pilot",
+      "First Order Executioner",
+      "Kylo Ren",
+      "First Order TIE Pilot",
+      "First Order Stormtrooper"
+    ],
+    "platoon_2_row_1": [
+      "Emperor Palpatine",
+      "Death Trooper",
+      "Grand Admiral Thrawn",
+      "Wampa",
+      "Zam Wesell"
+    ],
+    "platoon_2_row_2": [
+      "Emperor Palpatine",
+      "TIE Fighter Pilot",
+      "Death Trooper",
+      "Director Krennic",
+      "Sith Empire Trooper"
+    ],
+    "platoon_2_row_3": [
+      "Nightsister Initiate",
+      "Nightsister Spirit",
+      "Talia",
+      "Savage Opress",
+      "Old Daka"
+    ],
+    "platoon_3_row_1": [
+      "Jango Fett",
+      "Zam Wesell",
+      "IG-100 MagnaGuard",
+      "Count Dooku",
+      "IG-86 Sentinel Droid"
+    ],
+    "platoon_3_row_2": [
+      "Jango Fett",
+      "Count Dooku",
+      "Nute Gunray",
+      "Darth Sidious",
+      "Asajj Ventress"
+    ],
+    "platoon_3_row_3": [
+      "Sun Fac",
+      "Geonosian Soldier",
+      "IG-86 Sentinel Droid",
+      "General Grievous",
+      "Nightsister Spirit"
+    ],
+    "platoon_4_row_1": [
+      "Dengar",
+      "Cad Bane",
+      "Aurra Sing",
+      "Bossk",
+      "Boba Fett"
+    ],
+    "platoon_4_row_2": [
+      "Darth Sion",
+      "Darth Traya",
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Marauder"
+    ],
+    "platoon_4_row_3": [
+      "Poggle the Lesser",
+      "Nightsister Spirit",
+      "Nightsister Zombie",
+      "Mother Talzin",
+      "Nightsister Acolyte"
+    ],
+    "platoon_5_row_1": [
+      "Darth Traya",
+      "Sith Assassin",
+      "Canderous Ordo",
+      "Sith Empire Trooper",
+      "Darth Sion"
+    ],
+    "platoon_5_row_2": [
+      "Embo",
+      "Dengar",
+      "Boba Fett",
+      "Wampa",
+      "Cad Bane"
+    ],
+    "platoon_5_row_3": [
+      "Darth Maul",
+      "Talia",
+      "Nightsister Spirit",
+      "Savage Opress",
+      "URoRRuR'R'R"
+    ],
+    "platoon_6_row_1": [
+      "Gamorrean Guard",
+      "Gar Saxon",
+      "Grand Admiral Thrawn",
+      "Wampa",
+      "Snowtrooper"
+    ],
+    "platoon_6_row_2": [
+      "Bastila Shan (Fallen)",
+      "Canderous Ordo",
+      "Darth Nihilus",
+      "Sith Empire Trooper",
+      "Darth Sion"
+    ],
+    "platoon_6_row_3": [
+      "B1 Battle Droid",
+      "Droideka",
+      "Poggle the Lesser",
+      "Nute Gunray",
+      "B2 Super Battle Droid"
+    ]
+  },
+  {
+    "tb_id": "t02D",
+    "zone_id": "hoth_empire_phase06_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Imperial Invasion Platoon-Z6B",
+    "ability_name": "Rebel Supply Lines",
+    "platoon_1_row_1": [
+      "Asajj Ventress",
+      "Count Dooku",
+      "Darth Sidious",
+      "General Grievous",
+      "Wampa"
+    ],
+    "platoon_1_row_2": [
+      "Grand Admiral Thrawn",
+      "Emperor Palpatine",
+      "Mob Enforcer",
+      "Death Trooper",
+      "Magmatrooper"
+    ],
+    "platoon_1_row_3": [
+      "Emperor Palpatine",
+      "Darth Vader",
+      "Grand Admiral Thrawn",
+      "Shoretrooper",
+      "Death Trooper"
+    ],
+    "platoon_2_row_1": [
+      "Captain Phasma",
+      "First Order Officer",
+      "First Order SF TIE Pilot",
+      "First Order TIE Pilot",
+      "First Order Executioner"
+    ],
+    "platoon_2_row_2": [
+      "Grand Moff Tarkin",
+      "Emperor Palpatine",
+      "TIE Fighter Pilot",
+      "Stormtrooper",
+      "Gar Saxon"
+    ],
+    "platoon_2_row_3": [
+      "Tusken Shaman",
+      "IG-86 Sentinel Droid",
+      "General Grievous",
+      "Count Dooku",
+      "B2 Super Battle Droid"
+    ],
+    "platoon_3_row_1": [
+      "Director Krennic",
+      "Death Trooper",
+      "Grand Admiral Thrawn",
+      "Mob Enforcer",
+      "Royal Guard"
+    ],
+    "platoon_3_row_2": [
+      "Imperial Super Commando",
+      "Emperor Palpatine",
+      "Grand Admiral Thrawn",
+      "Range Trooper",
+      "Royal Guard"
+    ],
+    "platoon_3_row_3": [
+      "Darth Vader",
+      "Greedo",
+      "Death Trooper",
+      "TIE Fighter Pilot",
+      "Range Trooper"
+    ],
+    "platoon_4_row_1": [
+      "Sith Marauder",
+      "Darth Sion",
+      "Wampa",
+      "HK-47",
+      "Sith Assassin"
+    ],
+    "platoon_4_row_2": [
+      "IG-88",
+      "Greedo",
+      "Gamorrean Guard",
+      "Mob Enforcer",
+      "Tusken Raider"
+    ],
+    "platoon_4_row_3": [
+      "Kylo Ren (Unmasked)",
+      "First Order Officer",
+      "Nightsister Spirit",
+      "Darth Traya",
+      "Tusken Raider"
+    ],
+    "platoon_5_row_1": [
+      "Tusken Shaman",
+      "URoRRuR'R'R",
+      "Tusken Raider",
+      "Wampa",
+      "Gar Saxon"
+    ],
+    "platoon_5_row_2": [
+      "Wampa",
+      "Dengar",
+      "Bossk",
+      "Aurra Sing",
+      "Cad Bane"
+    ],
+    "platoon_5_row_3": [
+      "Magmatrooper",
+      "Shoretrooper",
+      "Death Trooper",
+      "TIE Fighter Pilot",
+      "Imperial Super Commando"
+    ],
+    "platoon_6_row_1": [
+      "Bastila Shan (Fallen)",
+      "Canderous Ordo",
+      "HK-47",
+      "Sith Empire Trooper",
+      "Darth Traya"
+    ],
+    "platoon_6_row_2": [
+      "Sun Fac",
+      "B1 Battle Droid",
+      "Droideka",
+      "IG-100 MagnaGuard",
+      "Darth Maul"
+    ],
+    "platoon_6_row_3": [
+      "General Grievous",
+      "Wampa",
+      "B1 Battle Droid",
+      "B2 Super Battle Droid",
+      "Nute Gunray"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase01_conflict01",
+    "unit_type": "character",
+    "area_pos": "Top",
+    "image": "Territory Battle-Separatist Might Platoon-Z1T",
+    "ability_name": "Droid Factory",
+    "platoon_1_row_1": [
+      "Bastila Shan (Fallen)",
+      "General Veers",
+      "IG-86 Sentinel Droid",
+      "IG-88",
+      "Darth Traya"
+    ],
+    "platoon_1_row_2": [
+      "Old Daka",
+      "Mother Talzin",
+      "Nightsister Acolyte",
+      "Nightsister Initiate",
+      "Talia"
+    ],
+    "platoon_1_row_3": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_2_row_1": [
+      "HK-47",
+      "Bossk",
+      "IG-86 Sentinel Droid",
+      "Wampa",
+      "Range Trooper"
+    ],
+    "platoon_2_row_2": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "General Veers",
+      "Sith Empire Trooper"
+    ],
+    "platoon_2_row_3": [
+      "Jango Fett",
+      "Range Trooper",
+      "Darth Traya",
+      "Bossk",
+      "Mother Talzin"
+    ],
+    "platoon_3_row_1": [
+      "Bastila Shan (Fallen)",
+      "Jango Fett",
+      "IG-86 Sentinel Droid",
+      "Bossk",
+      "General Veers"
+    ],
+    "platoon_3_row_2": [
+      "Talia",
+      "Mother Talzin",
+      "Old Daka",
+      "Nightsister Acolyte",
+      "Nightsister Initiate"
+    ],
+    "platoon_3_row_3": [
+      "Gar Saxon",
+      "Death Trooper",
+      "Royal Guard",
+      "Director Krennic",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_4_row_1": [
+      "HK-47",
+      "General Veers",
+      "IG-86 Sentinel Droid",
+      "Wampa",
+      "Bossk"
+    ],
+    "platoon_4_row_2": [
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Empire Trooper",
+      "Darth Maul",
+      "Savage Opress"
+    ],
+    "platoon_4_row_3": [
+      "Talia",
+      "Mother Talzin",
+      "Old Daka",
+      "Nightsister Acolyte",
+      "Nightsister Initiate"
+    ],
+    "platoon_5_row_1": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "Sith Assassin",
+      "Sith Empire Trooper"
+    ],
+    "platoon_5_row_2": [
+      "Grand Admiral Thrawn",
+      "Emperor Palpatine",
+      "Royal Guard",
+      "Gar Saxon",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_5_row_3": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "General Veers",
+      "Sith Empire Trooper"
+    ],
+    "platoon_6_row_1": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_6_row_2": [
+      "Jango Fett",
+      "General Veers",
+      "Wampa",
+      "Bossk",
+      "Mother Talzin"
+    ],
+    "platoon_6_row_3": [
+      "Darth Revan",
+      "Tusken Raider",
+      "Tusken Shaman",
+      "Asajj Ventress",
+      "URoRRuR'R'R"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase01_conflict02",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Separatist Might Platoon-Z1B",
+    "ability_name": "Republic Resolve",
+    "platoon_1_row_1": [
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Empire Trooper",
+      "Bastila Shan (Fallen)",
+      "Savage Opress"
+    ],
+    "platoon_1_row_2": [
+      "Gar Saxon",
+      "Imperial Super Commando",
+      "Bastila Shan (Fallen)",
+      "Director Krennic",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_1_row_3": [
+      "URoRRuR'R'R",
+      "Tusken Shaman",
+      "Mother Talzin",
+      "Mob Enforcer",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_2_row_1": [
+      "HK-47",
+      "Jango Fett",
+      "IG-86 Sentinel Droid",
+      "Darth Traya",
+      "Range Trooper"
+    ],
+    "platoon_2_row_2": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "General Veers",
+      "Sith Empire Trooper"
+    ],
+    "platoon_2_row_3": [
+      "Bossk",
+      "Bastila Shan (Fallen)",
+      "IG-86 Sentinel Droid",
+      "Jango Fett",
+      "Range Trooper"
+    ],
+    "platoon_3_row_1": [
+      "Darth Traya",
+      "Jango Fett",
+      "Bastila Shan (Fallen)",
+      "Bossk",
+      "Wampa"
+    ],
+    "platoon_3_row_2": [
+      "Old Daka",
+      "General Veers",
+      "Nightsister Zombie",
+      "Nightsister Initiate",
+      "Talia"
+    ],
+    "platoon_3_row_3": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Mother Talzin"
+    ],
+    "platoon_4_row_1": [
+      "Wampa",
+      "Director Krennic",
+      "IG-86 Sentinel Droid",
+      "Bossk",
+      "General Veers"
+    ],
+    "platoon_4_row_2": [
+      "Talia",
+      "Mother Talzin",
+      "Old Daka",
+      "Savage Opress",
+      "Nightsister Initiate"
+    ],
+    "platoon_4_row_3": [
+      "Grand Moff Tarkin",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Director Krennic",
+      "Bastila Shan (Fallen)"
+    ],
+    "platoon_5_row_1": [
+      "Bastila Shan (Fallen)",
+      "Imperial Super Commando",
+      "Mother Talzin",
+      "Director Krennic",
+      "TIE Fighter Pilot"
+    ],
+    "platoon_5_row_2": [
+      "Emperor Palpatine",
+      "General Veers",
+      "Darth Nihilus",
+      "Darth Maul",
+      "Sith Empire Trooper"
+    ],
+    "platoon_5_row_3": [
+      "HK-47",
+      "Darth Revan",
+      "IG-86 Sentinel Droid",
+      "Wampa",
+      "Gar Saxon"
+    ],
+    "platoon_6_row_1": [
+      "Captain Phasma",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "First Order Officer",
+      "Kylo Ren"
+    ],
+    "platoon_6_row_2": [
+      "Grand Admiral Thrawn",
+      "TIE Fighter Pilot",
+      "Royal Guard",
+      "Bastila Shan (Fallen)",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_6_row_3": [
+      "Darth Sidious",
+      "Darth Maul",
+      "Savage Opress",
+      "General Veers",
+      "Sith Empire Trooper"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase02_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Separatist Might Platoon-Z2T",
+    "ability_name": "Core Ship",
+    "platoon_1_row_1": [
+      "First Order TIE Fighter",
+      "Imperial TIE Fighter",
+      "TIE Reaper",
+      "TIE Advanced x1",
+      "TIE Silencer"
+    ],
+    "platoon_1_row_2": [
+      "Lando's Millennium Falcon",
+      "Ebon Hawk",
+      "Imperial TIE Fighter",
+      "Slave I",
+      "Hound's Tooth"
+    ],
+    "platoon_1_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Emperor's Shuttle"
+    ],
+    "platoon_2_row_1": [
+      "Biggs Darklighter's X-wing",
+      "Hound's Tooth",
+      "Geonosian Soldier's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "Slave I"
+    ],
+    "platoon_2_row_2": [
+      "Scimitar",
+      "Imperial TIE Fighter",
+      "Emperor's Shuttle",
+      "Geonosian Spy's Starfighter",
+      "Slave I"
+    ],
+    "platoon_2_row_3": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ebon Hawk"
+    ],
+    "platoon_3_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_3_row_2": [
+      "Ebon Hawk",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Phantom II",
+      "Imperial TIE Fighter"
+    ],
+    "platoon_3_row_3": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_4_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Plo Koon's Jedi Starfighter",
+      "Hound's Tooth",
+      "TIE Silencer"
+    ],
+    "platoon_4_row_2": [
+      "Cassian's U-wing",
+      "Ebon Hawk",
+      "Geonosian Spy's Starfighter",
+      "Poe Dameron's X-wing",
+      "Scimitar"
+    ],
+    "platoon_4_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Emperor's Shuttle",
+      "Plo Koon's Jedi Starfighter",
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170"
+    ],
+    "platoon_5_row_1": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Rey's Millennium Falcon",
+      "Slave I",
+      "Xanadu Blood"
+    ],
+    "platoon_5_row_2": [
+      "Ebon Hawk",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_5_row_3": [
+      "Slave I",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Rex's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_6_row_1": [
+      "Hound's Tooth",
+      "Phantom II",
+      "Kylo Ren's Command Shuttle",
+      "Emperor's Shuttle",
+      "Cassian's U-wing"
+    ],
+    "platoon_6_row_2": [
+      "Hound's Tooth",
+      "B-28 Extinction-class Bomber",
+      "Slave I",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_6_row_3": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Ebon Hawk",
+      "Plo Koon's Jedi Starfighter",
+      "Umbaran Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase02_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Separatist Might Platoon-Z2M",
+    "ability_name": "Hailfire Tank",
+    "platoon_1_row_1": [
+      "B1 Battle Droid",
+      "Stormtrooper",
+      "General Grievous",
+      "Magmatrooper",
+      "Imperial Probe Droid"
+    ],
+    "platoon_1_row_2": [
+      "General Grievous",
+      "Darth Maul",
+      "Cad Bane",
+      "Zam Wesell",
+      "Darth Revan"
+    ],
+    "platoon_1_row_3": [
+      "Mother Talzin",
+      "Bossk",
+      "Darth Maul",
+      "Jango Fett",
+      "Old Daka"
+    ],
+    "platoon_2_row_1": [
+      "Grand Moff Tarkin",
+      "Shoretrooper",
+      "Stormtrooper",
+      "Imperial Probe Droid",
+      "Droideka"
+    ],
+    "platoon_2_row_2": [
+      "Cad Bane",
+      "Droideka",
+      "Darth Sidious",
+      "Darth Revan",
+      "General Grievous"
+    ],
+    "platoon_2_row_3": [
+      "Nightsister Acolyte",
+      "Nightsister Zombie",
+      "Nightsister Spirit",
+      "Bossk",
+      "Old Daka"
+    ],
+    "platoon_3_row_1": [
+      "Droideka",
+      "B1 Battle Droid",
+      "Nute Gunray",
+      "Darth Traya",
+      "General Grievous"
+    ],
+    "platoon_3_row_2": [
+      "Darth Sion",
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Marauder",
+      "Sith Empire Trooper"
+    ],
+    "platoon_3_row_3": [
+      "Darth Revan",
+      "Jango Fett",
+      "First Order TIE Pilot",
+      "Kylo Ren (Unmasked)",
+      "First Order Stormtrooper"
+    ],
+    "platoon_4_row_1": [
+      "Captain Phasma",
+      "Kylo Ren",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "Bastila Shan (Fallen)"
+    ],
+    "platoon_4_row_2": [
+      "Cad Bane",
+      "Jango Fett",
+      "Mother Talzin",
+      "Bossk",
+      "Embo"
+    ],
+    "platoon_4_row_3": [
+      "Colonel Starck",
+      "Range Trooper",
+      "Stormtrooper",
+      "Death Trooper",
+      "General Grievous"
+    ],
+    "platoon_5_row_1": [
+      "Jango Fett",
+      "Zam Wesell",
+      "Bastila Shan (Fallen)",
+      "Boba Fett",
+      "Greedo"
+    ],
+    "platoon_5_row_2": [
+      "Bastila Shan (Fallen)",
+      "Mob Enforcer",
+      "Aurra Sing",
+      "Bossk",
+      "Imperial Probe Droid"
+    ],
+    "platoon_5_row_3": [
+      "Jango Fett",
+      "Darth Revan",
+      "General Grievous",
+      "Droideka",
+      "B1 Battle Droid"
+    ],
+    "platoon_6_row_1": [
+      "First Order Executioner",
+      "First Order Officer",
+      "First Order SF TIE Pilot",
+      "First Order TIE Pilot",
+      "Darth Traya"
+    ],
+    "platoon_6_row_2": [
+      "Bastila Shan (Fallen)",
+      "Darth Nihilus",
+      "Sith Marauder",
+      "Mother Talzin",
+      "HK-47"
+    ],
+    "platoon_6_row_3": [
+      "Nute Gunray",
+      "Darth Revan",
+      "Jango Fett",
+      "Droideka",
+      "B1 Battle Droid"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase02_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Separatist Might Platoon-Z2B",
+    "ability_name": "Metal Mayhem",
+    "platoon_1_row_1": [
+      "Mother Talzin",
+      "Darth Revan",
+      "Darth Traya",
+      "Old Daka",
+      "Nightsister Acolyte"
+    ],
+    "platoon_1_row_2": [
+      "General Grievous",
+      "Death Trooper",
+      "Stormtrooper",
+      "TIE Fighter Pilot",
+      "Darth Vader"
+    ],
+    "platoon_1_row_3": [
+      "Bastila Shan (Fallen)",
+      "Nightsister Spirit",
+      "Bossk",
+      "Mother Talzin",
+      "Darth Traya"
+    ],
+    "platoon_2_row_1": [
+      "TIE Fighter Pilot",
+      "Darth Vader",
+      "Bastila Shan (Fallen)",
+      "Shoretrooper",
+      "Imperial Probe Droid"
+    ],
+    "platoon_2_row_2": [
+      "Imperial Super Commando",
+      "Darth Revan",
+      "Jango Fett",
+      "Greedo",
+      "Bossk"
+    ],
+    "platoon_2_row_3": [
+      "Nightsister Initiate",
+      "Nightsister Spirit",
+      "Mother Talzin",
+      "General Grievous",
+      "Savage Opress"
+    ],
+    "platoon_3_row_1": [
+      "First Order Stormtrooper",
+      "Kylo Ren",
+      "Kylo Ren (Unmasked)",
+      "Darth Sidious",
+      "Darth Revan"
+    ],
+    "platoon_3_row_2": [
+      "First Order Officer",
+      "General Grievous",
+      "First Order Stormtrooper",
+      "Kylo Ren (Unmasked)",
+      "Mob Enforcer"
+    ],
+    "platoon_3_row_3": [
+      "Jango Fett",
+      "Bossk",
+      "HK-47",
+      "Bastila Shan (Fallen)",
+      "Dengar"
+    ],
+    "platoon_4_row_1": [
+      "Mother Talzin",
+      "Darth Maul",
+      "Kylo Ren (Unmasked)",
+      "General Grievous",
+      "Bossk"
+    ],
+    "platoon_4_row_2": [
+      "General Grievous",
+      "Bastila Shan (Fallen)",
+      "Darth Sidious",
+      "Darth Traya",
+      "Jango Fett"
+    ],
+    "platoon_4_row_3": [
+      "Cad Bane",
+      "IG-86 Sentinel Droid",
+      "IG-100 MagnaGuard",
+      "Darth Revan",
+      "B2 Super Battle Droid"
+    ],
+    "platoon_5_row_1": [
+      "Kylo Ren (Unmasked)",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "Darth Revan",
+      "Mob Enforcer"
+    ],
+    "platoon_5_row_2": [
+      "Bastila Shan (Fallen)",
+      "Canderous Ordo",
+      "Mother Talzin",
+      "Darth Sion",
+      "HK-47"
+    ],
+    "platoon_5_row_3": [
+      "Darth Traya",
+      "Death Trooper",
+      "Shoretrooper",
+      "Stormtrooper",
+      "General Grievous"
+    ],
+    "platoon_6_row_1": [
+      "Darth Sidious",
+      "Darth Traya",
+      "Tusken Raider",
+      "Tusken Shaman",
+      "URoRRuR'R'R"
+    ],
+    "platoon_6_row_2": [
+      "Darth Revan",
+      "Gar Saxon",
+      "Jango Fett",
+      "Stormtrooper",
+      "Range Trooper"
+    ],
+    "platoon_6_row_3": [
+      "General Grievous",
+      "Droideka",
+      "B1 Battle Droid",
+      "Bastila Shan (Fallen)",
+      "Jango Fett"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase03_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Separatist Might Platoon-Z3T",
+    "ability_name": "Core Ship",
+    "platoon_1_row_1": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Ebon Hawk",
+      "Plo Koon's Jedi Starfighter",
+      "Anakin's Eta-2 Starfighter"
+    ],
+    "platoon_1_row_2": [
+      "Hound's Tooth",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Ebon Hawk",
+      "Imperial TIE Fighter"
+    ],
+    "platoon_1_row_3": [
+      "First Order TIE Fighter",
+      "Imperial TIE Fighter",
+      "Han's Millennium Falcon",
+      "TIE Advanced x1",
+      "Emperor's Shuttle"
+    ],
+    "platoon_2_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Han's Millennium Falcon",
+      "Hound's Tooth",
+      "Emperor's Shuttle"
+    ],
+    "platoon_2_row_2": [
+      "Cassian's U-wing",
+      "Hound's Tooth",
+      "Han's Millennium Falcon",
+      "Emperor's Shuttle",
+      "Scimitar"
+    ],
+    "platoon_2_row_3": [
+      "Anakin's Eta-2 Starfighter",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Hound's Tooth"
+    ],
+    "platoon_3_row_1": [
+      "Clone Sergeant's ARC-170",
+      "Rex's ARC-170",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ebon Hawk"
+    ],
+    "platoon_3_row_2": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Ebon Hawk",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_3_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Han's Millennium Falcon",
+      "Clone Sergeant's ARC-170",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_4_row_1": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Rey's Millennium Falcon",
+      "Slave I",
+      "Xanadu Blood"
+    ],
+    "platoon_4_row_2": [
+      "Lando's Millennium Falcon",
+      "Biggs Darklighter's X-wing",
+      "Imperial TIE Fighter",
+      "Emperor's Shuttle",
+      "Hound's Tooth"
+    ],
+    "platoon_4_row_3": [
+      "Han's Millennium Falcon",
+      "Anakin's Eta-2 Starfighter",
+      "Ebon Hawk",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170"
+    ],
+    "platoon_5_row_1": [
+      "Biggs Darklighter's X-wing",
+      "Rey's Millennium Falcon",
+      "Anakin's Eta-2 Starfighter",
+      "Han's Millennium Falcon",
+      "Emperor's Shuttle"
+    ],
+    "platoon_5_row_2": [
+      "Han's Millennium Falcon",
+      "Imperial TIE Fighter",
+      "TIE Advanced x1",
+      "Ebon Hawk",
+      "Slave I"
+    ],
+    "platoon_5_row_3": [
+      "Hound's Tooth",
+      "Anakin's Eta-2 Starfighter",
+      "Kylo Ren's Command Shuttle",
+      "Gauntlet Starfighter",
+      "Emperor's Shuttle"
+    ],
+    "platoon_6_row_1": [
+      "Sith Fighter",
+      "B-28 Extinction-class Bomber",
+      "Ebon Hawk",
+      "Xanadu Blood",
+      "IG-2000"
+    ],
+    "platoon_6_row_2": [
+      "Ebon Hawk",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Hound's Tooth"
+    ],
+    "platoon_6_row_3": [
+      "Slave I",
+      "Anakin's Eta-2 Starfighter",
+      "Gauntlet Starfighter",
+      "Ebon Hawk",
+      "Umbaran Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase03_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Separatist Might Platoon-Z3M",
+    "ability_name": "Hailfire Tank",
+    "platoon_1_row_1": [
+      "Mother Talzin",
+      "Talia",
+      "Darth Revan",
+      "Savage Opress",
+      "Old Daka"
+    ],
+    "platoon_1_row_2": [
+      "Captain Phasma",
+      "Darth Malak",
+      "Bossk",
+      "First Order Executioner",
+      "First Order SF TIE Pilot"
+    ],
+    "platoon_1_row_3": [
+      "Emperor Palpatine",
+      "TIE Fighter Pilot",
+      "Aurra Sing",
+      "Director Krennic",
+      "Death Trooper"
+    ],
+    "platoon_2_row_1": [
+      "Mother Talzin",
+      "Emperor Palpatine",
+      "Jango Fett",
+      "Grand Admiral Thrawn",
+      "Imperial Probe Droid"
+    ],
+    "platoon_2_row_2": [
+      "Asajj Ventress",
+      "Range Trooper",
+      "Bastila Shan (Fallen)",
+      "Darth Revan",
+      "Darth Malak"
+    ],
+    "platoon_2_row_3": [
+      "Nightsister Initiate",
+      "Mother Talzin",
+      "Bossk",
+      "Savage Opress",
+      "Old Daka"
+    ],
+    "platoon_3_row_1": [
+      "Mother Talzin",
+      "Death Trooper",
+      "Shoretrooper",
+      "Stormtrooper",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_3_row_2": [
+      "Bossk",
+      "Emperor Palpatine",
+      "Grand Admiral Thrawn",
+      "Range Trooper",
+      "Darth Revan"
+    ],
+    "platoon_3_row_3": [
+      "TIE Fighter Pilot",
+      "Wampa",
+      "Colonel Starck",
+      "Shoretrooper",
+      "Imperial Probe Droid"
+    ],
+    "platoon_4_row_1": [
+      "Jango Fett",
+      "Shoretrooper",
+      "Grand Admiral Thrawn",
+      "Wampa",
+      "Royal Guard"
+    ],
+    "platoon_4_row_2": [
+      "Bastila Shan (Fallen)",
+      "Canderous Ordo",
+      "HK-47",
+      "Bossk",
+      "Darth Revan"
+    ],
+    "platoon_4_row_3": [
+      "Darth Malak",
+      "Old Daka",
+      "Nightsister Spirit",
+      "Mother Talzin",
+      "Nightsister Acolyte"
+    ],
+    "platoon_5_row_1": [
+      "Captain Phasma",
+      "First Order Officer",
+      "Darth Revan",
+      "Bossk",
+      "First Order Stormtrooper"
+    ],
+    "platoon_5_row_2": [
+      "Darth Traya",
+      "Jango Fett",
+      "Sith Marauder",
+      "Sith Empire Trooper",
+      "Darth Sion"
+    ],
+    "platoon_5_row_3": [
+      "General Veers",
+      "Darth Malak",
+      "Bossk",
+      "Wampa",
+      "Snowtrooper"
+    ],
+    "platoon_6_row_1": [
+      "First Order TIE Pilot",
+      "Kylo Ren (Unmasked)",
+      "Darth Revan",
+      "First Order Executioner",
+      "First Order Officer"
+    ],
+    "platoon_6_row_2": [
+      "Bastila Shan (Fallen)",
+      "Canderous Ordo",
+      "Sith Marauder",
+      "Sith Empire Trooper",
+      "Mother Talzin"
+    ],
+    "platoon_6_row_3": [
+      "Embo",
+      "Jango Fett",
+      "Darth Malak",
+      "Darth Revan",
+      "Asajj Ventress"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase03_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Separatist Might Platoon-Z3B",
+    "ability_name": "AT-TE",
+    "platoon_1_row_1": [
+      "General Veers",
+      "Snowtrooper",
+      "Darth Revan",
+      "Emperor Palpatine",
+      "Grand Moff Tarkin"
+    ],
+    "platoon_1_row_2": [
+      "Grand Moff Tarkin",
+      "Darth Revan",
+      "Emperor Palpatine",
+      "Grand Admiral Thrawn",
+      "Wampa"
+    ],
+    "platoon_1_row_3": [
+      "General Veers",
+      "Kylo Ren (Unmasked)",
+      "Snowtrooper",
+      "TIE Fighter Pilot",
+      "Imperial Super Commando"
+    ],
+    "platoon_2_row_1": [
+      "Captain Phasma",
+      "First Order Officer",
+      "Darth Revan",
+      "First Order Stormtrooper",
+      "IG-86 Sentinel Droid"
+    ],
+    "platoon_2_row_2": [
+      "Grand Moff Tarkin",
+      "Emperor Palpatine",
+      "Magmatrooper",
+      "Bossk",
+      "Range Trooper"
+    ],
+    "platoon_2_row_3": [
+      "Bossk",
+      "Jango Fett",
+      "Aurra Sing",
+      "Embo",
+      "Dengar"
+    ],
+    "platoon_3_row_1": [
+      "Tusken Raider",
+      "Stormtrooper",
+      "Bossk",
+      "Snowtrooper",
+      "Magmatrooper"
+    ],
+    "platoon_3_row_2": [
+      "Talia",
+      "Mother Talzin",
+      "Asajj Ventress",
+      "Old Daka",
+      "Jango Fett"
+    ],
+    "platoon_3_row_3": [
+      "Darth Sion",
+      "Darth Traya",
+      "Darth Nihilus",
+      "Sith Assassin",
+      "Sith Marauder"
+    ],
+    "platoon_4_row_1": [
+      "General Veers",
+      "First Order Officer",
+      "First Order Stormtrooper",
+      "First Order TIE Pilot",
+      "Kylo Ren (Unmasked)"
+    ],
+    "platoon_4_row_2": [
+      "Embo",
+      "Aurra Sing",
+      "Darth Revan",
+      "Nute Gunray",
+      "Shoretrooper"
+    ],
+    "platoon_4_row_3": [
+      "Wampa",
+      "Darth Malak",
+      "Tusken Raider",
+      "Tusken Shaman",
+      "Grand Admiral Thrawn"
+    ],
+    "platoon_5_row_1": [
+      "Nightsister Acolyte",
+      "Nightsister Zombie",
+      "Bossk",
+      "Grand Admiral Thrawn",
+      "Range Trooper"
+    ],
+    "platoon_5_row_2": [
+      "Darth Malak",
+      "Aurra Sing",
+      "Jango Fett",
+      "Cad Bane",
+      "Bossk"
+    ],
+    "platoon_5_row_3": [
+      "Tusken Raider",
+      "Range Trooper",
+      "URoRRuR'R'R",
+      "TIE Fighter Pilot",
+      "Darth Revan"
+    ],
+    "platoon_6_row_1": [
+      "Sith Marauder",
+      "Darth Revan",
+      "URoRRuR'R'R",
+      "Bossk",
+      "Shoretrooper"
+    ],
+    "platoon_6_row_2": [
+      "Tusken Shaman",
+      "URoRRuR'R'R",
+      "Bossk",
+      "Tusken Raider",
+      "Mob Enforcer"
+    ],
+    "platoon_6_row_3": [
+      "Grand Admiral Thrawn",
+      "IG-86 Sentinel Droid",
+      "Darth Malak",
+      "Darth Revan",
+      "IG-88"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase04_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Separatist Might Platoon-Z4T",
+    "ability_name": "LAAT",
+    "platoon_1_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Emperor's Shuttle",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Hound's Tooth"
+    ],
+    "platoon_1_row_2": [
+      "Emperor's Shuttle",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Hound's Tooth"
+    ],
+    "platoon_1_row_3": [
+      "TIE Reaper",
+      "Imperial TIE Fighter",
+      "Emperor's Shuttle",
+      "Ebon Hawk",
+      "TIE Advanced x1"
+    ],
+    "platoon_2_row_1": [
+      "Han's Millennium Falcon",
+      "Anakin's Eta-2 Starfighter",
+      "Hound's Tooth",
+      "Ebon Hawk",
+      "Slave I"
+    ],
+    "platoon_2_row_2": [
+      "Ebon Hawk",
+      "Anakin's Eta-2 Starfighter",
+      "Biggs Darklighter's X-wing",
+      "Hound's Tooth",
+      "Clone Sergeant's ARC-170"
+    ],
+    "platoon_2_row_3": [
+      "Umbaran Starfighter",
+      "Emperor's Shuttle",
+      "Ebon Hawk",
+      "Ahsoka Tano's Jedi Starfighter",
+      "Hound's Tooth"
+    ],
+    "platoon_3_row_1": [
+      "Wedge Antilles's X-wing",
+      "Hound's Tooth",
+      "Han's Millennium Falcon",
+      "Anakin's Eta-2 Starfighter",
+      "TIE Silencer"
+    ],
+    "platoon_3_row_2": [
+      "Hound's Tooth",
+      "Imperial TIE Fighter",
+      "TIE Advanced x1",
+      "Ebon Hawk",
+      "Slave I"
+    ],
+    "platoon_3_row_3": [
+      "Han's Millennium Falcon",
+      "Rey's Millennium Falcon",
+      "Lando's Millennium Falcon",
+      "Anakin's Eta-2 Starfighter",
+      "Hound's Tooth"
+    ],
+    "platoon_4_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Ebon Hawk",
+      "Emperor's Shuttle",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_4_row_2": [
+      "Emperor's Shuttle",
+      "TIE Silencer",
+      "First Order TIE Fighter",
+      "Hound's Tooth",
+      "TIE Reaper"
+    ],
+    "platoon_4_row_3": [
+      "Hound's Tooth",
+      "Rey's Millennium Falcon",
+      "Han's Millennium Falcon",
+      "Ebon Hawk",
+      "Lando's Millennium Falcon"
+    ],
+    "platoon_5_row_1": [
+      "Geonosian Spy's Starfighter",
+      "Geonosian Soldier's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "Hound's Tooth",
+      "Ebon Hawk"
+    ],
+    "platoon_5_row_2": [
+      "Slave I",
+      "Anakin's Eta-2 Starfighter",
+      "Gauntlet Starfighter",
+      "Hound's Tooth",
+      "Umbaran Starfighter"
+    ],
+    "platoon_5_row_3": [
+      "B-28 Extinction-class Bomber",
+      "Xanadu Blood",
+      "IG-2000",
+      "Sith Fighter",
+      "Scimitar"
+    ],
+    "platoon_6_row_1": [
+      "Emperor's Shuttle",
+      "Hound's Tooth",
+      "Ebon Hawk",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_6_row_2": [
+      "Hound's Tooth",
+      "IG-2000",
+      "Slave I",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_6_row_3": [
+      "Emperor's Shuttle",
+      "Ebon Hawk",
+      "Kylo Ren's Command Shuttle",
+      "Hound's Tooth",
+      "Rey's Millennium Falcon"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase04_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Separatist Might Platoon-Z4M",
+    "ability_name": "Republic Resolve",
+    "platoon_1_row_1": [
+      "Darth Revan",
+      "Bossk",
+      "Zam Wesell",
+      "Savage Opress",
+      "Old Daka"
+    ],
+    "platoon_1_row_2": [
+      "Captain Phasma",
+      "Bossk",
+      "First Order Stormtrooper",
+      "First Order Executioner",
+      "First Order SF TIE Pilot"
+    ],
+    "platoon_1_row_3": [
+      "First Order SF TIE Pilot",
+      "First Order Executioner",
+      "Darth Malak",
+      "First Order TIE Pilot",
+      "First Order Stormtrooper"
+    ],
+    "platoon_2_row_1": [
+      "Mother Talzin",
+      "Death Trooper",
+      "Grand Admiral Thrawn",
+      "Wampa",
+      "Darth Revan"
+    ],
+    "platoon_2_row_2": [
+      "Emperor Palpatine",
+      "Darth Malak",
+      "Death Trooper",
+      "Director Krennic",
+      "Sith Empire Trooper"
+    ],
+    "platoon_2_row_3": [
+      "Nightsister Initiate",
+      "Nightsister Spirit",
+      "Bossk",
+      "Savage Opress",
+      "Old Daka"
+    ],
+    "platoon_3_row_1": [
+      "Jango Fett",
+      "Zam Wesell",
+      "IG-88",
+      "Bossk",
+      "IG-86 Sentinel Droid"
+    ],
+    "platoon_3_row_2": [
+      "Jango Fett",
+      "Bossk",
+      "Darth Malak",
+      "Darth Sidious",
+      "Darth Revan"
+    ],
+    "platoon_3_row_3": [
+      "Darth Revan",
+      "Mother Talzin",
+      "IG-86 Sentinel Droid",
+      "Jango Fett",
+      "Nightsister Spirit"
+    ],
+    "platoon_4_row_1": [
+      "Dengar",
+      "Darth Malak",
+      "Aurra Sing",
+      "Bossk",
+      "Boba Fett"
+    ],
+    "platoon_4_row_2": [
+      "Darth Sion",
+      "Darth Traya",
+      "Darth Nihilus",
+      "Darth Revan",
+      "Sith Marauder"
+    ],
+    "platoon_4_row_3": [
+      "Darth Revan",
+      "Nightsister Spirit",
+      "Nightsister Zombie",
+      "Mother Talzin",
+      "Nightsister Acolyte"
+    ],
+    "platoon_5_row_1": [
+      "Darth Traya",
+      "Darth Malak",
+      "Canderous Ordo",
+      "Darth Revan",
+      "Darth Sion"
+    ],
+    "platoon_5_row_2": [
+      "Mother Talzin",
+      "Dengar",
+      "Boba Fett",
+      "Wampa",
+      "Bossk"
+    ],
+    "platoon_5_row_3": [
+      "Darth Revan",
+      "Bossk",
+      "Nightsister Spirit",
+      "Savage Opress",
+      "URoRRuR'R'R"
+    ],
+    "platoon_6_row_1": [
+      "Gamorrean Guard",
+      "Gar Saxon",
+      "Grand Admiral Thrawn",
+      "Wampa",
+      "Snowtrooper"
+    ],
+    "platoon_6_row_2": [
+      "Bastila Shan (Fallen)",
+      "Canderous Ordo",
+      "Darth Nihilus",
+      "Sith Empire Trooper",
+      "Darth Sion"
+    ],
+    "platoon_6_row_3": [
+      "Darth Revan",
+      "Darth Malak",
+      "Jango Fett",
+      "Mother Talzin",
+      "Bossk"
+    ]
+  },
+  {
+    "tb_id": "t03D",
+    "zone_id": "geonosis_separatist_phase04_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Separatist Might Platoon-Z4B",
+    "ability_name": "AT-TE",
+    "platoon_1_row_1": [
+      "Darth Revan",
+      "Darth Malak",
+      "Darth Sidious",
+      "Kylo Ren (Unmasked)",
+      "Wampa"
+    ],
+    "platoon_1_row_2": [
+      "Grand Admiral Thrawn",
+      "Emperor Palpatine",
+      "Mob Enforcer",
+      "Death Trooper",
+      "Magmatrooper"
+    ],
+    "platoon_1_row_3": [
+      "Emperor Palpatine",
+      "Darth Vader",
+      "Grand Admiral Thrawn",
+      "Mother Talzin",
+      "Death Trooper"
+    ],
+    "platoon_2_row_1": [
+      "Mother Talzin",
+      "First Order Officer",
+      "First Order SF TIE Pilot",
+      "First Order TIE Pilot",
+      "First Order Executioner"
+    ],
+    "platoon_2_row_2": [
+      "Grand Moff Tarkin",
+      "Emperor Palpatine",
+      "TIE Fighter Pilot",
+      "Stormtrooper",
+      "Bossk"
+    ],
+    "platoon_2_row_3": [
+      "Tusken Shaman",
+      "IG-86 Sentinel Droid",
+      "Darth Revan",
+      "Bossk",
+      "Darth Malak"
+    ],
+    "platoon_3_row_1": [
+      "Director Krennic",
+      "Death Trooper",
+      "Grand Admiral Thrawn",
+      "Mob Enforcer",
+      "Bossk"
+    ],
+    "platoon_3_row_2": [
+      "Imperial Super Commando",
+      "Emperor Palpatine",
+      "Grand Admiral Thrawn",
+      "Range Trooper",
+      "Darth Malak"
+    ],
+    "platoon_3_row_3": [
+      "Darth Revan",
+      "Greedo",
+      "Death Trooper",
+      "TIE Fighter Pilot",
+      "Range Trooper"
+    ],
+    "platoon_4_row_1": [
+      "Bossk",
+      "Darth Sion",
+      "Wampa",
+      "HK-47",
+      "Sith Assassin"
+    ],
+    "platoon_4_row_2": [
+      "IG-88",
+      "Bossk",
+      "Gamorrean Guard",
+      "Mob Enforcer",
+      "Tusken Raider"
+    ],
+    "platoon_4_row_3": [
+      "Kylo Ren (Unmasked)",
+      "First Order Officer",
+      "Darth Revan",
+      "Darth Traya",
+      "Darth Malak"
+    ],
+    "platoon_5_row_1": [
+      "Darth Malak",
+      "URoRRuR'R'R",
+      "Tusken Raider",
+      "Wampa",
+      "Gar Saxon"
+    ],
+    "platoon_5_row_2": [
+      "Wampa",
+      "Dengar",
+      "Bossk",
+      "Aurra Sing",
+      "Darth Revan"
+    ],
+    "platoon_5_row_3": [
+      "Magmatrooper",
+      "Bossk",
+      "Death Trooper",
+      "TIE Fighter Pilot",
+      "Imperial Super Commando"
+    ],
+    "platoon_6_row_1": [
+      "Bastila Shan (Fallen)",
+      "Canderous Ordo",
+      "HK-47",
+      "Sith Empire Trooper",
+      "Darth Traya"
+    ],
+    "platoon_6_row_2": [
+      "Darth Revan",
+      "Jango Fett",
+      "Mother Talzin",
+      "Darth Malak",
+      "Darth Maul"
+    ],
+    "platoon_6_row_3": [
+      "Darth Malak",
+      "Wampa",
+      "Darth Revan",
+      "Jango Fett",
+      "Mother Talzin"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase01_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Republic Offensive Platoon-Z1T",
+    "ability_name": "Formations",
+    "platoon_1_row_1": [
+      "First Order TIE Fighter",
+      "Hyena Bomber",
+      "TIE Reaper",
+      "TIE Advanced x1",
+      "TIE Silencer"
+    ],
+    "platoon_1_row_2": [
+      "Lando's Millennium Falcon",
+      "Ebon Hawk",
+      "Hyena Bomber",
+      "BTL-B Y-wing Starfighter",
+      "Han's Millennium Falcon"
+    ],
+    "platoon_1_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Vulture Droid",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Emperor's Shuttle"
+    ],
+    "platoon_2_row_1": [
+      "Biggs Darklighter's X-wing",
+      "Han's Millennium Falcon",
+      "Geonosian Spy's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "BTL-B Y-wing Starfighter"
+    ],
+    "platoon_2_row_2": [
+      "Scimitar",
+      "Hyena Bomber",
+      "Emperor's Shuttle",
+      "Geonosian Spy's Starfighter",
+      "BTL-B Y-wing Starfighter"
+    ],
+    "platoon_2_row_3": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ebon Hawk"
+    ],
+    "platoon_3_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170",
+      "Vulture Droid",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_3_row_2": [
+      "Ebon Hawk",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Phantom II",
+      "Hyena Bomber"
+    ],
+    "platoon_3_row_3": [
+      "Vulture Droid",
+      "Rex's ARC-170",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_4_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Plo Koon's Jedi Starfighter",
+      "Han's Millennium Falcon",
+      "TIE Silencer"
+    ],
+    "platoon_4_row_2": [
+      "Cassian's U-wing",
+      "Ebon Hawk",
+      "Geonosian Spy's Starfighter",
+      "Poe Dameron's X-wing",
+      "Scimitar"
+    ],
+    "platoon_4_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Emperor's Shuttle",
+      "Plo Koon's Jedi Starfighter",
+      "Vulture Droid",
+      "Rex's ARC-170"
+    ],
+    "platoon_5_row_1": [
+      "Han's Millennium Falcon",
+      "IG-2000",
+      "Rey's Millennium Falcon",
+      "BTL-B Y-wing Starfighter",
+      "Xanadu Blood"
+    ],
+    "platoon_5_row_2": [
+      "Ebon Hawk",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_5_row_3": [
+      "BTL-B Y-wing Starfighter",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Rex's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_6_row_1": [
+      "Han's Millennium Falcon",
+      "Phantom II",
+      "Kylo Ren's Command Shuttle",
+      "Emperor's Shuttle",
+      "Cassian's U-wing"
+    ],
+    "platoon_6_row_2": [
+      "Han's Millennium Falcon",
+      "Rex's ARC-170",
+      "BTL-B Y-wing Starfighter",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_6_row_3": [
+      "Vulture Droid",
+      "Han's Millennium Falcon",
+      "Ebon Hawk",
+      "Plo Koon's Jedi Starfighter",
+      "Umbaran Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase01_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Republic Offensive Platoon-Z1M",
+    "ability_name": "Republic Resolve",
+    "platoon_1_row_1": [
+      "BB-8",
+      "Hera Syndulla",
+      "Garazeb !Zeb! Orrelios",
+      "Chirrut Îmwe",
+      "General Kenobi"
+    ],
+    "platoon_1_row_2": [
+      "Barriss Offee",
+      "R2-D2",
+      "Sabine Wren",
+      "Rose Tico",
+      "Amilyn Holdo"
+    ],
+    "platoon_1_row_3": [
+      "Coruscant Underworld Police",
+      "Stormtrooper Han",
+      "Resistance Trooper",
+      "Resistance Pilot",
+      "Rey (Scavenger)"
+    ],
+    "platoon_2_row_1": [
+      "C-3PO",
+      "Finn",
+      "Garazeb !Zeb! Orrelios",
+      "Hermit Yoda",
+      "Enfys Nest"
+    ],
+    "platoon_2_row_2": [
+      "Ahsoka Tano",
+      "C-3PO",
+      "Biggs Darklighter",
+      "Shaak Ti",
+      "Visas Marr"
+    ],
+    "platoon_2_row_3": [
+      "Commander Luke Skywalker",
+      "Enfys Nest",
+      "General Kenobi",
+      "Finn",
+      "R2-D2"
+    ],
+    "platoon_3_row_1": [
+      "BB-8",
+      "Commander Luke Skywalker",
+      "Garazeb !Zeb! Orrelios",
+      "Finn",
+      "Hera Syndulla"
+    ],
+    "platoon_3_row_2": [
+      "Amilyn Holdo",
+      "R2-D2",
+      "Barriss Offee",
+      "Sabine Wren",
+      "C-3PO"
+    ],
+    "platoon_3_row_3": [
+      "L3-37",
+      "Pao",
+      "Luminara Unduli",
+      "Ahsoka Tano (Fulcrum)",
+      "Princess Leia"
+    ],
+    "platoon_4_row_1": [
+      "C-3PO",
+      "Hera Syndulla",
+      "Garazeb !Zeb! Orrelios",
+      "Hermit Yoda",
+      "Finn"
+    ],
+    "platoon_4_row_2": [
+      "Baze Malbus",
+      "Rey (Jedi Training)",
+      "Visas Marr",
+      "C-3PO",
+      "Biggs Darklighter"
+    ],
+    "platoon_4_row_3": [
+      "Amilyn Holdo",
+      "R2-D2",
+      "Barriss Offee",
+      "Sabine Wren",
+      "C-3PO"
+    ],
+    "platoon_5_row_1": [
+      "Ahsoka Tano",
+      "Rose Tico",
+      "Biggs Darklighter",
+      "Chirrut Îmwe",
+      "Visas Marr"
+    ],
+    "platoon_5_row_2": [
+      "Chewbacca",
+      "Rey (Jedi Training)",
+      "Luminara Unduli",
+      "L3-37",
+      "Princess Leia"
+    ],
+    "platoon_5_row_3": [
+      "Ahsoka Tano",
+      "C-3PO",
+      "Biggs Darklighter",
+      "Hera Syndulla",
+      "Visas Marr"
+    ],
+    "platoon_6_row_1": [
+      "Coruscant Underworld Police",
+      "Stormtrooper Han",
+      "Resistance Trooper",
+      "Resistance Pilot",
+      "Rey (Scavenger)"
+    ],
+    "platoon_6_row_2": [
+      "Commander Luke Skywalker",
+      "Shaak Ti",
+      "Hermit Yoda",
+      "Finn",
+      "R2-D2"
+    ],
+    "platoon_6_row_3": [
+      "CT-7567 !Rex!",
+      "Jawa Scavenger",
+      "CC-2224 !Cody!",
+      "CT-21-0408 !Echo!",
+      "Ugnaught"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase01_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Republic Offensive Platoon-Z1B",
+    "ability_name": "AT-TE",
+    "platoon_1_row_1": [
+      "Baze Malbus",
+      "Rey (Jedi Training)",
+      "Visas Marr",
+      "BB-8",
+      "Biggs Darklighter"
+    ],
+    "platoon_1_row_2": [
+      "L3-37",
+      "Lobot",
+      "BB-8",
+      "Ahsoka Tano (Fulcrum)",
+      "Princess Leia"
+    ],
+    "platoon_1_row_3": [
+      "Ugnaught",
+      "Jawa",
+      "R2-D2",
+      "Hoth Rebel Soldier",
+      "Admiral Ackbar"
+    ],
+    "platoon_2_row_1": [
+      "C-3PO",
+      "Commander Luke Skywalker",
+      "Garazeb !Zeb! Orrelios",
+      "General Kenobi",
+      "Enfys Nest"
+    ],
+    "platoon_2_row_2": [
+      "Ahsoka Tano",
+      "Commander Luke Skywalker",
+      "Biggs Darklighter",
+      "Shaak Ti",
+      "Visas Marr"
+    ],
+    "platoon_2_row_3": [
+      "Finn",
+      "BB-8",
+      "Garazeb !Zeb! Orrelios",
+      "Commander Luke Skywalker",
+      "Enfys Nest"
+    ],
+    "platoon_3_row_1": [
+      "General Kenobi",
+      "Commander Luke Skywalker",
+      "BB-8",
+      "Finn",
+      "Hermit Yoda"
+    ],
+    "platoon_3_row_2": [
+      "Barriss Offee",
+      "Hera Syndulla",
+      "Hoth Rebel Scout",
+      "Commander Luke Skywalker",
+      "Amilyn Holdo"
+    ],
+    "platoon_3_row_3": [
+      "Coruscant Underworld Police",
+      "Stormtrooper Han",
+      "Resistance Trooper",
+      "Resistance Pilot",
+      "R2-D2"
+    ],
+    "platoon_4_row_1": [
+      "Hermit Yoda",
+      "Ahsoka Tano (Fulcrum)",
+      "Garazeb !Zeb! Orrelios",
+      "Finn",
+      "Shaak Ti"
+    ],
+    "platoon_4_row_2": [
+      "Amilyn Holdo",
+      "R2-D2",
+      "Barriss Offee",
+      "Biggs Darklighter",
+      "Rose Tico"
+    ],
+    "platoon_4_row_3": [
+      "Admiral Ackbar",
+      "Princess Leia",
+      "Luminara Unduli",
+      "Ahsoka Tano (Fulcrum)",
+      "BB-8"
+    ],
+    "platoon_5_row_1": [
+      "BB-8",
+      "Lobot",
+      "R2-D2",
+      "Ahsoka Tano (Fulcrum)",
+      "Princess Leia"
+    ],
+    "platoon_5_row_2": [
+      "Rey (Jedi Training)",
+      "Shaak Ti",
+      "Baze Malbus",
+      "Rose Tico",
+      "Visas Marr"
+    ],
+    "platoon_5_row_3": [
+      "C-3PO",
+      "CT-7567 !Rex!",
+      "Garazeb !Zeb! Orrelios",
+      "Hermit Yoda",
+      "L3-37"
+    ],
+    "platoon_6_row_1": [
+      "Coruscant Underworld Police",
+      "Stormtrooper Han",
+      "Resistance Trooper",
+      "Resistance Pilot",
+      "Rey (Scavenger)"
+    ],
+    "platoon_6_row_2": [
+      "Chewbacca",
+      "Princess Leia",
+      "Luminara Unduli",
+      "BB-8",
+      "Admiral Ackbar"
+    ],
+    "platoon_6_row_3": [
+      "Ahsoka Tano",
+      "C-3PO",
+      "Biggs Darklighter",
+      "Shaak Ti",
+      "Visas Marr"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase02_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Republic Offensive Platoon-Z2T",
+    "ability_name": "Core Ship",
+    "platoon_1_row_1": [
+      "First Order TIE Fighter",
+      "Hyena Bomber",
+      "TIE Reaper",
+      "TIE Advanced x1",
+      "TIE Silencer"
+    ],
+    "platoon_1_row_2": [
+      "Lando's Millennium Falcon",
+      "Ebon Hawk",
+      "Hyena Bomber",
+      "BTL-B Y-wing Starfighter",
+      "Han's Millennium Falcon"
+    ],
+    "platoon_1_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Vulture Droid",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Emperor's Shuttle"
+    ],
+    "platoon_2_row_1": [
+      "Biggs Darklighter's X-wing",
+      "Han's Millennium Falcon",
+      "Geonosian Soldier's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "BTL-B Y-wing Starfighter"
+    ],
+    "platoon_2_row_2": [
+      "Scimitar",
+      "Hyena Bomber",
+      "Emperor's Shuttle",
+      "Geonosian Spy's Starfighter",
+      "BTL-B Y-wing Starfighter"
+    ],
+    "platoon_2_row_3": [
+      "Cassian's U-wing",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ebon Hawk"
+    ],
+    "platoon_3_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170",
+      "Vulture Droid",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_3_row_2": [
+      "Ebon Hawk",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Phantom II",
+      "Hyena Bomber"
+    ],
+    "platoon_3_row_3": [
+      "Vulture Droid",
+      "Rex's ARC-170",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_4_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Plo Koon's Jedi Starfighter",
+      "Han's Millennium Falcon",
+      "TIE Silencer"
+    ],
+    "platoon_4_row_2": [
+      "Cassian's U-wing",
+      "Ebon Hawk",
+      "Geonosian Spy's Starfighter",
+      "Poe Dameron's X-wing",
+      "Scimitar"
+    ],
+    "platoon_4_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Emperor's Shuttle",
+      "Plo Koon's Jedi Starfighter",
+      "Vulture Droid",
+      "Rex's ARC-170"
+    ],
+    "platoon_5_row_1": [
+      "Han's Millennium Falcon",
+      "IG-2000",
+      "Rey's Millennium Falcon",
+      "BTL-B Y-wing Starfighter",
+      "Xanadu Blood"
+    ],
+    "platoon_5_row_2": [
+      "Ebon Hawk",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Ghost"
+    ],
+    "platoon_5_row_3": [
+      "BTL-B Y-wing Starfighter",
+      "Phantom II",
+      "Gauntlet Starfighter",
+      "Rex's ARC-170",
+      "Umbaran Starfighter"
+    ],
+    "platoon_6_row_1": [
+      "Han's Millennium Falcon",
+      "Phantom II",
+      "Kylo Ren's Command Shuttle",
+      "Emperor's Shuttle",
+      "Cassian's U-wing"
+    ],
+    "platoon_6_row_2": [
+      "Han's Millennium Falcon",
+      "Rex's ARC-170",
+      "BTL-B Y-wing Starfighter",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_6_row_3": [
+      "Vulture Droid",
+      "Han's Millennium Falcon",
+      "Ebon Hawk",
+      "Plo Koon's Jedi Starfighter",
+      "Umbaran Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase02_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Republic Offensive Platoon-Z2M",
+    "ability_name": "Hailfire Tank",
+    "platoon_1_row_1": [
+      "Rey (Jedi Training)",
+      "Ima-Gun Di",
+      "Shaak Ti",
+      "Enfys Nest",
+      "Rebel Officer Leia Organa"
+    ],
+    "platoon_1_row_2": [
+      "Shaak Ti",
+      "Rose Tico",
+      "BB-8",
+      "Paploo",
+      "Jedi Knight Revan"
+    ],
+    "platoon_1_row_3": [
+      "CT-7567 !Rex!",
+      "Finn",
+      "Rose Tico",
+      "Commander Luke Skywalker",
+      "Barriss Offee"
+    ],
+    "platoon_2_row_1": [
+      "Admiral Ackbar",
+      "Zaalbar",
+      "Ima-Gun Di",
+      "Rebel Officer Leia Organa",
+      "C-3PO"
+    ],
+    "platoon_2_row_2": [
+      "BB-8",
+      "C-3PO",
+      "Barriss Offee",
+      "Jedi Knight Revan",
+      "Shaak Ti"
+    ],
+    "platoon_2_row_3": [
+      "Sabine Wren",
+      "Hoth Rebel Scout",
+      "Wicket",
+      "Finn",
+      "Barriss Offee"
+    ],
+    "platoon_3_row_1": [
+      "C-3PO",
+      "Rey (Jedi Training)",
+      "Qi'ra",
+      "Amilyn Holdo",
+      "Shaak Ti"
+    ],
+    "platoon_3_row_2": [
+      "Han Solo",
+      "Baze Malbus",
+      "Rey (Jedi Training)",
+      "Ezra Bridger",
+      "Visas Marr"
+    ],
+    "platoon_3_row_3": [
+      "Jedi Knight Revan",
+      "Commander Luke Skywalker",
+      "Resistance Trooper",
+      "Rey (Scavenger)",
+      "Stormtrooper Han"
+    ],
+    "platoon_4_row_1": [
+      "Coruscant Underworld Police",
+      "Rey (Scavenger)",
+      "Stormtrooper Han",
+      "Resistance Trooper",
+      "Rebel Officer Leia Organa"
+    ],
+    "platoon_4_row_2": [
+      "BB-8",
+      "Commander Luke Skywalker",
+      "CT-7567 !Rex!",
+      "Finn",
+      "Amilyn Holdo"
+    ],
+    "platoon_4_row_3": [
+      "Captain Han Solo",
+      "Enfys Nest",
+      "Ima-Gun Di",
+      "Pao",
+      "Shaak Ti"
+    ],
+    "platoon_5_row_1": [
+      "Commander Luke Skywalker",
+      "Paploo",
+      "Rebel Officer Leia Organa",
+      "Rose Tico",
+      "Juhani"
+    ],
+    "platoon_5_row_2": [
+      "Rebel Officer Leia Organa",
+      "Hoth Rebel Soldier",
+      "Rose Tico",
+      "Finn",
+      "BB-8"
+    ],
+    "platoon_5_row_3": [
+      "Commander Luke Skywalker",
+      "Jedi Knight Revan",
+      "Shaak Ti",
+      "C-3PO",
+      "Rey (Jedi Training)"
+    ],
+    "platoon_6_row_1": [
+      "Mission Vao",
+      "Resistance Pilot",
+      "Ugnaught",
+      "Resistance Trooper",
+      "Amilyn Holdo"
+    ],
+    "platoon_6_row_2": [
+      "Rebel Officer Leia Organa",
+      "Baze Malbus",
+      "Ezra Bridger",
+      "CT-7567 !Rex!",
+      "Grand Master Yoda"
+    ],
+    "platoon_6_row_3": [
+      "Qi'ra",
+      "Jedi Knight Revan",
+      "Commander Luke Skywalker",
+      "C-3PO",
+      "Rey (Jedi Training)"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase02_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Republic Offensive Platoon-Z2B",
+    "ability_name": "AT-TE",
+    "platoon_1_row_1": [
+      "CT-7567 !Rex!",
+      "R2-D2",
+      "Amilyn Holdo",
+      "Barriss Offee",
+      "Sabine Wren"
+    ],
+    "platoon_1_row_2": [
+      "Shaak Ti",
+      "Pao",
+      "Ima-Gun Di",
+      "Princess Leia",
+      "Logray"
+    ],
+    "platoon_1_row_3": [
+      "Rebel Officer Leia Organa",
+      "Wicket",
+      "Finn",
+      "CT-7567 !Rex!",
+      "Amilyn Holdo"
+    ],
+    "platoon_2_row_1": [
+      "Princess Leia",
+      "Logray",
+      "BB-8",
+      "Zaalbar",
+      "Rebel Officer Leia Organa"
+    ],
+    "platoon_2_row_2": [
+      "Lobot",
+      "R2-D2",
+      "Commander Luke Skywalker",
+      "Juhani",
+      "Finn"
+    ],
+    "platoon_2_row_3": [
+      "Rose Tico",
+      "Wicket",
+      "CT-7567 !Rex!",
+      "Shaak Ti",
+      "Biggs Darklighter"
+    ],
+    "platoon_3_row_1": [
+      "Stormtrooper Han",
+      "Rey (Scavenger)",
+      "Amilyn Holdo",
+      "Barriss Offee",
+      "R2-D2"
+    ],
+    "platoon_3_row_2": [
+      "Resistance Pilot",
+      "Shaak Ti",
+      "Stormtrooper Han",
+      "Rey (Scavenger)",
+      "Hoth Rebel Soldier"
+    ],
+    "platoon_3_row_3": [
+      "Commander Luke Skywalker",
+      "Finn",
+      "Grand Master Yoda",
+      "Rebel Officer Leia Organa",
+      "Amilyn Holdo"
+    ],
+    "platoon_4_row_1": [
+      "CT-7567 !Rex!",
+      "Rose Tico",
+      "Rey (Scavenger)",
+      "Shaak Ti",
+      "Finn"
+    ],
+    "platoon_4_row_2": [
+      "Shaak Ti",
+      "Rebel Officer Leia Organa",
+      "Barriss Offee",
+      "Amilyn Holdo",
+      "Commander Luke Skywalker"
+    ],
+    "platoon_4_row_3": [
+      "BB-8",
+      "Garazeb !Zeb! Orrelios",
+      "Rose Tico",
+      "R2-D2",
+      "Amilyn Holdo"
+    ],
+    "platoon_5_row_1": [
+      "Rey (Scavenger)",
+      "Stormtrooper Han",
+      "Resistance Trooper",
+      "R2-D2",
+      "Hoth Rebel Soldier"
+    ],
+    "platoon_5_row_2": [
+      "Rebel Officer Leia Organa",
+      "Amilyn Holdo",
+      "CT-7567 !Rex!",
+      "Han Solo",
+      "Grand Master Yoda"
+    ],
+    "platoon_5_row_3": [
+      "Amilyn Holdo",
+      "Pao",
+      "Zaalbar",
+      "Ima-Gun Di",
+      "Shaak Ti"
+    ],
+    "platoon_6_row_1": [
+      "Barriss Offee",
+      "Amilyn Holdo",
+      "Jawa Scavenger",
+      "Jawa",
+      "Ugnaught"
+    ],
+    "platoon_6_row_2": [
+      "R2-D2",
+      "L3-37",
+      "Commander Luke Skywalker",
+      "Ima-Gun Di",
+      "Enfys Nest"
+    ],
+    "platoon_6_row_3": [
+      "Shaak Ti",
+      "C-3PO",
+      "Rey (Jedi Training)",
+      "Rebel Officer Leia Organa",
+      "Commander Luke Skywalker"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase03_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Republic Offensive Platoon-Z3T",
+    "ability_name": "LAAT",
+    "platoon_1_row_1": [
+      "Vulture Droid",
+      "Rex's ARC-170",
+      "BTL-B Y-wing Starfighter",
+      "Plo Koon's Jedi Starfighter",
+      "Rey's Millennium Falcon"
+    ],
+    "platoon_1_row_2": [
+      "Han's Millennium Falcon",
+      "Gauntlet Starfighter",
+      "Wedge Antilles's X-wing",
+      "Vulture Droid",
+      "Hyena Bomber"
+    ],
+    "platoon_1_row_3": [
+      "First Order TIE Fighter",
+      "Hyena Bomber",
+      "BTL-B Y-wing Starfighter",
+      "TIE Advanced x1",
+      "Emperor's Shuttle"
+    ],
+    "platoon_2_row_1": [
+      "Wedge Antilles's X-wing",
+      "Poe Dameron's X-wing",
+      "Vulture Droid",
+      "Han's Millennium Falcon",
+      "Emperor's Shuttle"
+    ],
+    "platoon_2_row_2": [
+      "Cassian's U-wing",
+      "Han's Millennium Falcon",
+      "BTL-B Y-wing Starfighter",
+      "Emperor's Shuttle",
+      "Scimitar"
+    ],
+    "platoon_2_row_3": [
+      "Rey's Millennium Falcon",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Han's Millennium Falcon"
+    ],
+    "platoon_3_row_1": [
+      "Vulture Droid",
+      "Ebon Hawk",
+      "Poe Dameron's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Xanadu Blood"
+    ],
+    "platoon_3_row_2": [
+      "Han's Millennium Falcon",
+      "IG-2000",
+      "Vulture Droid",
+      "Ebon Hawk",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_3_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "BTL-B Y-wing Starfighter",
+      "Vulture Droid",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_4_row_1": [
+      "Han's Millennium Falcon",
+      "IG-2000",
+      "Rey's Millennium Falcon",
+      "BTL-B Y-wing Starfighter",
+      "Xanadu Blood"
+    ],
+    "platoon_4_row_2": [
+      "BTL-B Y-wing Starfighter",
+      "Han's Millennium Falcon",
+      "Hyena Bomber",
+      "Emperor's Shuttle",
+      "Biggs Darklighter's X-wing"
+    ],
+    "platoon_4_row_3": [
+      "BTL-B Y-wing Starfighter",
+      "Rey's Millennium Falcon",
+      "Ebon Hawk",
+      "Jedi Consular's Starfighter",
+      "Rex's ARC-170"
+    ],
+    "platoon_5_row_1": [
+      "Han's Millennium Falcon",
+      "Rey's Millennium Falcon",
+      "Lando's Millennium Falcon",
+      "BTL-B Y-wing Starfighter",
+      "Emperor's Shuttle"
+    ],
+    "platoon_5_row_2": [
+      "Lando's Millennium Falcon",
+      "Hyena Bomber",
+      "TIE Advanced x1",
+      "Ebon Hawk",
+      "BTL-B Y-wing Starfighter"
+    ],
+    "platoon_5_row_3": [
+      "Han's Millennium Falcon",
+      "Rey's Millennium Falcon",
+      "Kylo Ren's Command Shuttle",
+      "Gauntlet Starfighter",
+      "Emperor's Shuttle"
+    ],
+    "platoon_6_row_1": [
+      "Sith Fighter",
+      "B-28 Extinction-class Bomber",
+      "Vulture Droid",
+      "Xanadu Blood",
+      "IG-2000"
+    ],
+    "platoon_6_row_2": [
+      "Vulture Droid",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Han's Millennium Falcon"
+    ],
+    "platoon_6_row_3": [
+      "BTL-B Y-wing Starfighter",
+      "Rey's Millennium Falcon",
+      "Gauntlet Starfighter",
+      "Ebon Hawk",
+      "Umbaran Starfighter"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase03_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Republic Offensive Platoon-Z3M",
+    "ability_name": "Metal Mayhem",
+    "platoon_1_row_1": [
+      "BB-8",
+      "Amilyn Holdo",
+      "Jedi Knight Revan",
+      "Biggs Darklighter",
+      "Barriss Offee"
+    ],
+    "platoon_1_row_2": [
+      "Coruscant Underworld Police",
+      "General Skywalker",
+      "Commander Luke Skywalker",
+      "Mission Vao",
+      "Barriss Offee"
+    ],
+    "platoon_1_row_3": [
+      "R2-D2",
+      "Princess Leia",
+      "C-3PO",
+      "Ahsoka Tano (Fulcrum)",
+      "Pao"
+    ],
+    "platoon_2_row_1": [
+      "BB-8",
+      "Padmé Amidala",
+      "Commander Luke Skywalker",
+      "Chewbacca",
+      "Rebel Officer Leia Organa"
+    ],
+    "platoon_2_row_2": [
+      "R2-D2",
+      "Rose Tico",
+      "C-3PO",
+      "Jedi Knight Revan",
+      "General Skywalker"
+    ],
+    "platoon_2_row_3": [
+      "Rose Tico",
+      "BB-8",
+      "Commander Luke Skywalker",
+      "Biggs Darklighter",
+      "Barriss Offee"
+    ],
+    "platoon_3_row_1": [
+      "BB-8",
+      "Pao",
+      "Zaalbar",
+      "Ima-Gun Di",
+      "Admiral Ackbar"
+    ],
+    "platoon_3_row_2": [
+      "Finn",
+      "R2-D2",
+      "Chewbacca",
+      "Enfys Nest",
+      "Jedi Knight Revan"
+    ],
+    "platoon_3_row_3": [
+      "Princess Leia",
+      "Hermit Yoda",
+      "Captain Han Solo",
+      "Zaalbar",
+      "Rebel Officer Leia Organa"
+    ],
+    "platoon_4_row_1": [
+      "C-3PO",
+      "Zaalbar",
+      "Chewbacca",
+      "Hermit Yoda",
+      "Luminara Unduli"
+    ],
+    "platoon_4_row_2": [
+      "Bastila Shan",
+      "Amilyn Holdo",
+      "BB-8",
+      "Finn",
+      "Jedi Knight Revan"
+    ],
+    "platoon_4_row_3": [
+      "C-3PO",
+      "Barriss Offee",
+      "Wicket",
+      "BB-8",
+      "General Skywalker"
+    ],
+    "platoon_5_row_1": [
+      "Coruscant Underworld Police",
+      "Resistance Pilot",
+      "Jedi Knight Revan",
+      "Commander Luke Skywalker",
+      "Stormtrooper Han"
+    ],
+    "platoon_5_row_2": [
+      "R2-D2",
+      "Finn",
+      "Ezra Bridger",
+      "Visas Marr",
+      "Han Solo"
+    ],
+    "platoon_5_row_3": [
+      "Hera Syndulla",
+      "General Skywalker",
+      "Commander Luke Skywalker",
+      "Hermit Yoda",
+      "Sabine Wren"
+    ],
+    "platoon_6_row_1": [
+      "Resistance Trooper",
+      "Rey (Scavenger)",
+      "Jedi Knight Revan",
+      "Mission Vao",
+      "Resistance Pilot"
+    ],
+    "platoon_6_row_2": [
+      "Bastila Shan",
+      "Amilyn Holdo",
+      "Ezra Bridger",
+      "Visas Marr",
+      "BB-8"
+    ],
+    "platoon_6_row_3": [
+      "C-3PO",
+      "Commander Luke Skywalker",
+      "Rey (Jedi Training)",
+      "Jedi Knight Revan",
+      "R2-D2"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase03_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Republic Offensive Platoon-Z3B",
+    "ability_name": "Republic Resolve",
+    "platoon_1_row_1": [
+      "Hera Syndulla",
+      "General Skywalker",
+      "Jedi Knight Revan",
+      "Padmé Amidala",
+      "Admiral Ackbar"
+    ],
+    "platoon_1_row_2": [
+      "Admiral Ackbar",
+      "Jedi Knight Revan",
+      "Padmé Amidala",
+      "Rey (Scavenger)",
+      "Hermit Yoda"
+    ],
+    "platoon_1_row_3": [
+      "Hera Syndulla",
+      "Hermit Yoda",
+      "General Skywalker",
+      "Princess Leia",
+      "Lobot"
+    ],
+    "platoon_2_row_1": [
+      "Coruscant Underworld Police",
+      "Resistance Pilot",
+      "Grand Master Yoda",
+      "Stormtrooper Han",
+      "Garazeb !Zeb! Orrelios"
+    ],
+    "platoon_2_row_2": [
+      "Admiral Ackbar",
+      "Padmé Amidala",
+      "Enfys Nest",
+      "Commander Luke Skywalker",
+      "Rose Tico"
+    ],
+    "platoon_2_row_3": [
+      "Hermit Yoda",
+      "C-3PO",
+      "Rey (Jedi Training)",
+      "Rose Tico",
+      "Enfys Nest"
+    ],
+    "platoon_3_row_1": [
+      "Jawa Scavenger",
+      "Ima-Gun Di",
+      "Grand Master Yoda",
+      "General Skywalker",
+      "Enfys Nest"
+    ],
+    "platoon_3_row_2": [
+      "Amilyn Holdo",
+      "Hermit Yoda",
+      "R2-D2",
+      "Rose Tico",
+      "C-3PO"
+    ],
+    "platoon_3_row_3": [
+      "Han Solo",
+      "General Kenobi",
+      "Hermit Yoda",
+      "Rey (Jedi Training)",
+      "Ezra Bridger"
+    ],
+    "platoon_4_row_1": [
+      "Hermit Yoda",
+      "Resistance Pilot",
+      "Stormtrooper Han",
+      "Resistance Trooper",
+      "Rey (Scavenger)"
+    ],
+    "platoon_4_row_2": [
+      "Rey (Jedi Training)",
+      "C-3PO",
+      "Grand Master Yoda",
+      "Qi'ra",
+      "Rose Tico"
+    ],
+    "platoon_4_row_3": [
+      "Hermit Yoda",
+      "General Skywalker",
+      "Jawa Scavenger",
+      "Jawa",
+      "Rey (Scavenger)"
+    ],
+    "platoon_5_row_1": [
+      "Sabine Wren",
+      "Hoth Rebel Scout",
+      "Commander Luke Skywalker",
+      "Rey (Scavenger)",
+      "Enfys Nest"
+    ],
+    "platoon_5_row_2": [
+      "General Skywalker",
+      "Rey (Jedi Training)",
+      "C-3PO",
+      "Rose Tico",
+      "Grand Master Yoda"
+    ],
+    "platoon_5_row_3": [
+      "Jawa Scavenger",
+      "Enfys Nest",
+      "Ugnaught",
+      "Princess Leia",
+      "Jedi Knight Revan"
+    ],
+    "platoon_6_row_1": [
+      "Ezra Bridger",
+      "Grand Master Yoda",
+      "Ugnaught",
+      "Commander Luke Skywalker",
+      "Rey (Scavenger)"
+    ],
+    "platoon_6_row_2": [
+      "Jawa",
+      "Ugnaught",
+      "Rey (Scavenger)",
+      "C-3PO",
+      "Hoth Rebel Soldier"
+    ],
+    "platoon_6_row_3": [
+      "Rey (Jedi Training)",
+      "Garazeb !Zeb! Orrelios",
+      "General Skywalker",
+      "Chirrut Îmwe",
+      "Rose Tico"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase04_conflict01",
+    "unit_type": "ship",
+    "area_pos": "Top",
+    "image": "Territory Battle-Republic Offensive Platoon-Z4T",
+    "ability_name": "Droid Factory",
+    "platoon_1_row_1": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Vulture Droid",
+      "Plo Koon's Jedi Starfighter",
+      "Jedi Consular's Starfighter",
+      "BTL-B Y-wing Starfighter"
+    ],
+    "platoon_1_row_2": [
+      "Vulture Droid",
+      "Bistan's U-wing",
+      "Wedge Antilles's X-wing",
+      "Biggs Darklighter's X-wing",
+      "Han's Millennium Falcon"
+    ],
+    "platoon_1_row_3": [
+      "TIE Reaper",
+      "Hyena Bomber",
+      "Vulture Droid",
+      "Rey's Millennium Falcon",
+      "TIE Advanced x1"
+    ],
+    "platoon_2_row_1": [
+      "Hyena Bomber",
+      "Xanadu Blood",
+      "Han's Millennium Falcon",
+      "Ebon Hawk",
+      "BTL-B Y-wing Starfighter"
+    ],
+    "platoon_2_row_2": [
+      "Han's Millennium Falcon",
+      "Xanadu Blood",
+      "Biggs Darklighter's X-wing",
+      "BTL-B Y-wing Starfighter",
+      "Vulture Droid"
+    ],
+    "platoon_2_row_3": [
+      "Han's Millennium Falcon",
+      "Vulture Droid",
+      "Hyena Bomber",
+      "Ahsoka Tano's Jedi Starfighter",
+      "BTL-B Y-wing Starfighter"
+    ],
+    "platoon_3_row_1": [
+      "Wedge Antilles's X-wing",
+      "Umbaran Starfighter",
+      "Han's Millennium Falcon",
+      "Hyena Bomber",
+      "TIE Silencer"
+    ],
+    "platoon_3_row_2": [
+      "Han's Millennium Falcon",
+      "Hyena Bomber",
+      "TIE Advanced x1",
+      "Xanadu Blood",
+      "BTL-B Y-wing Starfighter"
+    ],
+    "platoon_3_row_3": [
+      "Ahsoka Tano's Jedi Starfighter",
+      "Hyena Bomber",
+      "Lando's Millennium Falcon",
+      "Rey's Millennium Falcon",
+      "Han's Millennium Falcon"
+    ],
+    "platoon_4_row_1": [
+      "Han's Millennium Falcon",
+      "Jedi Consular's Starfighter",
+      "Hyena Bomber",
+      "Emperor's Shuttle",
+      "Plo Koon's Jedi Starfighter"
+    ],
+    "platoon_4_row_2": [
+      "Vulture Droid",
+      "TIE Silencer",
+      "First Order TIE Fighter",
+      "Han's Millennium Falcon",
+      "TIE Reaper"
+    ],
+    "platoon_4_row_3": [
+      "BTL-B Y-wing Starfighter",
+      "Rey's Millennium Falcon",
+      "Han's Millennium Falcon",
+      "Ebon Hawk",
+      "Lando's Millennium Falcon"
+    ],
+    "platoon_5_row_1": [
+      "Geonosian Spy's Starfighter",
+      "Geonosian Soldier's Starfighter",
+      "Sun Fac's Geonosian Starfighter",
+      "Han's Millennium Falcon",
+      "Hyena Bomber"
+    ],
+    "platoon_5_row_2": [
+      "BTL-B Y-wing Starfighter",
+      "Rey's Millennium Falcon",
+      "Gauntlet Starfighter",
+      "Han's Millennium Falcon",
+      "Umbaran Starfighter"
+    ],
+    "platoon_5_row_3": [
+      "B-28 Extinction-class Bomber",
+      "Xanadu Blood",
+      "IG-2000",
+      "Sith Fighter",
+      "Scimitar"
+    ],
+    "platoon_6_row_1": [
+      "Vulture Droid",
+      "Han's Millennium Falcon",
+      "Hyena Bomber",
+      "Biggs Darklighter's X-wing",
+      "Wedge Antilles's X-wing"
+    ],
+    "platoon_6_row_2": [
+      "Han's Millennium Falcon",
+      "IG-2000",
+      "BTL-B Y-wing Starfighter",
+      "Xanadu Blood",
+      "Gauntlet Starfighter"
+    ],
+    "platoon_6_row_3": [
+      "Emperor's Shuttle",
+      "Hyena Bomber",
+      "Kylo Ren's Command Shuttle",
+      "BTL-B Y-wing Starfighter",
+      "Rey's Millennium Falcon"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase04_conflict02",
+    "unit_type": "character",
+    "area_pos": "Middle",
+    "image": "Territory Battle-Republic Offensive Platoon-Z4M",
+    "ability_name": "Hailfire Tank",
+    "platoon_1_row_1": [
+      "Jedi Knight Revan",
+      "Commander Luke Skywalker",
+      "Paploo",
+      "Biggs Darklighter",
+      "Baze Malbus"
+    ],
+    "platoon_1_row_2": [
+      "Coruscant Underworld Police",
+      "Commander Luke Skywalker",
+      "Stormtrooper Han",
+      "Mission Vao",
+      "Han Solo"
+    ],
+    "platoon_1_row_3": [
+      "Han Solo",
+      "Mission Vao",
+      "Grand Master Yoda",
+      "Resistance Trooper",
+      "Stormtrooper Han"
+    ],
+    "platoon_2_row_1": [
+      "Rey (Jedi Training)",
+      "Pao",
+      "Chewbacca",
+      "Hermit Yoda",
+      "Jedi Knight Revan"
+    ],
+    "platoon_2_row_2": [
+      "Baze Malbus",
+      "Grand Master Yoda",
+      "Pao",
+      "Ahsoka Tano (Fulcrum)",
+      "Visas Marr"
+    ],
+    "platoon_2_row_3": [
+      "Rose Tico",
+      "Wicket",
+      "Commander Luke Skywalker",
+      "Biggs Darklighter",
+      "Baze Malbus"
+    ],
+    "platoon_3_row_1": [
+      "Rey (Jedi Training)",
+      "Paploo",
+      "Rose Tico",
+      "Commander Luke Skywalker",
+      "Garazeb !Zeb! Orrelios"
+    ],
+    "platoon_3_row_2": [
+      "Rey (Jedi Training)",
+      "Commander Luke Skywalker",
+      "Grand Master Yoda",
+      "Ahsoka Tano (Fulcrum)",
+      "Jedi Knight Revan"
+    ],
+    "platoon_3_row_3": [
+      "Jedi Knight Revan",
+      "Enfys Nest",
+      "Garazeb !Zeb! Orrelios",
+      "Rey (Jedi Training)",
+      "Wicket"
+    ],
+    "platoon_4_row_1": [
+      "Amilyn Holdo",
+      "Grand Master Yoda",
+      "Rose Tico",
+      "Commander Luke Skywalker",
+      "Sabine Wren"
+    ],
+    "platoon_4_row_2": [
+      "Han Solo",
+      "Enfys Nest",
+      "Baze Malbus",
+      "Jedi Knight Revan",
+      "Ezra Bridger"
+    ],
+    "platoon_4_row_3": [
+      "Jedi Knight Revan",
+      "Wicket",
+      "Hoth Rebel Scout",
+      "Enfys Nest",
+      "Rose Tico"
+    ],
+    "platoon_5_row_1": [
+      "Enfys Nest",
+      "Grand Master Yoda",
+      "Amilyn Holdo",
+      "Jedi Knight Revan",
+      "Han Solo"
+    ],
+    "platoon_5_row_2": [
+      "Rey (Jedi Training)",
+      "Amilyn Holdo",
+      "Rose Tico",
+      "Hermit Yoda",
+      "Commander Luke Skywalker"
+    ],
+    "platoon_5_row_3": [
+      "Jedi Knight Revan",
+      "Commander Luke Skywalker",
+      "Wicket",
+      "Biggs Darklighter",
+      "Ugnaught"
+    ],
+    "platoon_6_row_1": [
+      "Bastila Shan",
+      "L3-37",
+      "Chewbacca",
+      "Hermit Yoda",
+      "Grand Master Yoda"
+    ],
+    "platoon_6_row_2": [
+      "Bastila Shan",
+      "Amilyn Holdo",
+      "Baze Malbus",
+      "Visas Marr",
+      "Han Solo"
+    ],
+    "platoon_6_row_3": [
+      "Jedi Knight Revan",
+      "Grand Master Yoda",
+      "Rey (Jedi Training)",
+      "Enfys Nest",
+      "Commander Luke Skywalker"
+    ]
+  },
+  {
+    "tb_id": "t04D",
+    "zone_id": "geonosis_republic_phase04_conflict03",
+    "unit_type": "character",
+    "area_pos": "Bottom",
+    "image": "Territory Battle-Republic Offensive Platoon-Z4B",
+    "ability_name": "AT-TE",
+    "platoon_1_row_1": [
+      "Jedi Knight Revan",
+      "Grand Master Yoda",
+      "Ahsoka Tano (Fulcrum)",
+      "Rey (Jedi Training)",
+      "Hermit Yoda"
+    ],
+    "platoon_1_row_2": [
+      "Chewbacca",
+      "Baze Malbus",
+      "Hoth Rebel Soldier",
+      "Pao",
+      "Enfys Nest"
+    ],
+    "platoon_1_row_3": [
+      "L3-37",
+      "Logray",
+      "Chewbacca",
+      "Rey (Jedi Training)",
+      "Pao"
+    ],
+    "platoon_2_row_1": [
+      "Rey (Jedi Training)",
+      "Resistance Pilot",
+      "Han Solo",
+      "Resistance Trooper",
+      "Mission Vao"
+    ],
+    "platoon_2_row_2": [
+      "Admiral Ackbar",
+      "L3-37",
+      "Princess Leia",
+      "Ima-Gun Di",
+      "Commander Luke Skywalker"
+    ],
+    "platoon_2_row_3": [
+      "Jawa",
+      "Garazeb !Zeb! Orrelios",
+      "Jedi Knight Revan",
+      "Commander Luke Skywalker",
+      "Grand Master Yoda"
+    ],
+    "platoon_3_row_1": [
+      "Ahsoka Tano (Fulcrum)",
+      "Pao",
+      "Chewbacca",
+      "Hoth Rebel Soldier",
+      "Commander Luke Skywalker"
+    ],
+    "platoon_3_row_2": [
+      "Lobot",
+      "L3-37",
+      "Chewbacca",
+      "Enfys Nest",
+      "Grand Master Yoda"
+    ],
+    "platoon_3_row_3": [
+      "Jedi Knight Revan",
+      "Juhani",
+      "Pao",
+      "Princess Leia",
+      "Enfys Nest"
+    ],
+    "platoon_4_row_1": [
+      "Commander Luke Skywalker",
+      "Han Solo",
+      "Hermit Yoda",
+      "Grand Master Yoda",
+      "Rey (Jedi Training)"
+    ],
+    "platoon_4_row_2": [
+      "Garazeb !Zeb! Orrelios",
+      "Commander Luke Skywalker",
+      "Bastila Shan",
+      "Hoth Rebel Soldier",
+      "Jawa Scavenger"
+    ],
+    "platoon_4_row_3": [
+      "Rey (Scavenger)",
+      "Resistance Pilot",
+      "Jedi Knight Revan",
+      "Enfys Nest",
+      "Grand Master Yoda"
+    ],
+    "platoon_5_row_1": [
+      "Grand Master Yoda",
+      "Ugnaught",
+      "Jawa Scavenger",
+      "Hermit Yoda",
+      "L3-37"
+    ],
+    "platoon_5_row_2": [
+      "Hermit Yoda",
+      "Amilyn Holdo",
+      "Commander Luke Skywalker",
+      "Rose Tico",
+      "Jedi Knight Revan"
+    ],
+    "platoon_5_row_3": [
+      "Enfys Nest",
+      "Commander Luke Skywalker",
+      "Pao",
+      "Princess Leia",
+      "Lobot"
+    ],
+    "platoon_6_row_1": [
+      "Bastila Shan",
+      "Amilyn Holdo",
+      "Grand Master Yoda",
+      "Visas Marr",
+      "Enfys Nest"
+    ],
+    "platoon_6_row_2": [
+      "Jedi Knight Revan",
+      "Rey (Jedi Training)",
+      "Enfys Nest",
+      "Grand Master Yoda",
+      "Rose Tico"
+    ],
+    "platoon_6_row_3": [
+      "Grand Master Yoda",
+      "Hermit Yoda",
+      "Jedi Knight Revan",
+      "Rey (Jedi Training)",
+      "Enfys Nest"
+    ]
+  }
+]
