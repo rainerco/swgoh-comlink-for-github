@@ -1,5 +1,5 @@
 **翻译:**
-**[中文(简体)](readme_chs_cn.md)**
+中文(简体)
  | [English](/readme.md)
  | [Français](readme_fre_fr.md)
  | [Deutsch](readme_ger_de.md)
