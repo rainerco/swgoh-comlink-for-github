@@ -1,3 +1,16 @@
+**Translation:**
+[中文(简体)](/readme/readme_chs_cn.md)
+ | English
+ | [Français](/readme/readme_fre_fr.md)
+ | [Deutsch](/readme/readme_ger_de.md)
+ | [Indonesia](/readme/readme_ind_id.md)
+ | [Italiano](/readme/readme_ita_it.md)
+ | [日本語](/readme/readme_jpn_jp.md)
+ | [Português (Brasil)](/readme/reamde_por_br.md)
+ | [Русский](/readme/readme_rus_ru.md)
+ | [Español](/readme/readme_spa_xm.md)
+ | [Türkçe](/readme/readme_tur_tr.md)
+ 
 # swgoh-comlink-for-github
  This repo is used to get data from SWGoH Comlink and store it on GitHub so it can be used with personal projects without requiring hosting Comlink on a server. 
  
