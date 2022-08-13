@@ -1,6 +1,6 @@
 **翻译:**
 中文(简体)
- | [English](/readme.md)
+ | [English](/README.md)
  | [Français](readme_fre_fr.md)
  | [Deutsch](readme_ger_de.md)
  | [Indonesia](readme_ind_id.md)
