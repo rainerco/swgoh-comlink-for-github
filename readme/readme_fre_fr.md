@@ -27,7 +27,7 @@ Téléchargez et installez [GitHub Desktop] (https://desktop.github.com/) sur vo
 Choisissez ensuite de Cloner un référentiel et clonez la version bifurquée que vous avez faite de ce référentiel. Cela placera une copie de ce dépôt sur votre ordinateur.
 
 ## Étape 4
-Téléchargez la dernière version du fichier binaire de [SWGoH Comlink] (https://github.com/sw-goh-tools/swgoh-comlink/releases) sur votre ordinateur.
+Téléchargez la dernière version du fichier binaire de [SWGoH Comlink] (https://github.com/swgoh-utils/swgoh-comlink/releases) sur votre ordinateur.
 
 ## Étape 5
 Téléchargez la dernière version de [PHP](https://www.php.net/downloads) pour votre système d'exploitation si vous ne l'avez pas déjà installée.
