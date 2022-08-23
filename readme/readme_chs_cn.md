@@ -27,7 +27,7 @@
 接下来选择克隆版本库，克隆你为这个版本库制作的分叉版本。这将在你的电脑上放置一个副本。
 
 ## 第4步
-将[SWGoH Comlink](https://github.com/sw-goh-tools/swgoh-comlink/releases)的最新二进制文件版本下载到你的电脑。
+将[SWGoH Comlink](https://github.com/swgoh-utils/swgoh-comlink/releases)的最新二进制文件版本下载到你的电脑。
 
 ## 第5步
 如果还没有安装，请为你的操作系统下载最新版本的[PHP](https://www.php.net/downloads)。
