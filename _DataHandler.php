@@ -38,6 +38,7 @@ class DataHandler
       "skill" => "skill",
       "units" => "units",
       "relicTierDefinition" => "relicTierDefinition",
+      "statMod" => "statMod",
       "statModSet" => "statModSet",
       "statProgression" => "statProgression",
       "table" => "table",
@@ -60,9 +61,11 @@ class DataHandler
       "dailyLoginRewardDefinition" => "dailyLoginRewardDefinition",
       //Conquest info
       "artifactDefinition" => "artifactDefinition",
+      "artifactTierDefinition" => "artifactTierDefinition",
       "conquestDefinition" => "conquestDefinition",
       "conquestMission" => "conquestMission",
       "consumableDefinition" => "consumableDefinition",
+      "consumableTierDefinition" => "consumableTierDefinition",
       "consumableType" => "consumableType",
       //GAC Info
       "seasonDefinition" => "seasonDefinition",
@@ -75,6 +78,7 @@ class DataHandler
       //Territory Battle
       "territoryBattleDefinition" => "territoryBattleDefinition",
       //Datacrons
+      "battleTargetingRule" => "battleTargetingRule",
       "datacronSet" => "datacronSet",
       "datacronTemplate" => "datacronTemplate",
       "datacronAffixTemplateSet" => "datacronAffixTemplateSet"
@@ -1048,8 +1052,7 @@ class DataHandler
 
     /**
      * Creates JSON file containing Territory Battle Information. Some data must be added manually.
-     * @param string $fileName The file name for the datamined game file. Default is 'all.json'
-     * @param bool $onlyUsedFiles Flag to only create separate files specified in $stdFileNames. Default is true.
+     * @param string $lang - The language for names and decsriptions. Default is 'ENG_US'
      */
     public function territoryBattles($lang = "ENG_US"){
       $fullPath = realpath(dirname(__FILE__));
@@ -1537,6 +1540,87 @@ class DataHandler
       ksort($tbData);
       $newFile = fopen($fullPath."/data/territoryBattles.json", "w");
       $saveData = json_encode($tbData);
+      fwrite($newFile,$saveData);
+      fclose($newFile);
+    }
+
+
+    /**
+     * Creates JSON file containing unit stat Information.
+     * @param string $fileName The file name for the datamined game file. Default is 'all.json'
+     * @param bool $onlyUsedFiles Flag to only create separate files specified in $stdFileNames. Default is true.
+     */
+    public function unitStatDefinition($lang = "ENG_US") {
+      $fullPath = realpath(dirname(__FILE__));
+      $file = json_decode(file_get_contents($fullPath."/data/unitStatDefinitions.json"),true);
+      $statEnums = json_decode($this->comlink->fetchEnums(),true)["UnitStat"];
+      $localize = $this->getLocalization($lang);
+      $unitStats = array();
+      $localMap = array();
+      $newStats = array();
+
+      $localize["UNIT_STAT_STAT_VIEW_MASTERY"] = "Mastery";
+      $localize["UnitStat_Taunt"] = "Taunt";
+      foreach($localize as $key => $val){
+        if(strpos($key,"UnitStat") !== false || $key === "UNIT_STAT_STAT_VIEW_MASTERY" || $key === "Combat_Buffs_TASK_NAME_2"){
+          $localMap[strtoupper($key)] = $key;
+        }
+      }
+
+      foreach($statEnums as $key => $stat){
+        if($key === "UnitStat_DEFAULT"){continue;}
+        $newKey = str_replace("UNITSTAT","UNITSTAT_",$key);
+        $descKey = str_replace("UNITSTAT","UNITSTATDESCRIPTION_",$key);
+        switch($stat){
+          case 1:
+            $newKey = "UNITSTAT_HEALTH";
+            $descKey = "UNITSTATDESCRIPTION_HEALTH_TU7";
+            break;
+          case 4:
+            $newKey = strtoupper("UnitStat_Intelligence_TU7");
+            break;
+          case 12:
+            $newKey = strtoupper("UnitStat_DodgeRating_TU5V");
+            break;
+          case 13:
+            $newKey = strtoupper("UnitStat_DeflectionRating_TU5V");
+            break;
+          case 14:
+            $newKey = strtoupper("UnitStat_AttackCriticalRating_TU5V");
+            break;
+          case 15:
+            $newKey = strtoupper("UnitStat_AbilityCriticalRating_TU5V");
+            break;
+          case 59:
+            $newKey = "COMBAT_BUFFS_TASK_NAME_2";
+            break;
+          case 61:
+            $newKey = "UNIT_STAT_STAT_VIEW_MASTERY";
+            break;
+          default:
+        }
+        $unitStats[$stat] = array(
+          "statId" => $stat,
+          "nameKey" => (array_key_exists($newKey, $localMap)) ? $localMap[$newKey] : "",
+          "name" => trim(preg_replace('/[\[{\(].*?[\]}\)]/' , "",$localize[$localMap[$newKey]])),
+          "descKey" => (array_key_exists($descKey, $localMap)) ? $localMap[$descKey] : ""
+        );
+      }
+
+      foreach($file as $stat => $val){
+        $id = $val["statId"];
+        $newStats[$id] = array(
+          "statId" => $id,
+          "nameKey" => $unitStats[$id]["nameKey"],
+          "descKey" => $unitStats[$id]["descKey"],
+          "isDecimal" => ($val["isDecimal"]) ? true : false,
+          "name" => $unitStats[$id]["name"],
+          "detailedName" => $val["detailedName"]
+        );
+      }
+
+      $newFile = fopen($fullPath."/data/unitStatDefinitions.json", "w");
+      $saveData = json_encode($newStats);
       fwrite($newFile,$saveData);
       fclose($newFile);
     }

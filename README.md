@@ -27,7 +27,7 @@ Once you are signed in ***Fork this repository*** by clicking the Fork option in
 Next ***choose to Clone a Repository*** and clone the forked version you made of this repository. This will place a copy of it onto your computer.
 
 ## Step 4
-***Download the latest binary file version of [SWGoH Comlink](https://github.com/sw-goh-tools/swgoh-comlink/releases)*** to your computer.
+***Download the latest binary file version of [SWGoH Comlink](https://github.com/swgoh-utils/swgoh-comlink/releases)*** to your computer.
 
 ## Step 5
 ***Download the latest version of [PHP](https://www.php.net/downloads)*** for your operating system if you do not already have it installed.

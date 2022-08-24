@@ -33,6 +33,12 @@ function buildTerritoryBattles($lang = "ENG_US"){
   echo "File created successfully";
 }
 
+function buildUnitStatDefinition($lang = "ENG_US"){
+  $fileHandler = new DataHandler();
+  $fileHandler->unitStatDefinition($lang);
+  echo "File created successfully";
+}
+
 function help(){
   $response = 'You can use the following functions:
   getPlayerData(allyCode, host, port, username, password)

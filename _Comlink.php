@@ -8,6 +8,7 @@ class Comlink
     private $signin;
     private $data;
     private $player;
+    private $enums;
     private $guild;
     private $metadata;
     private $localization;
@@ -31,6 +32,7 @@ class Comlink
         $this->localization = $host."/localization";
         $this->player = $host."/player";
         $this->data = $host."/data";
+        $this->enums = $host."/enums";
     }
 
     public function login()
@@ -58,7 +60,7 @@ class Comlink
         }
     }
 
-    private function jwt_request($token, $post, $fetchUrl) {
+    private function jwt_request($token, $post, $fetchUrl, $type) {
 
              $ch = curl_init($fetchUrl); // INITIALISE CURL
 
@@ -66,7 +68,7 @@ class Comlink
              //$authorization = "Authorization: Bearer ".$token; // **Prepare Authorization Token**
              //curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json' , $authorization )); // **Inject Token into Header**
              curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json' )); // **Inject Token into Header**
-             curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
+             curl_setopt($ch, CURLOPT_CUSTOMREQUEST, $type);
              curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
              curl_setopt($ch, CURLOPT_POSTFIELDS,$post);
              curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
@@ -75,20 +77,20 @@ class Comlink
              return $result;
     }
           
-    public function fetchAPI( $fetchUrl, $payload ) {
+    public function fetchAPI( $fetchUrl, $payload, $type = "POST" ) {
         try {
             //$logintoken = file_get_contents('./tokenlocation.txt');
             //if( !$logintoken ) { $logintoken = $this->login(); }
 
             //$authorization = "Authorization: Bearer ".$logintoken;
             //$request = $this->jwt_request($logintoken, $payload, $fetchUrl);
-            $request = $this->jwt_request(null, $payload, $fetchUrl);
+            $request = $this->jwt_request(null, $payload, $fetchUrl, $type);
 
             $temp = json_decode($request);
             if (isset($temp->code) && $temp->code > 200){
               //$logintoken = $this->login();
               //$authorization = "Authorization: Bearer ".$logintoken;
-              $request = $this->jwt_request(null, $payload, $fetchUrl);
+              $request = $this->jwt_request(null, $payload, $fetchUrl,$type);
             }
 
             return $request;
@@ -112,6 +114,19 @@ class Comlink
           $myObj->payload = new stdClass();
           $myObj->enums = $enums;
           return $this->fetchAPI($this->metadata, json_encode($myObj, JSON_NUMERIC_CHECK));
+        } catch (Exception $e) {
+            throw $e;
+        }
+    }
+    //This function can take several allycodes separated by commas.
+    public function fetchEnums()
+    {
+        try {
+          $myObj = new stdClass();
+          $myObj->payload = new stdClass();
+          //$myObj->payload->allyCode = strval($allycode);
+          //$myObj->enums = $enums;
+          return $this->fetchAPI($this->enums, json_encode($myObj), "GET");
         } catch (Exception $e) {
             throw $e;
         }

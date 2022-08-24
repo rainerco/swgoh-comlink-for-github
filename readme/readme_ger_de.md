@@ -27,7 +27,7 @@ Laden Sie [GitHub Desktop] (https://desktop.github.com/) herunter und installier
 Wählen Sie als Nächstes Klonen eines Repositorys und klonen Sie die geforkete Version, die Sie von diesem Repository erstellt haben. Dadurch wird eine Kopie des Repositorys auf Ihrem Computer gespeichert.
 
 ## Schritt 4
-Laden Sie die neueste Binärdateiversion von [SWGoH Comlink](https://github.com/sw-goh-tools/swgoh-comlink/releases) auf Ihren Computer herunter.
+Laden Sie die neueste Binärdateiversion von [SWGoH Comlink](https://github.com/swgoh-utils/swgoh-comlink/releases) auf Ihren Computer herunter.
 
 ## Schritt 5
 Laden Sie die neueste Version von [PHP](https://www.php.net/downloads) für Ihr Betriebssystem herunter, falls Sie sie noch nicht installiert haben.
