@@ -412,6 +412,7 @@ class DataHandler
                 "combatType" => $unit["combatType"],
                 "descKey" => $unit["descKey"],
                 "baseId" => $unit["baseId"],
+                "thumbnailName" => $unit["thumbnailName"],
                 "maxLevelOverride" => $unit["maxLevelOverride"],
                 "promotionRecipeReference" => $unit["promotionRecipeReference"],
                 "statProgressionId" => $unit["statProgressionId"],
