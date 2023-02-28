@@ -6,6 +6,7 @@ set_time_limit(0);
 //php -r "require 'full File Path'; function(arguments);"
 
 function getPlayerData($allyCode, $host = "local", $port = 3000, $username = null, $password = null){
+  echo "Preparing to get player data.\n";
   $fileHandler = new DataHandler($host, $port, $username, $password);
   $fileHandler->playerData($allyCode);
   echo "File created/updated successfully.";
@@ -13,6 +14,7 @@ function getPlayerData($allyCode, $host = "local", $port = 3000, $username = nul
 
 function getGuildData($allyCodes, $host="local", $port = 3000, $username = null, $password = null){
   if(is_array($allyCodes)){
+    echo "Preparing to retrieve guild data.\n";
     $fileHandler = new DataHandler($host,$port,$username,$password);
     $fileHandler->guildData($allyCodes);
     echo "All files created successfully.";
@@ -22,6 +24,7 @@ function getGuildData($allyCodes, $host="local", $port = 3000, $username = null,
 }
 
 function getGameData($filtered =true, $allCollections = false, $host="local", $port = 3000, $username = null, $password = null){
+  echo "Preparing to update all json files.\n";
   $fileHandler = new DataHandler($host, $port,$username,$password);
   $fileHandler->dataFiles($filtered, $allCollections);
   echo "All files created successfully.";
