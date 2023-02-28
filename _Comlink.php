@@ -172,5 +172,28 @@ class Comlink
             throw $e;
         }
     }
+
+    public function fetchGuild($guildId, $enums)
+    {
+        try {
+            $myObj = new stdClass();
+            $myObj->payload = new stdClass();
+            $myObj->payload->guildId = strval($guildId);
+            $myObj->enums = $enums;
+            return $this->fetchAPI($this->player, json_encode($myObj));  
+        } catch (Exception $e) {
+            throw $e;
+        }
+    }
+
+    public function fetchEvents()
+    {}
+
+    public function fetchGuildByName()
+    {}
+
+    public function fetchGuildByCriteria()
+    {}
+
 }
 ?>
