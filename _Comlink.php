@@ -16,11 +16,11 @@ class Comlink
     /** 
      * @param string $host - The web address the api is running on
      * @param integer $port - Only used when running on localhost
-     * @param string $username - The username or access key if one is required for the api
-     * @param string $password - The password or secret key if one is required for the api
+     * @param string $accessKey - The access key if one is required for the api
+     * @param string $secretKey - The secret key if one is required for the api
     */
 
-    public function __construct($host = "local",$port = 3000,$username=null,$password=null)
+    public function __construct($host = "local",$port = 3000,$accessKey=null,$secretKey=null)
     {
         if($host === "local"){
             $host = "http://localhost:".$port;
@@ -31,6 +31,12 @@ class Comlink
         $this->metadata = $host."/metadata";
         $this->localization = $host."/localization";
         $this->player = $host."/player";
+        $this->playerArena = $host."/playerArena";
+        $this->guild = $host."/guild";
+        $this->getGuilds = $host."/getGuilds";
+        $this->getEvents = $host."/getEvents";
+        $this->getLeaderboard = $host."/getLeaderboard";
+        $this->getGuildLeaderboard = $host."/getGuildLeaderboard";
         $this->data = $host."/data";
         $this->enums = $host."/enums";
     }
@@ -103,7 +109,7 @@ class Comlink
     /*See https://gitlab.com/swgoh-tools/swgoh-comlink/-/wikis/Getting-Started for more help and information.
       Example that returns all units
        
-        $comlink = new Comlink($port, $username, $password);
+        $comlink = new Comlink($host, $port, $accessKey, $secretKey);
 
         $units = $scomlink->fetchData($version, $segment, $includePve, $enums );
     */
@@ -179,15 +185,22 @@ class Comlink
             $myObj = new stdClass();
             $myObj->payload = new stdClass();
             $myObj->payload->guildId = strval($guildId);
+            $myObj->payload->includeRecentGuildActivityInfo = true;
             $myObj->enums = $enums;
-            return $this->fetchAPI($this->player, json_encode($myObj));  
+            return $this->fetchAPI($this->guild, json_encode($myObj));  
         } catch (Exception $e) {
             throw $e;
         }
     }
 
     public function fetchEvents()
-    {}
+    {
+        try {
+
+        } catch (Exception $e) {
+            throw $e;
+        }
+    }
 
     public function fetchGuildByName()
     {}
