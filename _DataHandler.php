@@ -240,9 +240,19 @@ class DataHandler
       }
       $data = json_decode($this->comlink->fetchLocalization($this->localVersion),true);
       foreach($languages as $language => $set){
+        $split = explode("\n", $data[$set]);
+        $localize = array();
+        foreach($split as $id){
+          $pos = strpos($id, "|");
+          if($pos !== false){
+            $key = substr($id, 0, $pos);
+            $val = substr($id, $pos+1);
+            $localize[$key] = $val;
+          }
+        }
         $name = substr($set,4,6);
-        $newFile = fopen($fullPath."/localization/".$name.".txt", "w");
-        $saveData = $data[$set];
+        $newFile = fopen($fullPath."/localization/".$name.".json", "w");
+        $saveData = json_encode($localize);
         fwrite($newFile,$saveData);
         fclose($newFile);
       }
