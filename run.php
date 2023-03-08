@@ -5,18 +5,18 @@ set_time_limit(0);
 
 //php -r "require 'full File Path'; function(arguments);"
 
-function getPlayerData($allyCode, $host = "local", $port = 3000, $accessKey = null, $secretKey = null){
+function getPlayerData($allyCode, $useAlly = true, $host = "local", $port = 3000, $accessKey = null, $secretKey = null){
   echo "Preparing to get player data.\n";
   $fileHandler = new DataHandler($host, $port, $accessKey, $secretKey);
-  $fileHandler->playerData($allyCode);
+  $fileHandler->playerData($allyCode,$useAlly);
   echo "File created/updated successfully.";
 }
 
-function getGuildData($ids, $host="local", $port = 3000, $accessKey = null, $secretKey = null){
+function getGuildData($ids, $isPlayerID=false, $host="local", $port = 3000, $accessKey = null, $secretKey = null){
   if(is_array($ids)){
     echo "Preparing to retrieve guild data.\n";
     $fileHandler = new DataHandler($host,$port,$accessKey,$secretKey);
-    $fileHandler->guildData($ids);
+    $fileHandler->guildData($ids, $isPlayerID);
     echo "All files created successfully.";
   }else{
     echo "Argument must be an array. You can achieve this by using array(#,#,#) and sepearating each entry with a comma.";

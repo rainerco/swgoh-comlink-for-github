@@ -251,25 +251,34 @@ class DataHandler
 
     /**
      * Saves the Player response to the drive
-     * @param string $allyCode The players ally code
+     * @param array $allyCode List of player allycodes
+     * @param string $useAlly Assigns the file name either allycode or playerid. Default is Allycode
      */
-    public function playerData($allyCode){
-      $fullPath = realpath(dirname(__FILE__));
-      $data = json_decode($this->comlink->fetchPlayer($allyCode),true);
-      $newFile = fopen($fullPath."/player/player.json", "w");
-      $saveData = json_encode($data);
-      fwrite($newFile,$saveData);
-      fclose($newFile);
+    public function playerData($allyCode, $useAlly = true){
+      foreach($allyCode as $id){
+        $data = json_decode($this->comlink->fetchPlayer($id),true);
+        if($useAlly){
+          $fileName = $data["allyCode"];
+        }else{
+          $fileName = $data["playerId"];
+        }
+        $fullPath = realpath(dirname(__FILE__));
+        $newFile = fopen($fullPath."/player/".$fileName.".json", "w");
+        $saveData = json_encode($data);
+        fwrite($newFile,$saveData);
+        fclose($newFile);  
+      }
     }
 
     /**
      * Saves multiple Player responses to the drive
      * @param array $ids - The player ids, ally codes or guild ids to get guild data for
      */
-    public function guildData($ids){
+    public function guildData($ids, $isPlayerID=false){
+      $fullPath = realpath(dirname(__FILE__));
       //Get Guild Ids
       $guildIds = array();
-      if(strlen(strval($ids[0])) < 12){
+      if(strlen(strval($ids[0])) < 12 || $isPlayerID){
         foreach($ids as $player){
           array_push($guildIds, json_decode($this->comlink->fetchPlayer($player),true)["guildId"]);
         }
@@ -278,109 +287,33 @@ class DataHandler
       }
       //Get Guild data
       $guildData = array();
-      $memberIds = array();
+      $memberData = array();
       foreach($guildIds as $guild){
-        $tempData = json_decode($this->comlink->fetchGuild($guild),true);
-        array_push($guildData, $tempData);
-        foreach($tempData as $guild){
-          foreach($guild["member"] as $member){
-            array_push($memberIds, $member["playerId"]);
-          }  
-        }
-      }
-      //Get Roster data
-      $roster1 = array();
-      $roster2 = array();
-      $roster3 = array();
-      $roster4 = array();
-      $roster5 = array();
-      $roster6 = array();
-      $roster7 = array();
-      $roster8 = array();
-      $roster9 = array();
-      $roster10 = array();
-      $indx = 0;
-      $segment1 = 10;
-      $segment2 = 20;
-      $segment3 = 30;
-      $segment4 = 40;
-      $segment5 = 50;
-      $segment6 = 60;
-      $segment7 = 70;
-      $segment8 = 80;
-      $segment9 = 90;
-      $segment10 = 100;
-      foreach($memberIds as $member){
-        if($indx < $segment1){
-          array_push($roster1, json_decode($this->comlink->fetchPlayer($member),true));
-        }else if($indx < $segment2){
-          array_push($roster2, json_decode($this->comlink->fetchPlayer($member),true));
-        }else if($indx < $segment3){
-          array_push($roster3, json_decode($this->comlink->fetchPlayer($member),true));
-        }else if($indx < $segment4){
-          array_push($roster4, json_decode($this->comlink->fetchPlayer($member),true));
-        }else if($indx < $segment5){
-          array_push($roster5, json_decode($this->comlink->fetchPlayer($member),true));
-        }else if($indx < $segment6){
-          array_push($roster6, json_decode($this->comlink->fetchPlayer($member),true));
-        }else if($indx < $segment7){
-          array_push($roster7, json_decode($this->comlink->fetchPlayer($member),true));
-        }else if($indx < $segment8){
-          array_push($roster8, json_decode($this->comlink->fetchPlayer($member),true));
-        }else if($indx < $segment9){
-          array_push($roster9, json_decode($this->comlink->fetchPlayer($member),true));
-        }else if($indx < $segment10){
-          array_push($roster10, json_decode($this->comlink->fetchPlayer($member),true));
-        }
-        $indx += 1;
-      }
-      //Write Data
-      $fullPath = realpath(dirname(__FILE__));
-      $newFile = fopen($fullPath."/guild/guildData.json", "w");
-      $saveData = json_encode($guildData);
-      fwrite($newFile,$saveData);
-      fclose($newFile);
-      echo "GuildData created.\n";
-      for($i=1; $i < 11; $i++){
-        $saveSegment = array();
-        switch ($i){
-          case 1:
-            $saveSegment = $roster1;
-            break;
-          case 2:
-            $saveSegment = $roster2;
-            break;
-          case 3:
-            $saveSegment = $roster3;
-            break;
-          case 4:
-            $saveSegment = $roster4;
-            break;
-          case 5:
-            $saveSegment = $roster5;
-            break;
-          case 6:
-            $saveSegment = $roster6;
-            break;
-          case 7:
-            $saveSegment = $roster7;
-            break;
-          case 8:
-            $saveSegment = $roster8;
-            break;
-          case 9:
-            $saveSegment = $roster9;
-            break;
-          case 10:
-            $saveSegment = $roster10;
-            break;
-          default:
-        }
-        $newFile = fopen($fullPath."/guild/roster".$i.".json", "w");
-        $saveData = json_encode($saveSegment);
+        $guildData = json_decode($this->comlink->fetchGuild($guild),true);
+        $fileName = $guildData["guild"]["profile"]["id"];
+        $newFile = fopen($fullPath."/guild/".$fileName."_PROFILE.json", "w");
+        $saveData = json_encode($guildData);
         fwrite($newFile,$saveData);
         fclose($newFile);
-        echo "Roster segment ".$i." created.\n";
+        echo "Guild profile created for ".$guildData["guild"]["profile"]["name"].".\n";
+        $indx = 1;
+        $limit = 10;
+        $counter = 0;
+        foreach($guildData["guild"]["member"] as $member){
+          array_push($memberData, json_decode($this->comlink->fetchPlayer($member["playerId"]),true));
+          $counter++;
+          if($counter === 10){
+            $newFile = fopen($fullPath."/guild/".$fileName."_ROSTER".$indx.".json", "w");
+            $saveData = json_encode($memberData);
+            fwrite($newFile,$saveData);
+            fclose($newFile);
+            echo "Guild roster segment ".$indx." created.\n";
+            //Reset counters and data
+            $memberData = array();
+            $indx++;
+            $counter = 0;
+          }
+        }  
       }
     }
 
