@@ -1,5 +1,6 @@
 <?php
 require_once '_Comlink.php';
+require_once '_StatCalc.php';
 ini_set('memory_limit', '6048M');
 
 /**
@@ -263,61 +264,124 @@ class DataHandler
 
     /**
      * Saves multiple Player responses to the drive
-     * @param array $allyCodes - The players ally codes
+     * @param array $ids - The player ids, ally codes or guild ids to get guild data for
      */
-    public function guildData($allyCodes){
-      $guild1 = array();
-      $guild2 = array();
-      $guild3 = array();
-      $guild4 = array();
-      $guild5 = array();
+    public function guildData($ids){
+      //Get Guild Ids
+      $guildIds = array();
+      if(strlen(strval($ids[0])) < 12){
+        foreach($ids as $player){
+          array_push($guildIds, json_decode($this->comlink->fetchPlayer($player),true)["guildId"]);
+        }
+      } else {
+        $guildIds = $ids;
+      }
+      //Get Guild data
+      $guildData = array();
+      $memberIds = array();
+      foreach($guildIds as $guild){
+        $tempData = json_decode($this->comlink->fetchGuild($guild),true);
+        array_push($guildData, $tempData);
+        foreach($tempData as $guild){
+          foreach($guild["member"] as $member){
+            array_push($memberIds, $member["playerId"]);
+          }  
+        }
+      }
+      //Get Roster data
+      $roster1 = array();
+      $roster2 = array();
+      $roster3 = array();
+      $roster4 = array();
+      $roster5 = array();
+      $roster6 = array();
+      $roster7 = array();
+      $roster8 = array();
+      $roster9 = array();
+      $roster10 = array();
       $indx = 0;
-      $segment1 = 20;
-      $segment2 = 40;
-      $segment3 = 60;
-      $segment4 = 80;
-      $segment5 = 100;
-      foreach($allyCodes as $member){
+      $segment1 = 10;
+      $segment2 = 20;
+      $segment3 = 30;
+      $segment4 = 40;
+      $segment5 = 50;
+      $segment6 = 60;
+      $segment7 = 70;
+      $segment8 = 80;
+      $segment9 = 90;
+      $segment10 = 100;
+      foreach($memberIds as $member){
         if($indx < $segment1){
-          array_push($guild1, json_decode($this->comlink->fetchPlayer($member),true));
+          array_push($roster1, json_decode($this->comlink->fetchPlayer($member),true));
         }else if($indx < $segment2){
-          array_push($guild2, json_decode($this->comlink->fetchPlayer($member),true));
+          array_push($roster2, json_decode($this->comlink->fetchPlayer($member),true));
         }else if($indx < $segment3){
-          array_push($guild3, json_decode($this->comlink->fetchPlayer($member),true));
+          array_push($roster3, json_decode($this->comlink->fetchPlayer($member),true));
         }else if($indx < $segment4){
-          array_push($guild4, json_decode($this->comlink->fetchPlayer($member),true));
+          array_push($roster4, json_decode($this->comlink->fetchPlayer($member),true));
         }else if($indx < $segment5){
-          array_push($guild5, json_decode($this->comlink->fetchPlayer($member),true));
+          array_push($roster5, json_decode($this->comlink->fetchPlayer($member),true));
+        }else if($indx < $segment6){
+          array_push($roster6, json_decode($this->comlink->fetchPlayer($member),true));
+        }else if($indx < $segment7){
+          array_push($roster7, json_decode($this->comlink->fetchPlayer($member),true));
+        }else if($indx < $segment8){
+          array_push($roster8, json_decode($this->comlink->fetchPlayer($member),true));
+        }else if($indx < $segment9){
+          array_push($roster9, json_decode($this->comlink->fetchPlayer($member),true));
+        }else if($indx < $segment10){
+          array_push($roster10, json_decode($this->comlink->fetchPlayer($member),true));
         }
         $indx += 1;
       }
-
+      //Write Data
       $fullPath = realpath(dirname(__FILE__));
-      $newFile = fopen($fullPath."/guild/guild1.json", "w");
-      $saveData = json_encode($guild1);
+      $newFile = fopen($fullPath."/guild/guildData.json", "w");
+      $saveData = json_encode($guildData);
       fwrite($newFile,$saveData);
       fclose($newFile);
-      echo "Guild segment 1 created.\n";
-      $newFile = fopen($fullPath."/guild/guild2.json", "w");
-      $saveData = json_encode($guild2);
-      fwrite($newFile,$saveData);
-      fclose($newFile);
-      echo "Guild segment 2 created.\n";
-      $newFile = fopen($fullPath."/guild/guild3.json", "w");
-      $saveData = json_encode($guild3);
-      fwrite($newFile,$saveData);
-      fclose($newFile);
-      echo "Guild segment 3 created.\n";
-      $newFile = fopen($fullPath."/guild/guild4.json", "w");
-      $saveData = json_encode($guild4);
-      fwrite($newFile,$saveData);
-      fclose($newFile);
-      echo "Guild segment 4 created.\n";
-      $newFile = fopen($fullPath."/guild/guild5.json", "w");
-      $saveData = json_encode($guild5);
-      fwrite($newFile,$saveData);
-      fclose($newFile);
-      echo "Guild segment 5 created.\n";
+      echo "GuildData created.\n";
+      for($i=1; $i < 11; $i++){
+        $saveSegment = array();
+        switch ($i){
+          case 1:
+            $saveSegment = $roster1;
+            break;
+          case 2:
+            $saveSegment = $roster2;
+            break;
+          case 3:
+            $saveSegment = $roster3;
+            break;
+          case 4:
+            $saveSegment = $roster4;
+            break;
+          case 5:
+            $saveSegment = $roster5;
+            break;
+          case 6:
+            $saveSegment = $roster6;
+            break;
+          case 7:
+            $saveSegment = $roster7;
+            break;
+          case 8:
+            $saveSegment = $roster8;
+            break;
+          case 9:
+            $saveSegment = $roster9;
+            break;
+          case 10:
+            $saveSegment = $roster10;
+            break;
+          default:
+        }
+        $newFile = fopen($fullPath."/guild/roster".$i.".json", "w");
+        $saveData = json_encode($saveSegment);
+        fwrite($newFile,$saveData);
+        fclose($newFile);
+        echo "Roster segment ".$i." created.\n";
+      }
     }
 
     /**
@@ -402,6 +466,8 @@ class DataHandler
                 "exampleSquad" => (count($unit["exampleSquad"]) > 0) ? array_map(function($squad){
                   return array("unitDefId" => $squad["unitDefId"]);
                 }, $unit["exampleSquad"]) : array(),
+                "obtainable" => $unit["obtainable"],
+                "obtainableTime" => $unit["obtainableTime"],
                 "id" => $unit["id"],
                 "nameKey" => $unit["nameKey"],
                 "rarity" => $unit["rarity"],
@@ -461,6 +527,22 @@ class DataHandler
         default:        
       }
       return $tempData;
+    }
+
+    /**
+     * Saves the Player response to the drive
+     * @param array $events Optional: The list of events to include
+     * @param string $startTime Optional: The start data of the event
+     * @param string $endTime Optional: The end date of the event
+     * @param boolean $enums Optional: To return enum values where available. Default is false
+     */
+    public function currentEvents($enums = false){
+      $fullPath = realpath(dirname(__FILE__));
+      $data = json_decode($this->comlink->fetchEvents($enums),true);
+      $newFile = fopen($fullPath."/data/currentEvents.json", "w");
+      $saveData = json_encode($data);
+      fwrite($newFile,$saveData);
+      fclose($newFile);
     }
 
 
@@ -1626,5 +1708,336 @@ class DataHandler
       fclose($newFile);
     }
 
+    /**
+     * Grabs guild data and analyzes member rosters for different recommendations
+     * @param string $leaderboard - The leaderboard to use
+     * @param string $recType - The recommendation files to create
+     * @param integer $count - The number of guilds to analyze 
+     * @param integer $minGear - The minimum gear of a unit to consider
+     * @param string $lang - The language to use. Currently only supports unit names and skill names.
+     */
+    public function buildRecommendations($leaderboard, $recType, $count, $minGear=10, $lang = "ENG_US"){
+      $localize = $this->getLocalization($lang);
+      $data = $this->getFiles("ability");
+      $data["gameData"] = $this->getFiles("custom",array("gameData"))["gameData"];
+      $getStatEnums = array(
+        "fullSet" => array( "Speed"=> 4,"Offense"=>4,"Critical Damage"=>4,"Health"=>2,"Defense"=>2,"Potency"=>2,"Tenacity"=>2,"Critical Chance"=>2),
+        "setBonus" => array( "Health"=>10,"Defense"=>25,"Potency"=>15,"Tenacity"=>20,"Critical Chance"=>8,"Critical Damage"=>30,
+                        "Speed"=>10,"Offense"=>15 ),
+        "setNum" => array( "Health"=> 1, "Offense"=> 2, "Defense"=>3, "Speed"=>4, "Critical Chance"=> 5, "Critical Damage"=>6, "Potency"=>7, "Tenacity"=>8 
+        ),
+        "shapeSlot"=> array("Square"=>1,"Arrow"=>2,"Diamond"=>3,"Triangle"=>4,"Circle"=>5,"Plus"=>6),
+        "setName" => array(
+          1 =>"health",
+          2=>"offense",
+          3=>"defense",
+          4=>"speed",
+          5=>"crit_chance",
+          6=>"crit_dmg",
+          7=>"potency",
+          8=>"tenacity"
+        ),
+        "statName" => array(
+          1=>"health",5=>"speed",16=>"crit_dmg",
+          17=>"potency",18=>"tenacity",28=>"protection",
+          41=>"offense",42=>"defense",48=>"offense_pct",
+          49=>"defense_pct",52=>"accuracy",53=>"crit_chance",
+          54=>"crit_avoid",55=>"health_pct",56=>"protection_pct"
+        ),
+        "primaryName" => array(
+          5=> "speed",
+          16=> "crit_dmg",
+          17=> "potency",
+          18=> "tenacity",
+          48=> "offense",
+          49=> "defense",
+          52=> "accuracy",
+          53=> "crit_chance",
+          54=> "crit_avoid",
+          55=> "health",
+          56=> "protection"
+        ),
+        "slotShape" => array(
+          1=>"square",
+          2=>"arrow",
+          3=>"diamond",
+          4=>"triangle",
+          5=>"circle",
+          6=>"plus"
+        ),
+        "statConv" => array(
+          1=> "health",
+          28=> "protection",
+          5=> "speed",
+          16=> "critical_damage",
+          17=> "potency",
+          18=> "tenacity",
+          27=> "health_steal",	
+          6=> "physical_dmg",
+          14=> "physical_cc",	
+          7=> "special_dmg",
+          15=> "special_cc",
+          37=> "accuracy",
+          8=> "armor",
+          9=> "resistance",
+          39=> "crit_avoid"
+        ),
+        "convStat" => array(
+          "accuracy" => "Accuracy",
+          "crit_avoid" => "Critical Avoidance",
+          "crit_chance" => "Critical Chance",
+          "crit_dmg" => "Critical Damage",
+          "defense" => "Defense",
+          "defense_pct" => "Defense %",
+          "health" => "Health",
+          "health_pct" => "Health %",
+          "offense" => "Offense",
+          "offense_pct" => "Offense %",
+          "potency" => "Potency",
+          "protection" => "Protection",
+          "protection_pct" => "Protection %",
+          "speed" => "Speed",
+          "tenacity" => "Tenacity"
+        ),
+        "convNumStat" => array(
+          53=> "Critical Chance",
+          42=> "Defense",
+          49=> "Defense %",
+          1=> "Health",
+          55=> "Health %",
+          41=> "Offense",
+          48=> "Offense %",
+          17=> "Potency",
+          28=> "Protection",
+          56=> "Protection %",
+          5=> "Speed",
+          18=> "Tenacity"
+        )
+      );
+      $statConv = $getStatEnums["statConv"];
+      $setName = $getStatEnums["setName"];
+      $setNum = $getStatEnums["setNum"];
+      $slotShape = $getStatEnums["slotShape"];
+      $secondaryName = $getStatEnums["statName"];
+      $primaryName = $getStatEnums["primaryName"];
+
+      //Get unit list and set array for units
+      $characterList = array();
+      $characterData = array();
+      $skillList = array();
+      $abilityList = array();
+      $abilityIds = array();
+      foreach($data["ability"] as $ability){
+        $abilityList[$ability["id"]] = array_key_exists($ability["nameKey"], $localize) ? $localize[ $ability["nameKey"] ] : $ability["nameKey"];
+      }
+      foreach($data["skill"] as $skill){
+        $abilityIds[$skill["id"]] = $skill["abilityReference"];
+      }
+      foreach($data["units"] as $unit){
+        if($unit["obtainable"] == true && $unit["rarity"] == 7 && $unit["obtainableTime"] == 0){
+          array_push($characterList, array(
+            "name" => array_key_exists($unit["nameKey"], $localize) ? $localize[ $unit["nameKey"] ] : $unit["nameKey"],
+            "base_id" => $unit["baseId"],
+            "skills" => $data["gameData"]["unitData"][$unit["baseId"]]["skills"]
+          ));
+          foreach($data["gameData"]["unitData"][$unit["baseId"]]["skills"] as $skill){
+            if($skill["isZeta"] || $skill["maxTier"] === 9 || count($skill["powerOverrideTags"]) > 0 ){
+              $zetaTier = null;
+              $omiTier = null;
+              $isOmi = false;
+              foreach($skill["powerOverrideTags"] as $key => $val){
+                if($val === "zeta") { $zetaTier = $key; }
+                if($val === "omicron"){ $isOmi = true; $omiTier = $key; }
+              }
+              if($skill["maxTier"] === 9 ){
+                $omiTier = 9;
+                $isOmi = true;
+              }
+              $skillList[$skill["id"]] = array(
+                "zeta" => $skill["isZeta"],
+                "zetaTier" => $zetaTier,
+                "omicron" => $isOmi,
+                "omicronTier" => $omiTier
+              );
+            }
+          }
+        }
+      }
+      foreach($characterList as $unit){
+        //Build ability data
+        $omicronData = array();
+        $zetaData = array();
+        foreach($unit["skills"] as $skill){
+          if($skill["isZeta"]){
+            $zetaData[$skill["id"]] = array(
+              "name" => $abilityList[ $abilityIds[ $skill["id"] ] ],
+              "tier" => $skillList[ $skill["id"] ]["zetaTier"],
+              "count" => 0
+            );
+          }
+          if(array_key_exists($skill["id"], $skillList) && $skillList[ $skill["id"] ]["omicron"]){
+            $omicronData[$skill["id"]] = array(
+              "name" => $abilityList[ $abilityIds[ $skill["id"] ] ],
+              "tier" => $skillList[ $skill["id"] ]["omicronTier"],
+              "count" => 0
+            );
+          }
+        }
+        //Build full object
+        $characterData[$unit["base_id"]] = array( 
+          "base_id" => $unit["base_id"],
+          "name" => $unit["name"],
+          "count" => 0,
+          "stats_max" => array(
+            "health" => 0,
+            "protection" => 0,
+            "speed" => 0,
+            "critical_damage" => 0,
+            "potency" => 0,
+            "tenacity" => 0,
+            "health_steal" => 0,	
+            "physical_dmg" => 0,
+            "physical_cc" => 0,	
+            "special_dmg" => 0,
+            "special_cc" => 0,
+            "accuracy" => 0,
+            "armor" => 0,
+            "resistance" => 0,
+            "crit_avoid" => 0
+          ),
+          "stats_avg" => array(
+            "health" => 0,
+            "protection" => 0,
+            "speed" => 0,
+            "critical_damage" => 0,
+            "potency" => 0,
+            "tenacity" => 0,
+            "health_steal" => 0,	
+            "physical_dmg" => 0,
+            "physical_cc" => 0,	
+            "special_dmg" => 0,
+            "special_cc" => 0,
+            "accuracy" => 0,
+            "armor" => 0,
+            "resistance" => 0,
+            "crit_avoid" => 0
+          ),
+          "mods_set" => array(
+            "sets" => array(),
+            "health" => 0,
+            "defense" => 0,
+            "potency" => 0,
+            "tenacity" => 0,
+            "crit_chance" => 0,
+            "speed" => 0,
+            "offense" => 0,
+            "crit_dmg" => 0
+          ),
+          "mods_primary" => array(
+            "arrow" => array(
+              "speed" => 0,
+              "accuracy" => 0,
+              "crit_avoid" => 0,
+              "health" => 0,
+              "protection" => 0,
+              "offense" => 0,
+              "defense" => 0
+            ),
+            "triangle" => array(
+              "crit_chance" => 0,
+              "crit_dmg" => 0,
+              "health" => 0,
+              "protection" => 0,
+              "offense" => 0,
+              "defense" => 0
+            ),
+            "plus" => array(
+              "potency" => 0,
+              "tenacity" => 0,
+              "health" => 0,
+              "protection" => 0,
+              "offense" => 0,
+              "defense" => 0
+            ),
+            "circle" => array(
+              "health" => 0,
+              "protection" => 0
+            )
+          ),
+          "mods_secondary" => array(
+            "crit_chance" => 0,
+            "defense" => 0,
+            "defense_pct" => 0,
+            "health" => 0,
+            "health_pct" => 0,
+            "offense" => 0,
+            "offense_pct" => 0,
+            "potency" => 0,
+            "protection" => 0,
+            "protection_pct" => 0,
+            "speed" => 0,
+            "tenacity" => 0
+          ),
+          "zetas" => $zetaData,
+          "omicrons" => $omicronData
+        );
+      }
+
+      //Get Leaderboard Data
+      $event = null;
+      switch($leaderboard){
+        case "raid":
+          $board = 0;
+          break;
+        case "pvp":
+          $board = 5;
+          $event = "TERRITORY_WAR_LEADERBOARD";
+          break;
+        default:
+          $board = 3;
+      }
+      $boardData = json_decode($this->comlink->fetchGuildLeaderboard($board,$count, 1, $event),true);
+      //Get Guild member ids
+      $memberIds = array();
+      $guildIds = array();
+      foreach($boardData["leaderboard"][0]["guild"] as $guild){
+        array_push($guildIds, $guild["id"]);
+      }
+      foreach($guildIds as $guild){
+        $guildData = json_decode($this->comlink->fetchGuild($guild),true);
+        foreach($guildData["guild"]["member"] as $member){
+          array_push($memberIds, $member["playerId"]);
+        }
+      }
+      $boardData = null;
+      $guildIds = null;
+
+      //Get player data and build out unit data
+      $modCount = 0;
+      $gearGoal = (strpos($minGear,"R") !==false) ? substr($minGear,1) : $minGear;
+      $modRolls = array("1_pips" => array(),"2_pips" => array(),"3_pips" => array(),"4_pips" => array(),"5_pips" => array(), "6_pips" => array(), "7_pips" => array());
+      $rawRollCounts = array("1_pips" => array(),"2_pips" => array(),"3_pips" => array(),"4_pips" => array(),"5_pips" => array(), "6_pips" => array(), "7_pips" => array());
+      $test = array();
+      $startTime = time();
+      foreach($memberIds as $member){
+        $memberData = json_decode($this->comlink->fetchPlayer($member),true);
+
+        foreach($memberData["rosterUnit"] as $unit){
+          $gear = (strpos($minGear,"R") !==false) ? $unit["relic"]["currentTier"] : $unit["currentTier"];
+          if($unit["currentRarity"] === 7 && $gear >= $gearGoal){
+          }
+        }
+        //Add data to objects
+        array_push($test, $memberData["name"]);
+
+        //Exit loop and use what you have if time exceeds limit.
+        $runTime = time() - $startTime;
+        if($runTime >= 4800){ break; }
+      }
+      $endTime = time();
+      $speed = $endTime - $startTime;
+      echo "Time taken: ".$speed."\n";
+
+    }
 }
 ?>
