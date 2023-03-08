@@ -59,11 +59,11 @@ Retrieves the player profile belonging to the ally code provided.\
  password {string} | Optional - the secret key or password needed by SWGOH Comlink if any
 ```
 
-#### getGuildData(allyCodes, host, port, username, password)
-Retrieves multiple player profiles belonging to each specified ally code provided.\
+#### getGuildData(ids, host, port, username, password)
+Retrieves up to 2 guild profiles and guild rosters belonging to each specified ally code, player id, or guild id.\
 **Parameters:**
 ```
- allyCodes {array} - each ally code in up to two guilds
+ ids {array} - up to 2 ally codes, player ids, or guild ids to get guild profile(s) for
  host {string} | Optional - the web address SWGOH Comlink is running on. Default is http://localhost:
  port {integer} | Optional - the port SWGOH Comlink is running on. Default is 3000
  username {string} | Optional - the access key or username needed by SWGOH Comlink if any
