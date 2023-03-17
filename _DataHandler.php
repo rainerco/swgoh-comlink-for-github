@@ -394,13 +394,19 @@ class DataHandler
                 "limitBreakRef" => (count($unit["limitBreakRef"]) > 0) ? array_map(function($ability){
                   return array(
                     "abilityId" => $ability["abilityId"],
-                    "requiredTier" => $ability["requiredTier"]
+                    "requiredTier" => $ability["requiredTier"],
+                    "requiredRelicTier" => $ability["requiredRelicTier"],
+                    "powerAdditiveTage" => $ability["powerAdditiveTag"],
+                    "unlockRecipeId" => $ability["unlockRecipeId"]
                   );
                 },$unit["limitBreakRef"]) : array(),
                 "uniqueAbilityRef" =>  (count($unit["uniqueAbilityRef"]) > 0) ? array_map(function($ability){
                   return array(
                     "abilityId" => $ability["abilityId"],
-                    "requiredTier" => $ability["requiredTier"]
+                    "requiredTier" => $ability["requiredTier"],
+                    "requiredRelicTier" => $ability["requiredRelicTier"],
+                    "powerAdditiveTage" => $ability["powerAdditiveTag"],
+                    "unlockRecipeId" => $ability["unlockRecipeId"]
                   );
                 },$unit["uniqueAbilityRef"]) : array(),
                 "crew" => $unit["crew"],
@@ -428,11 +434,17 @@ class DataHandler
                 "creationRecipeReference" => $unit["creationRecipeReference"],
                 "basicAttackRef" =>  array(
                     "abilityId" => $unit["basicAttackRef"]["abilityId"],
-                    "requiredTier" => $unit["basicAttackRef"]["requiredTier"]
+                    "requiredTier" => $unit["basicAttackRef"]["requiredTier"],
+                    "requiredRelicTier" => $unit["basicAttackRef"]["requiredRelicTier"],
+                    "powerAdditiveTage" => $unit["basicAttackRef"]["powerAdditiveTag"],
+                    "unlockRecipeId" => $unit["basicAttackRef"]["unlockRecipeId"]
                   ),
                 "leaderAbilityRef" => ($unit["leaderAbilityRef"] !== null) ? array(
                     "abilityId" => $unit["leaderAbilityRef"]["abilityId"],
-                    "requiredTier" => $unit["leaderAbilityRef"]["requiredTier"]
+                    "requiredTier" => $unit["leaderAbilityRef"]["requiredTier"],
+                    "requiredRelicTier" => $unit["leaderAbilityRef"]["requiredRelicTier"],
+                    "powerAdditiveTage" => $unit["leaderAbilityRef"]["powerAdditiveTag"],
+                    "unlockRecipeId" => $unit["leaderAbilityRef"]["unlockRecipeId"]
                   ) : null,
                 "baseStat" => $unit["baseStat"],
                 "legend" => $unit["legend"],
