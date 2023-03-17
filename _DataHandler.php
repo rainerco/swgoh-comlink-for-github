@@ -396,7 +396,7 @@ class DataHandler
                     "abilityId" => $ability["abilityId"],
                     "requiredTier" => $ability["requiredTier"],
                     "requiredRelicTier" => $ability["requiredRelicTier"],
-                    "powerAdditiveTage" => $ability["powerAdditiveTag"],
+                    "powerAdditiveTag" => $ability["powerAdditiveTag"],
                     "unlockRecipeId" => $ability["unlockRecipeId"]
                   );
                 },$unit["limitBreakRef"]) : array(),
@@ -405,7 +405,7 @@ class DataHandler
                     "abilityId" => $ability["abilityId"],
                     "requiredTier" => $ability["requiredTier"],
                     "requiredRelicTier" => $ability["requiredRelicTier"],
-                    "powerAdditiveTage" => $ability["powerAdditiveTag"],
+                    "powerAdditiveTag" => $ability["powerAdditiveTag"],
                     "unlockRecipeId" => $ability["unlockRecipeId"]
                   );
                 },$unit["uniqueAbilityRef"]) : array(),
@@ -436,14 +436,14 @@ class DataHandler
                     "abilityId" => $unit["basicAttackRef"]["abilityId"],
                     "requiredTier" => $unit["basicAttackRef"]["requiredTier"],
                     "requiredRelicTier" => $unit["basicAttackRef"]["requiredRelicTier"],
-                    "powerAdditiveTage" => $unit["basicAttackRef"]["powerAdditiveTag"],
+                    "powerAdditiveTag" => $unit["basicAttackRef"]["powerAdditiveTag"],
                     "unlockRecipeId" => $unit["basicAttackRef"]["unlockRecipeId"]
                   ),
                 "leaderAbilityRef" => ($unit["leaderAbilityRef"] !== null) ? array(
                     "abilityId" => $unit["leaderAbilityRef"]["abilityId"],
                     "requiredTier" => $unit["leaderAbilityRef"]["requiredTier"],
                     "requiredRelicTier" => $unit["leaderAbilityRef"]["requiredRelicTier"],
-                    "powerAdditiveTage" => $unit["leaderAbilityRef"]["powerAdditiveTag"],
+                    "powerAdditiveTag" => $unit["leaderAbilityRef"]["powerAdditiveTag"],
                     "unlockRecipeId" => $unit["leaderAbilityRef"]["unlockRecipeId"]
                   ) : null,
                 "baseStat" => $unit["baseStat"],
