@@ -1,6 +1,6 @@
 <?php
 require_once '_Comlink.php';
-require_once '_StatCalc.php';
+//require_once '_StatCalc.php';
 ini_set('memory_limit', '6048M');
 
 /**
