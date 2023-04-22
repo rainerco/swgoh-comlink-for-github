@@ -30,12 +30,13 @@ Next ***choose to Clone a Repository*** and clone the forked version you made of
 ***Download the latest binary file version of [SWGoH Comlink](https://github.com/swgoh-utils/swgoh-comlink/releases)*** to your computer.
 
 ## Step 5
-***Download the latest version of [PHP](https://www.php.net/downloads)*** for your operating system if you do not already have it installed.
+***Download the latest version of PHP*** for your operating system if you do not already have it installed. The easiest way to get it installed with all needed files is to download [XAMPP](https://www.apachefriends.org/download.html).
 ### Steps to install PHP
-1. To see if you have php installed you can either go to the command line using cmd.exe or Terminal and enter `php -v`. If you have it installed it will show you the version information and you can skip ahead to 3.
-2. If you do not have php installed download the proper file from the link above. FOr windows you want to grab the most recent stable version that says **Thread Safe**. If you have a 32 bit operating system you will grab the file with `x86 Thread Safe` in the title, for 64 bit operating systems you will grab the file with `x64 Thread Safe` in the title.
-3. After you have installed/unzipped the file into the directory you want it in, you may need to set the environment variable to recognize it. In the search bar for Windows type Environment Variable and select the option that says Edit the system environment variables. Click Environment Variables at the bottom of the window that pops up. You need to slect the `Path` variable and then choose Edit. Add a ; followed by the full file path to the php.exe file. Do this to both the top box and the bottom box.
-4. Go to the command line tool and enter `php -v` to verify php was installed correctly and is working.
+1. To see if you have php installed you can either go to the command line using cmd.exe or Terminal and enter `php -v`. If you have it installed it will show you the version information.
+2. Next, check to see if it has curl installed with it. Go to the command line using cmd.exe or Terminal and enter `php -i`. If you have it installed it will show you a section near the top labeled curl with the next line showing _cURL support = enable_.
+3. If you do not have either of these you will need to install [XAMPP](https://www.apachefriends.org/download.html) from the link above choosing the appropriate operating system. During installation if you like, you can disable all additional options it shows such as perl, mySQL, etc. XAMPP is software that creates your own apache server locally on your computer and those options are just additional tools if you plan to use it for that, otherwise the base installation with php is sufficient.
+4. After you have installed XAMPP into the directory you want it in, you may need to set the environment variable on your operating system to recognize it. In the search bar for Windows type Environment Variable and select the option that says Edit the system environment variables. Click Environment Variables at the bottom of the window that pops up. You need to slect the `Path` variable and then choose Edit. Add a ; followed by the full file path to the php.exe file. Do this to both the top box and the bottom box.
+5. Go to the command line tool and enter `php -v` to verify php was installed correctly and is working.
 
 ## Step 6
 ***Open your command line tool*** by using _cmd.exe in the search box for windows_ or _terminal for linux/mac_. Run Comlink by entering the full file path followed by `--name "Comlink for GitHub"`. If you want you can use anything you want for the name.\

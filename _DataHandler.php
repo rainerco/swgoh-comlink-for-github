@@ -265,6 +265,9 @@ class DataHandler
      * @param string $useAlly Assigns the file name either allycode or playerid. Default is Allycode
      */
     public function playerData($allyCode, $useAlly = true){
+      if( !is_array($allyCode) ){
+        $allyCode = array($allyCode);
+      }
       foreach($allyCode as $id){
         $data = json_decode($this->comlink->fetchPlayer($id),true);
         if($useAlly){

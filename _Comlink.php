@@ -31,6 +31,14 @@ class Comlink
     private $guild;
     private $metadata;
     private $localization;
+    private $playerArena;
+    private $getEvents;
+    private $getGuilds;
+    private $getLeaderboard;
+    private $getGuildLeaderboard;
+    private $hmac;
+    private $accessKey;
+    private $secretKey;
 
     /** 
      * @param string $host - The web address the api is running on. Default is localhost.
