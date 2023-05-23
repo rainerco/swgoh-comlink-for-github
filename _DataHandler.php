@@ -309,13 +309,13 @@ class DataHandler
         fwrite($newFile,$saveData);
         fclose($newFile);
         echo "Guild profile created for ".$guildData["guild"]["profile"]["name"].".\n";
+        $memCount = count($guildData["guild"]["member"]);
         $indx = 1;
-        $limit = 10;
         $counter = 0;
         foreach($guildData["guild"]["member"] as $member){
           array_push($memberData, json_decode($this->comlink->fetchPlayer($member["playerId"]),true));
           $counter++;
-          if($counter === 10){
+          if($counter === 10 || $counter === $memCount){
             $newFile = fopen($fullPath."/guild/".$fileName."_ROSTER".$indx.".json", "w");
             $saveData = json_encode($memberData);
             fwrite($newFile,$saveData);
@@ -324,9 +324,17 @@ class DataHandler
             //Reset counters and data
             $memberData = array();
             $indx++;
+            $memCount = $memCount - 10;
             $counter = 0;
           }
-        }  
+        }
+        while($indx < 6){
+          $newFile = fopen($fullPath."/guild/".$fileName."_ROSTER".$indx.".json", "w");
+          $saveData = json_encode(array());
+          fwrite($newFile,$saveData);
+          fclose($newFile);
+          $indx++;
+        }
       }
     }
 
